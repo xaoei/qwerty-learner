@@ -1,0 +1,11430 @@
+[
+ {
+  "name": "A.D.",
+  "trans": "公元"
+ },
+ {
+  "name": "Africa",
+  "trans": "n.非洲"
+ },
+ {
+  "name": "African",
+  "trans": "n.非洲人adj.非洲的"
+ },
+ {
+  "name": "America",
+  "trans": "n.<美>美国,美洲(包括北美和南美洲)"
+ },
+ {
+  "name": "American",
+  "trans": "n.美国人,美洲人adj.美国的,美洲的"
+ },
+ {
+  "name": "April",
+  "trans": "n.四月(略作Apr)"
+ },
+ {
+  "name": "Atlantic",
+  "trans": "n.大西洋adj.大西洋的"
+ },
+ {
+  "name": "August",
+  "trans": "adj.令人敬畏的,威严的n.八月(略作Aug) August 八月"
+ },
+ {
+  "name": "B.C.",
+  "trans": "公元前"
+ },
+ {
+  "name": "Bible",
+  "trans": "n.<<圣经>>"
+ },
+ {
+  "name": "Britain",
+  "trans": "n.英国"
+ },
+ {
+  "name": "China",
+  "trans": "n.中国,瓷器"
+ },
+ {
+  "name": "Chinese",
+  "trans": "adj.中国的,中国人的,中国话的,汉语的n.中国人,中国话,汉语,中文"
+ },
+ {
+  "name": "Christmas",
+  "trans": "n.(纪念耶稣基督生的节日,12月25日)圣诞节"
+ },
+ {
+  "name": "December",
+  "trans": "n.十二月(略作Dec)"
+ },
+ {
+  "name": "England",
+  "trans": "n.英格兰(英国的主要部分),英格兰和威尔士,英国"
+ },
+ {
+  "name": "English",
+  "trans": "adj.英文的,英国人的,英格兰的n.英国人,英语"
+ },
+ {
+  "name": "Europe",
+  "trans": "n.欧洲"
+ },
+ {
+  "name": "European",
+  "trans": "adj.欧洲的,欧洲人的n.欧洲人"
+ },
+ {
+  "name": "February",
+  "trans": "n.二月(略作Feb)"
+ },
+ {
+  "name": "French",
+  "trans": "n.法国人,法语adj.法国的,法国人的,法语的"
+ },
+ {
+  "name": "German",
+  "trans": "n.德国人,德语adj.德国的,德国人的,德语的"
+ },
+ {
+  "name": "Germany",
+  "trans": "n.德国"
+ },
+ {
+  "name": "Greek",
+  "trans": "adj.希腊的,希腊人的,希腊语的n.希腊人,希腊语"
+ },
+ {
+  "name": "Indian",
+  "trans": "adj.印度的,印度人的,印第安人的n.印度人,印第安人,印第安语"
+ },
+ {
+  "name": "Italian",
+  "trans": "n.意大利人,意大利语adj.意大利的,意大利语的,意大利文化的"
+ },
+ {
+  "name": "January",
+  "trans": "n.一月(略作Jan)"
+ },
+ {
+  "name": "Japanese",
+  "trans": "adj.日本的,日本人的,日语的n.日本人,日语,日文"
+ },
+ {
+  "name": "July",
+  "trans": "n.七月(略作Jul)"
+ },
+ {
+  "name": "June",
+  "trans": "n.六月(略作Jun)"
+ },
+ {
+  "name": "March",
+  "trans": "n.行军,步伐,进行曲vi.进军,前进vt.使行军,使行进n.(March)三月(略作Mar)"
+ },
+ {
+  "name": "May",
+  "trans": "aux.可能,也许,可以,祝,愿n.(May) 五月,能,可能"
+ },
+ {
+  "name": "Monday",
+  "trans": "n.星期一"
+ },
+ {
+  "name": "Mount",
+  "trans": "n.乘用马,衬纸,山,装配vi.乘马,爬上,增长vt.爬上,使上马,装上,设置,安放,制作...的标本,上演"
+ },
+ {
+  "name": "Negro",
+  "trans": "n.黑人"
+ },
+ {
+  "name": "November",
+  "trans": "n.十一月(略作Nov)"
+ },
+ {
+  "name": "October",
+  "trans": "n.十月(略作Oct)"
+ },
+ {
+  "name": "Pacific",
+  "trans": "太平洋"
+ },
+ {
+  "name": "Roman",
+  "trans": "adj.罗马的,罗马人的n.罗马人,罗马字体"
+ },
+ {
+  "name": "Russian",
+  "trans": "n.俄国人,俄语adj.俄国的,俄国人的,俄语的"
+ },
+ {
+  "name": "Saturday",
+  "trans": "n.星期六"
+ },
+ {
+  "name": "September",
+  "trans": "n.九月(略作Sep)"
+ },
+ {
+  "name": "Spanish",
+  "trans": "adj.西班牙的,西班牙人的,西班牙语的n.西班牙人,西班牙语"
+ },
+ {
+  "name": "Sunday",
+  "trans": "n.星期日"
+ },
+ {
+  "name": "Thursday",
+  "trans": "n.星期四"
+ },
+ {
+  "name": "Tuesday",
+  "trans": "n.星期二"
+ },
+ {
+  "name": "Wednesday",
+  "trans": "n.星期三"
+ },
+ {
+  "name": "abandon",
+  "trans": "vt.放弃,遗弃;n.放任,狂热"
+ },
+ {
+  "name": "ability",
+  "trans": "n.能力,才干"
+ },
+ {
+  "name": "aboard",
+  "trans": "adv.在船(飞机、车)上,上船(飞机、车) prep.在(船、飞机、车)上,上(船、飞机、车)"
+ },
+ {
+  "name": "absence",
+  "trans": "n.不在,缺席,缺乏,没有"
+ },
+ {
+  "name": "absolute",
+  "trans": "adj.完全的,绝对的"
+ },
+ {
+  "name": "absolutely",
+  "trans": "adv.完全地,绝对地"
+ },
+ {
+  "name": "absorb",
+  "trans": "vt.吸收,吸引"
+ },
+ {
+  "name": "abuse",
+  "trans": "n.滥用,虐待,辱骂,陋习,弊端v.滥用,虐待,辱骂"
+ },
+ {
+  "name": "academic",
+  "trans": "adj.学院的,理论的"
+ },
+ {
+  "name": "accelerate",
+  "trans": "v.加速,促进"
+ },
+ {
+  "name": "accent",
+  "trans": "n.重音,口音,重音符"
+ },
+ {
+  "name": "accept",
+  "trans": "vt.接受,认可,承担,承兑vi.同意,承认"
+ },
+ {
+  "name": "acceptance",
+  "trans": "n.接受,承诺,容忍,赞同,相信"
+ },
+ {
+  "name": "accident",
+  "trans": "n.意外事件,事故"
+ },
+ {
+  "name": "accompany",
+  "trans": "vt.陪伴,伴奏"
+ },
+ {
+  "name": "accomplish",
+  "trans": "vt.完成,达到,实现"
+ },
+ {
+  "name": "accordance",
+  "trans": "n.一致,和谐"
+ },
+ {
+  "name": "account",
+  "trans": "n.计算,帐目,说明,估计,理由;vi.说明,总计有,认为,得分;vt.认为"
+ },
+ {
+  "name": "accumulate",
+  "trans": "v.积聚,堆积"
+ },
+ {
+  "name": "accurate",
+  "trans": "adj.正确的,精确的"
+ },
+ {
+  "name": "accuse",
+  "trans": "vt.控告,谴责,非难"
+ },
+ {
+  "name": "accustomed",
+  "trans": "adj.通常的,习惯的,按照风俗习惯的"
+ },
+ {
+  "name": "ache",
+  "trans": "n.疼痛vi.觉得疼痛,渴望"
+ },
+ {
+  "name": "achieve",
+  "trans": "vt.完成,达到"
+ },
+ {
+  "name": "achievement",
+  "trans": "n.成就,功绩"
+ },
+ {
+  "name": "acid",
+  "trans": "n.酸,<俚>迷幻药;adj.酸的,讽刺的,刻薄的;\"\"atomicity,consistency,isolation,and durability\"\" 原子性,一致性,不相关性和持久性"
+ },
+ {
+  "name": "acquaintance",
+  "trans": "n.相识,熟人"
+ },
+ {
+  "name": "acquire",
+  "trans": "vt.获得,学到"
+ },
+ {
+  "name": "acre",
+  "trans": "n.英亩,(pl.)地产,大片田地"
+ },
+ {
+  "name": "across",
+  "trans": "adv.横过,交叉地,在对面 prep.越过,交叉,在...的那边,在...对面那边"
+ },
+ {
+  "name": "act",
+  "trans": "n.幕,法案,法令,动作,举动,节目,(戏剧的)幕vi.行动,产生...的效果,担当,表演,假装,表现,见效vt.扮演,装作"
+ },
+ {
+  "name": "action",
+  "trans": "n.动作,作用,战斗,行动,举动,行为,(戏剧或书中)的情节,(某一地区、领域或团体中)最能产生效果、最有趣、最有刺激性的活动vt.对...起诉"
+ },
+ {
+  "name": "active",
+  "trans": "adj.积极的,能起作用的,现行的,[语法]主动的,活动的,活跃的,活性的;n.[语法] 主动语态,积极分子"
+ },
+ {
+  "name": "activity",
+  "trans": "n.活跃,活动性,行动,行为,[核]放射性"
+ },
+ {
+  "name": "actor",
+  "trans": "n.男演员,行动者,参与者"
+ },
+ {
+  "name": "actress",
+  "trans": "n.女演员"
+ },
+ {
+  "name": "actual",
+  "trans": "adj.实际的,真实的,现行的,目前的"
+ },
+ {
+  "name": "actually",
+  "trans": "adv.实际上,事实上,竟然,居然,如今"
+ },
+ {
+  "name": "addition",
+  "trans": "n.加,加起来,增加物,增加,加法"
+ },
+ {
+  "name": "additional",
+  "trans": "adj.另外的,附加的,额外的"
+ },
+ {
+  "name": "adequate",
+  "trans": "足够的，恰当的"
+ },
+ {
+  "name": "adjective",
+  "trans": "n.形容词"
+ },
+ {
+  "name": "adjust",
+  "trans": "vt.调整,调节,校准,使适合"
+ },
+ {
+  "name": "administration",
+  "trans": "/[)n/n.管理,经营,衅]网络管理"
+ },
+ {
+  "name": "admire",
+  "trans": "v.赞美,钦佩,羡慕"
+ },
+ {
+  "name": "admit",
+  "trans": "v.容许,承认,接纳"
+ },
+ {
+  "name": "adopt",
+  "trans": "vt.采用,收养"
+ },
+ {
+  "name": "adult",
+  "trans": "n.成人,成年人adj.成人的,成熟的"
+ },
+ {
+  "name": "advance",
+  "trans": "n.前进,提升,预付款v.前进,提前,预付adj.前面的,预先的 预付(款项)"
+ },
+ {
+  "name": "advanced",
+  "trans": "adj.高级的,年老的,先进的"
+ },
+ {
+  "name": "advantage",
+  "trans": "n.优势,有利条件,利益"
+ },
+ {
+  "name": "adventure",
+  "trans": "n.冒险,冒险的经历v.冒险"
+ },
+ {
+  "name": "adverb",
+  "trans": "n.副词"
+ },
+ {
+  "name": "advertisement",
+  "trans": "n.广告,做广告"
+ },
+ {
+  "name": "advice",
+  "trans": "n.忠告,建议,[商]通知"
+ },
+ {
+  "name": "advise",
+  "trans": "vt.劝告,忠告,警告,建议"
+ },
+ {
+  "name": "affair",
+  "trans": "n.事务,事件,私事,恋爱事件,(尤指关系不长久的)风流韵事"
+ },
+ {
+  "name": "affect",
+  "trans": "vt.影响,感动,侵袭,假装"
+ },
+ {
+  "name": "affection",
+  "trans": "n.友爱,爱情,影响,疾病,倾向"
+ },
+ {
+  "name": "afford",
+  "trans": "vt.提供,给予,供应得起,"
+ },
+ {
+  "name": "afraid",
+  "trans": "adj.害怕,担心"
+ },
+ {
+  "name": "after",
+  "trans": "adv.prep.conj.在...之后,在...后面,模仿,与...一致,以...命名,后来的,后面的"
+ },
+ {
+  "name": "against",
+  "trans": "prep.相反,反对,逆着,靠着,倚着"
+ },
+ {
+  "name": "agent",
+  "trans": "n.代理(商)"
+ },
+ {
+  "name": "aggressive",
+  "trans": "adj.好斗的,敢作敢为的,有闯劲的,侵略性的"
+ },
+ {
+  "name": "agreement",
+  "trans": "n.同意,一致,协定,协议"
+ },
+ {
+  "name": "agriculture",
+  "trans": "n.农业,农艺,农学"
+ },
+ {
+  "name": "aid",
+  "trans": "n.帮助,援助,帮助者,有帮助的事物;vt.资助,援助,帮助;Association Identifier,相关标识"
+ },
+ {
+  "name": "aim",
+  "trans": "n.目标,目的,瞄准v.对...瞄准,打算"
+ },
+ {
+  "name": "aircraft",
+  "trans": "n.航行器"
+ },
+ {
+  "name": "airline",
+  "trans": "n.定期航线"
+ },
+ {
+  "name": "airport",
+  "trans": "n.<主美>小型民用机场,私人飞机降落场"
+ },
+ {
+  "name": "alarm",
+  "trans": "n.警报,惊慌,警告器vt.恐吓,警告"
+ },
+ {
+  "name": "alcohol",
+  "trans": "n.酒精,酒"
+ },
+ {
+  "name": "alike",
+  "trans": "adj.相同的,相似的adv.以同样的方式,类似于"
+ },
+ {
+  "name": "alive",
+  "trans": "adj.活着的,活泼的"
+ },
+ {
+  "name": "allow",
+  "trans": "vt.允许,承认"
+ },
+ {
+  "name": "almost",
+  "trans": "adv.几乎,差不多"
+ },
+ {
+  "name": "along",
+  "trans": "adv.往前,向前 prep.顺着,沿着"
+ },
+ {
+  "name": "aloud",
+  "trans": "adv.大声地"
+ },
+ {
+  "name": "alphabet",
+  "trans": "n.字母表"
+ },
+ {
+  "name": "alter",
+  "trans": "v.改变"
+ },
+ {
+  "name": "although",
+  "trans": "conj.虽然,尽管"
+ },
+ {
+  "name": "altogether",
+  "trans": "adv.完全地,总而言之"
+ },
+ {
+  "name": "amaze",
+  "trans": "vt.使吃惊"
+ },
+ {
+  "name": "ambition",
+  "trans": "n.野心,雄心"
+ },
+ {
+  "name": "ambulance",
+  "trans": "n.战时流动医院,救护车"
+ },
+ {
+  "name": "amount",
+  "trans": "n.数量vi.(to) 总计,等于"
+ },
+ {
+  "name": "amuse",
+  "trans": "vt.使发笑,使愉快"
+ },
+ {
+  "name": "analysis",
+  "trans": "n.分析,分解"
+ },
+ {
+  "name": "analyze/analyse",
+  "trans": "vt.分析,分解"
+ },
+ {
+  "name": "ancestor",
+  "trans": "n.祖先,祖宗"
+ },
+ {
+  "name": "anchor",
+  "trans": "n.锚v.抛锚,锚定"
+ },
+ {
+  "name": "ancient",
+  "trans": "adj.远古的,旧的"
+ },
+ {
+  "name": "anger",
+  "trans": "n.怒,愤怒v.恼火"
+ },
+ {
+  "name": "angle",
+  "trans": "n.[数]角,角落vi.钓鱼,追逐"
+ },
+ {
+  "name": "ankle",
+  "trans": "n.[解]踝"
+ },
+ {
+  "name": "announce",
+  "trans": "vt.宣布,通告"
+ },
+ {
+  "name": "annoy",
+  "trans": "vt.使苦恼,骚扰"
+ },
+ {
+  "name": "annual",
+  "trans": "n.一年生植物,年刊,年鉴adj.一年一次的,每年的,一年生的"
+ },
+ {
+  "name": "anticipate",
+  "trans": "vt.预期,期望,过早使用,先人一着,占先v.预订,预见,可以预料"
+ },
+ {
+  "name": "anxiety",
+  "trans": "n.忧虑,焦急,渴望,热望"
+ },
+ {
+  "name": "anxious",
+  "trans": "adj.观念的,担忧的,渴望的,盼望的"
+ },
+ {
+  "name": "anyhow",
+  "trans": "adv.无论如何,总之"
+ },
+ {
+  "name": "apart",
+  "trans": "adv.分离,分成零件,分别地,分离着adj.分开的"
+ },
+ {
+  "name": "apartment",
+  "trans": "n.<美>公寓住宅,单元住宅,房间"
+ },
+ {
+  "name": "apologize/-ise",
+  "trans": "vi.道歉,辩白"
+ },
+ {
+  "name": "apology",
+  "trans": "n.(为某种思想,宗教,哲学等)辩解,道歉"
+ },
+ {
+  "name": "apparent",
+  "trans": "adj.显然的,外观上的"
+ },
+ {
+  "name": "appear",
+  "trans": "vi.出现,看来,似乎,公开露面,出版,发表"
+ },
+ {
+  "name": "appearance",
+  "trans": "n.出现,露面,外貌,外观"
+ },
+ {
+  "name": "appetite",
+  "trans": "n.食欲,胃口,欲望,爱好"
+ },
+ {
+  "name": "application",
+  "trans": "n.请求,申请,申请表,应用,运用,施用,敷用 应用,应用程序,应用软件"
+ },
+ {
+  "name": "apply",
+  "trans": "vt.申请,应用vi.申请,适用"
+ },
+ {
+  "name": "appoint",
+  "trans": "vt.约定,指定(时间,地点),任命,委任"
+ },
+ {
+  "name": "appointment",
+  "trans": "约会，约见，任命"
+ },
+ {
+  "name": "approach",
+  "trans": "n.接近,逼近,走进,方法,步骤,途径,通路vt.接近,动手处理vi.靠近"
+ },
+ {
+  "name": "appropriate",
+  "trans": "adj.适当的"
+ },
+ {
+  "name": "approve",
+  "trans": "vi.赞成,满意vt.批准,通过v.批准"
+ },
+ {
+  "name": "approximately",
+  "trans": "adv.近似地,大约"
+ },
+ {
+  "name": "arbitrary",
+  "trans": "adj.任意的,武断的,独裁的,专断的"
+ },
+ {
+  "name": "architecture",
+  "trans": "n.建筑,建筑学 体系机构"
+ },
+ {
+  "name": "area",
+  "trans": "n.范围,区域,面积,地区,空地"
+ },
+ {
+  "name": "argue",
+  "trans": "vi.争论,辩论vt.说服"
+ },
+ {
+  "name": "argument",
+  "trans": "n.争论,辩论,论据,论点,～ (for,against),意见"
+ },
+ {
+  "name": "arise",
+  "trans": "vi.出现,发生,起因于"
+ },
+ {
+  "name": "arithmetic",
+  "trans": "n.算术,算法"
+ },
+ {
+  "name": "arouse",
+  "trans": "vt.唤醒,唤起,鼓励,引起vi.睡醒"
+ },
+ {
+  "name": "arrange",
+  "trans": "v.安排,排列,协商"
+ },
+ {
+  "name": "arrangement",
+  "trans": "n.排列,安排"
+ },
+ {
+  "name": "arrest",
+  "trans": "vt.逮捕,拘留,吸引n.逮捕,拘留"
+ },
+ {
+  "name": "arrow",
+  "trans": "n.箭,箭头记号"
+ },
+ {
+  "name": "article",
+  "trans": "n.文章,论文,物品,商品,项目,条款v.清楚说出adj.表达清晰的"
+ },
+ {
+  "name": "artificial",
+  "trans": "adj.人造的,假的,非原产地的"
+ },
+ {
+  "name": "artist",
+  "trans": "n.艺术家,画家"
+ },
+ {
+  "name": "ash",
+  "trans": "n.灰,灰烬,[植]岑树"
+ },
+ {
+  "name": "ashamed",
+  "trans": "adj.惭愧的,羞耻的"
+ },
+ {
+  "name": "aside",
+  "trans": "adv.在旁边,到旁边"
+ },
+ {
+  "name": "assemble",
+  "trans": "vt.集合,聚集,装配vi.集合"
+ },
+ {
+  "name": "assembly",
+  "trans": "n.集合,装配,集会,集结,汇编"
+ },
+ {
+  "name": "assignment",
+  "trans": "n.分配,委派,任务,(课外)作业"
+ },
+ {
+  "name": "assist",
+  "trans": "v.援助,帮助"
+ },
+ {
+  "name": "assistance",
+  "trans": "n.协助,援助,补助,<英>国家补助"
+ },
+ {
+  "name": "assistant",
+  "trans": "n.助手,助教adj.辅助的,助理的"
+ },
+ {
+  "name": "assume",
+  "trans": "vt.假定,设想,采取,呈现"
+ },
+ {
+  "name": "assure",
+  "trans": "vt.断然地说,确告,保证,担保"
+ },
+ {
+  "name": "astonish",
+  "trans": "vt.使惊讶"
+ },
+ {
+  "name": "astronaut",
+  "trans": "n.太空人,宇航员"
+ },
+ {
+  "name": "atmosphere",
+  "trans": "n.大气,空气,气氛"
+ },
+ {
+  "name": "atom",
+  "trans": "n.原子"
+ },
+ {
+  "name": "attach",
+  "trans": "vt.缚上,系上,贴上v.配属,隶属于"
+ },
+ {
+  "name": "attack",
+  "trans": "n.进攻,攻击,(用语言)抨击,批评,疾病发作,侵袭vt.攻击,抨击,动手处理(某事)vi.攻击"
+ },
+ {
+  "name": "attain",
+  "trans": "vt.达到,获得v.达到"
+ },
+ {
+  "name": "attempt",
+  "trans": "n.努力,尝试,企图vt.尝试,企图"
+ },
+ {
+  "name": "attend",
+  "trans": "vt.出席,参加,照顾,护理,注意vi.专心,留意"
+ },
+ {
+  "name": "attention",
+  "trans": "n.注意,关心,关注,注意力,(口令)立正!"
+ },
+ {
+  "name": "attitude",
+  "trans": "n.姿势,态度,看法,意见"
+ },
+ {
+  "name": "attract",
+  "trans": "vt.吸引vi.有吸引力,引起注意"
+ },
+ {
+  "name": "attraction",
+  "trans": "n.吸引,吸引力,吸引人的事物"
+ },
+ {
+  "name": "attractive",
+  "trans": "adj.吸引人的,有魅力的"
+ },
+ {
+  "name": "audience",
+  "trans": "n.听众,观众,接见,拜见"
+ },
+ {
+  "name": "aunt",
+  "trans": "n.姑妈,伯母,舅妈,阿姨"
+ },
+ {
+  "name": "author",
+  "trans": "n.作家,创造者"
+ },
+ {
+  "name": "automatic",
+  "trans": "n.自动机械adj.自动的,无意识的,机械的"
+ },
+ {
+  "name": "automobile/auto",
+  "trans": "n.<主美>汽车(=<英>motor car,car)"
+ },
+ {
+  "name": "autumn",
+  "trans": "n.秋天,成熟期,渐衰期"
+ },
+ {
+  "name": "available",
+  "trans": "adj.可用到的,可利用的,有用的,有空的,接受探访的"
+ },
+ {
+  "name": "avenue",
+  "trans": "n.林荫道,大街,方法,途径,路"
+ },
+ {
+  "name": "average",
+  "trans": "n.平均,平均水平,平均数,海损adj.一般的,通常的,平均的vt.平均为,均分,使平衡,达到平均水平vi.买进,卖出"
+ },
+ {
+  "name": "avoid",
+  "trans": "vt.避免,消除"
+ },
+ {
+  "name": "awake",
+  "trans": "vi.醒,觉醒,领会,觉悟vt.唤醒adj.警觉的,醒的"
+ },
+ {
+  "name": "award",
+  "trans": "n.奖,奖品vt.授予,判给"
+ },
+ {
+  "name": "aware",
+  "trans": "adj.知道的,明白的,意识到的"
+ },
+ {
+  "name": "awful",
+  "trans": "adj.可怕的,威严的,<口>极度的,糟糕的"
+ },
+ {
+  "name": "awkward",
+  "trans": "adj.难使用的,笨拙的"
+ },
+ {
+  "name": "axe",
+  "trans": "n.斧,(经费的)大削减"
+ },
+ {
+  "name": "background",
+  "trans": "n.背景,后台,不重要或不引人注目的地方或位置"
+ },
+ {
+  "name": "backward",
+  "trans": "adv.adj.向后地(的),相反地(的),追溯,退步,由好变坏"
+ },
+ {
+  "name": "badly",
+  "trans": "adv.严重地,恶劣地"
+ },
+ {
+  "name": "badminton",
+  "trans": "n.羽毛球"
+ },
+ {
+  "name": "baggage",
+  "trans": "n.行李,[军] 辎重"
+ },
+ {
+  "name": "bake",
+  "trans": "v.烘焙,烤,烧硬"
+ },
+ {
+  "name": "balance",
+  "trans": "n.秤,天平,平衡,[商] 收支差额,结余,余额v.平衡,称,权衡,对比,结算n.资产平稳表"
+ },
+ {
+  "name": "ball",
+  "trans": "n.球,球状物,子弹,舞会,尽情地玩"
+ },
+ {
+  "name": "balloon",
+  "trans": "n.气球"
+ },
+ {
+  "name": "band",
+  "trans": "n.带子,镶边,波段,队,乐队v.联合,结合"
+ },
+ {
+  "name": "bank",
+  "trans": "n.银行,堤,岸,沙洲,浅滩,一堆(土),(云)层,储藏所(库)vt.存(款)于银行,储蓄,(车或飞机)倾斜转弯"
+ },
+ {
+  "name": "barber",
+  "trans": "n.理发员,理发师vt.为...理发,刮脸等"
+ },
+ {
+  "name": "bare",
+  "trans": "adj.赤裸的,无遮蔽的,空的vt.使赤裸,露出"
+ },
+ {
+  "name": "bargain",
+  "trans": "n.契约,合同,成交商品,便宜货v.议价"
+ },
+ {
+  "name": "barn",
+  "trans": "n.[农]谷仓,畜棚,畜舍,机器房"
+ },
+ {
+  "name": "barrel",
+  "trans": "n.桶vt.装入桶内"
+ },
+ {
+  "name": "barrier",
+  "trans": "n.(阻碍通道的)障碍物,栅栏,屏障"
+ },
+ {
+  "name": "base",
+  "trans": "n.底部,基础,根据地,基地,本部,基数,(运动)出发点vt.以...作基础,基于... adj.卑鄙的,低级的"
+ },
+ {
+  "name": "basic",
+  "trans": "基本的，基础的"
+ },
+ {
+  "name": "basin",
+  "trans": "n.盆,盆地,水池"
+ },
+ {
+  "name": "basis",
+  "trans": "n.基础,基本,根据,主要成分(或要素),(认识论中的)基本原则或原理"
+ },
+ {
+  "name": "basket",
+  "trans": "n.篮,一篮"
+ },
+ {
+  "name": "bat",
+  "trans": "n.蝙蝠,球棒v.用球棒击球 [计] 批处理文件的扩展名 [军] Basic Armor Training,装甲兵基础训练"
+ },
+ {
+  "name": "bathe",
+  "trans": "v.沐浴,洗,(光线)充满n.洗澡"
+ },
+ {
+  "name": "bathroom",
+  "trans": "n.浴室,盥洗室"
+ },
+ {
+  "name": "battle",
+  "trans": "n.战役(指大规模会战),战争vi.作战,战斗,搏斗,斗争"
+ },
+ {
+  "name": "bay",
+  "trans": "n.海湾,狗吠声,绝路vt.吠,使走投无路vi.吠"
+ },
+ {
+  "name": "beach",
+  "trans": "n.海滩"
+ },
+ {
+  "name": "bean",
+  "trans": "n.豆,豆形果实"
+ },
+ {
+  "name": "bear",
+  "trans": "n.熊v.负担,忍受,带给,具有,挤,向"
+ },
+ {
+  "name": "beard",
+  "trans": "n.胡须"
+ },
+ {
+  "name": "beast",
+  "trans": "n.兽,畜牲,人面兽心的人"
+ },
+ {
+  "name": "beat",
+  "trans": "n.敲打,拍子,巡逻区域v.打,打败"
+ },
+ {
+  "name": "beauty",
+  "trans": "n.美,美景,美好的东西"
+ },
+ {
+  "name": "beginning",
+  "trans": "n.开始"
+ },
+ {
+  "name": "behalf",
+  "trans": "n.为,利益"
+ },
+ {
+  "name": "behave",
+  "trans": "vi.举动,举止,运转v.行为表现"
+ },
+ {
+  "name": "behavior",
+  "trans": "n.举止,行为"
+ },
+ {
+  "name": "behind",
+  "trans": "adv.在后地 prep.在...之后"
+ },
+ {
+  "name": "belief",
+  "trans": "n.信任,信心,信仰"
+ },
+ {
+  "name": "bell",
+  "trans": "n.铃,钟"
+ },
+ {
+  "name": "belong",
+  "trans": "vi.属于,住"
+ },
+ {
+  "name": "below",
+  "trans": "prep.在...下面,adv.在下,在页底"
+ },
+ {
+  "name": "belt",
+  "trans": "n.带子,地带"
+ },
+ {
+  "name": "bench",
+  "trans": "n.长椅子"
+ },
+ {
+  "name": "bend",
+  "trans": "v.弯曲,专心于,屈服n.弯曲"
+ },
+ {
+  "name": "beneath",
+  "trans": "adv.在...之下 prep.在...之下"
+ },
+ {
+  "name": "beneficial",
+  "trans": "adj.有益的,受益的,[法律]有使用权的adj.有益的,得利的,[律]有使用权的"
+ },
+ {
+  "name": "benefit",
+  "trans": "n.利益,好处vt.有益于,有助于vi.受益"
+ },
+ {
+  "name": "beside",
+  "trans": "prep.在旁边,和...比较"
+ },
+ {
+  "name": "besides",
+  "trans": "adv.此外 prep.除...之外"
+ },
+ {
+  "name": "bet",
+  "trans": "n.赌,打赌v.赌,赌钱"
+ },
+ {
+  "name": "beyond",
+  "trans": "prep.在(到)...较远的一边,超过,那一边adv.在远处n.远处"
+ },
+ {
+  "name": "bill",
+  "trans": "n.帐单,钞票,票据,清单,议案,法案,广告vt.用海报宣传,把...列成表,给...开帐单"
+ },
+ {
+  "name": "billion",
+  "trans": "n.adj.十亿(的)"
+ },
+ {
+  "name": "bind",
+  "trans": "v.绑,镶边,装订,凝固,约束"
+ },
+ {
+  "name": "biology",
+  "trans": "n.生物学,生物(总称)"
+ },
+ {
+  "name": "birth",
+  "trans": "n.出生,产生,出身"
+ },
+ {
+  "name": "biscuit",
+  "trans": "n.饼干,小点心"
+ },
+ {
+  "name": "bit",
+  "trans": "n.小块,少量,片刻,马嚼子,辅币vt.上马嚼子,控制 vbl.咬n.[计]位,比特"
+ },
+ {
+  "name": "bite",
+  "trans": "咬，叮，一口"
+ },
+ {
+  "name": "bitter",
+  "trans": "adj.苦的,痛苦的,怀恨的"
+ },
+ {
+  "name": "blame",
+  "trans": "n.过失,责备vt.责备,谴责"
+ },
+ {
+  "name": "blank",
+  "trans": "adj.空白的,空着的,失色的,没有表情的n.空白,<美> 表格"
+ },
+ {
+  "name": "blanket",
+  "trans": "n.毯子vt.覆盖"
+ },
+ {
+  "name": "blind",
+  "trans": "adj.瞎的,盲目的vt.使失明,缺乏眼光或判断力"
+ },
+ {
+  "name": "block",
+  "trans": "n.木块,石块,块,街区,印版,滑轮,阻滞,(一)批vt.防碍,阻塞"
+ },
+ {
+  "name": "blood",
+  "trans": "n.血,血液,血统v.使(某人)先取得经验"
+ },
+ {
+  "name": "bloom",
+  "trans": "n.花,旺盛,青春v.(使)开花,(使)繁盛"
+ },
+ {
+  "name": "blow",
+  "trans": "n.殴打,突然的打击v.风吹,吹气于,叫,喘气"
+ },
+ {
+  "name": "blue",
+  "trans": "n.蓝色adj.蓝色的,忧郁的,沮丧的"
+ },
+ {
+  "name": "board",
+  "trans": "n.木板,(供特殊用途的)木板,甲板,膳食费用,会议桌,部vt.用板盖上,包饭,提供膳食,上(船、飞机等)"
+ },
+ {
+  "name": "boast",
+  "trans": "n.自夸,值得夸耀的事物v.自夸,以有...而自豪"
+ },
+ {
+  "name": "boat",
+  "trans": "n.小船,艇v.划船"
+ },
+ {
+  "name": "boil",
+  "trans": "n.沸点,沸腾,疖子v.煮沸,激动"
+ },
+ {
+  "name": "bold",
+  "trans": "adj.大胆的n.粗体"
+ },
+ {
+  "name": "bolt",
+  "trans": "n.门闩,螺钉,闪电,跑掉v.上门闩,囫囵吞下,逃跑"
+ },
+ {
+  "name": "bomb",
+  "trans": "n.炸弹vt.投弹于,轰炸"
+ },
+ {
+  "name": "bond",
+  "trans": "n.结合(物),粘结(剂),联结,公债,债券,合同v.结合"
+ },
+ {
+  "name": "bone",
+  "trans": "n.骨v.剔除"
+ },
+ {
+  "name": "boot",
+  "trans": "n.<美> (长统)靴,靴子v.导入"
+ },
+ {
+  "name": "border",
+  "trans": "n.边界,国界,边,边沿,边境vt.与...接壤,接近v.接壤"
+ },
+ {
+  "name": "bore",
+  "trans": "n.令人讨厌的人,怒潮,枪膛,孔v.使烦扰,钻孔 钻孔"
+ },
+ {
+  "name": "born",
+  "trans": "adj.天生的,原本,天生就...的 vbl.出生"
+ },
+ {
+  "name": "bother",
+  "trans": "vt.烦扰,打扰vi.烦恼,操心n.麻烦,烦扰v.打扰"
+ },
+ {
+  "name": "bottle",
+  "trans": "n.瓶子vt.用瓶装"
+ },
+ {
+  "name": "bottom",
+  "trans": "n.底,底部,尽头,末端adj.底部的vt.装底,查明真相,测量深浅vi.到达底部,建立基础"
+ },
+ {
+  "name": "bound",
+  "trans": "n.跃进,跳,范围,限度adj.正要启程的,开往...去的,被束缚的,装订的v.跳跃,限制"
+ },
+ {
+  "name": "boundary",
+  "trans": "n.边界,分界线"
+ },
+ {
+  "name": "bow",
+  "trans": "n.弓,乐弓,弓形,鞠躬,船首v.鞠躬,弯腰"
+ },
+ {
+  "name": "bowl",
+  "trans": "n.碗,碗状物,木球v.滚,(板球)投球"
+ },
+ {
+  "name": "brain",
+  "trans": "n.脑,头脑"
+ },
+ {
+  "name": "brake",
+  "trans": "n.闸,刹车v.刹车"
+ },
+ {
+  "name": "branch",
+  "trans": "n.枝,分枝,分部,分店,(学科)分科,部门,支流,支脉v.出现分歧"
+ },
+ {
+  "name": "brand",
+  "trans": "n.商标,牌子,烙印vt.打火印,污辱"
+ },
+ {
+  "name": "brass",
+  "trans": "n.黄铜,黄铜制品,厚脸皮"
+ },
+ {
+  "name": "brave",
+  "trans": "adj.勇敢的"
+ },
+ {
+  "name": "breadth",
+  "trans": "n.宽度,(布的)幅宽,(船)幅"
+ },
+ {
+  "name": "break",
+  "trans": "n.休息,暂停,破裂,突变v.打破,违犯,折断,削弱,超过,突变"
+ },
+ {
+  "name": "breath",
+  "trans": "n.呼吸,气息,气味,空气,微风,暂停,瞬间"
+ },
+ {
+  "name": "breathe",
+  "trans": "v.呼吸,发出"
+ },
+ {
+  "name": "breed",
+  "trans": "v.(使)繁殖,教养,抚养n.品种,种类"
+ },
+ {
+  "name": "breeze",
+  "trans": "n.微风,煤屑,焦炭渣,轻而易举的事,小风波vi.吹微风,逃走"
+ },
+ {
+  "name": "brick",
+  "trans": "n.砖,砖块,砖形物(如茶砖,冰砖等),<口>心肠好的人"
+ },
+ {
+  "name": "bride",
+  "trans": "n.新娘"
+ },
+ {
+  "name": "brief",
+  "trans": "n.摘要,大纲adj.简短的,短暂的vt.摘要,(军事)下达简令"
+ },
+ {
+  "name": "bright",
+  "trans": "adj.明亮的,辉煌的,欢快的,聪明的,伶俐的"
+ },
+ {
+  "name": "brilliant",
+  "trans": "adj.灿烂的,闪耀的,有才气的"
+ },
+ {
+  "name": "broadcast",
+  "trans": "n.广播,播音v.播撒(种子),广播 (无线电或电视)广播 播送,播放"
+ },
+ {
+  "name": "brow",
+  "trans": "n.眉毛,额,(面部)表情"
+ },
+ {
+  "name": "brown",
+  "trans": "n.褐色adj.褐色的,棕色的v.(使)成褐色,晒黑"
+ },
+ {
+  "name": "bubble",
+  "trans": "n.泡沫,幻想的计划vi.起泡,潺潺的流"
+ },
+ {
+  "name": "bucket",
+  "trans": "n.桶,一桶的量,[桶壮物]铲斗"
+ },
+ {
+  "name": "build",
+  "trans": "v.建造,建筑n.构造,体格,体形"
+ },
+ {
+  "name": "building",
+  "trans": "n.建筑物,营造物(如房屋,大楼,工厂,船等)"
+ },
+ {
+  "name": "bulb",
+  "trans": "n.鳞茎,球形物"
+ },
+ {
+  "name": "bulk",
+  "trans": "n.大小,体积,大批,大多数,散装vt.显得大,显得重要,"
+ },
+ {
+  "name": "bullet",
+  "trans": "n.子弹"
+ },
+ {
+  "name": "bunch",
+  "trans": "n.串,束v.捆成一束"
+ },
+ {
+  "name": "bundle",
+  "trans": "n.捆,束,包v.捆扎"
+ },
+ {
+  "name": "burden",
+  "trans": "n.担子,负担v.负担"
+ },
+ {
+  "name": "bureau",
+  "trans": "n.办公桌,衣柜 <美>局,办公署"
+ },
+ {
+  "name": "burn",
+  "trans": "v.烧,烧焦,点(灯),使感觉烧热n.烧伤,灼伤"
+ },
+ {
+  "name": "burst",
+  "trans": "v.爆裂,炸破,急于,爆发n.突然破裂,爆发,脉冲"
+ },
+ {
+  "name": "bury",
+  "trans": "vt.埋葬,掩埋,隐藏"
+ },
+ {
+  "name": "bush",
+  "trans": "n.矮树丛,(机械)衬套"
+ },
+ {
+  "name": "business",
+  "trans": "n.商业,买卖,交易,生意,事情,事物,营业,商行"
+ },
+ {
+  "name": "butter",
+  "trans": "n.黄油,牛油vt.涂黄油于...上"
+ },
+ {
+  "name": "button",
+  "trans": "n.钮扣,[计]按钮v.扣住,扣紧"
+ },
+ {
+  "name": "cabbage",
+  "trans": "n.[植]甘蓝,卷心菜"
+ },
+ {
+  "name": "cabinet",
+  "trans": "n.(有抽屉或格子的)橱柜,<美>内阁adj.<美>内阁的,小巧的"
+ },
+ {
+  "name": "cable",
+  "trans": "n.电缆,海底电报,缆,索v.打(海底)电报"
+ },
+ {
+  "name": "cage",
+  "trans": "n.笼,槛,(矿井)贯笼"
+ },
+ {
+  "name": "calculate",
+  "trans": "v.计算,考虑,计划,打算v.<美>以为,认为"
+ },
+ {
+  "name": "calendar",
+  "trans": "n.日历,历法"
+ },
+ {
+  "name": "calm",
+  "trans": "adj.(天气、海洋等)静的,平静的,镇静的,沉着的v.(使)平静,(使)镇定,平息"
+ },
+ {
+  "name": "camel",
+  "trans": "n.骆驼,[船](打捞用的)浮筒"
+ },
+ {
+  "name": "camera",
+  "trans": "n.照相机"
+ },
+ {
+  "name": "camp",
+  "trans": "n.露营地,阵营vi.露营,扎营"
+ },
+ {
+  "name": "campaign",
+  "trans": "n.[军]战役,(政治或商业性)活动,竞选运动vi.参加活动,从事活动,作战"
+ },
+ {
+  "name": "campus",
+  "trans": "n.<美>校园,大学教育"
+ },
+ {
+  "name": "canal",
+  "trans": "n.运河,小道,导管,槽,沟渠vt.开运河"
+ },
+ {
+  "name": "cancel",
+  "trans": "vt.取消,删去"
+ },
+ {
+  "name": "cancer",
+  "trans": "n.癌,毒瘤"
+ },
+ {
+  "name": "candidate",
+  "trans": "n.候选人,投考者"
+ },
+ {
+  "name": "candle",
+  "trans": "n.蜡烛vt.对着光检查"
+ },
+ {
+  "name": "capable",
+  "trans": "adj.有能力的,能干的,有可能的,可以...的"
+ },
+ {
+  "name": "capital",
+  "trans": "n.首都,首府,大写字母,资本,资金,资产adj.首都的,重要的,死罪的,大写的,<口>极好的"
+ },
+ {
+  "name": "captain",
+  "trans": "n.队长,首领,船长,机长,(空军,海军)上校,(陆军)上尉v.指挥,统帅"
+ },
+ {
+  "name": "capture",
+  "trans": "n.捕获,战利品vt.俘获,捕获,夺取"
+ },
+ {
+  "name": "carbon",
+  "trans": "n.[化]碳(元素符号C),(一张)复写纸"
+ },
+ {
+  "name": "care",
+  "trans": "n.注意,照料,烦恼,忧虑,由...转交vi.关心,顾虑,照顾,喜爱vt.在意"
+ },
+ {
+  "name": "career",
+  "trans": "n.(原意:道路,轨道)事业,生涯,速度"
+ },
+ {
+  "name": "careless",
+  "trans": "adj.粗心的,疏忽的"
+ },
+ {
+  "name": "cargo",
+  "trans": "n.船货,(车、船、飞机等运输的)货物"
+ },
+ {
+  "name": "carpenter",
+  "trans": "n.木匠"
+ },
+ {
+  "name": "carpet",
+  "trans": "n.地毯"
+ },
+ {
+  "name": "carriage",
+  "trans": "n.马车,客车,运费,姿态,(机械)车架"
+ },
+ {
+  "name": "carry",
+  "trans": "n.进位,射程,运载vt.携带,运送,支持,支撑,传送,意味vi.被携带,能达到"
+ },
+ {
+  "name": "cart",
+  "trans": "n.大车,手推车vt.用车装载"
+ },
+ {
+  "name": "case",
+  "trans": "n.事,病例,案例,情形,场合,讼案,容器,(语法)格"
+ },
+ {
+  "name": "cassette",
+  "trans": "n.盒子,盒式磁带"
+ },
+ {
+  "name": "cast",
+  "trans": "n.投掷,铸件,脱落物,一瞥,演员表v.投,抛,投射,浇铸,计算,派(角色)"
+ },
+ {
+  "name": "castle",
+  "trans": "n.城堡"
+ },
+ {
+  "name": "casual",
+  "trans": "adj.偶然的,不经意的,临时的"
+ },
+ {
+  "name": "catch",
+  "trans": "n.捕捉,捕获物,(窗)钩v.捕获,赶上(车船等),发觉,感染(疾病)vi.抓住,燃着"
+ },
+ {
+  "name": "cattle",
+  "trans": "n.牛,家养牲畜"
+ },
+ {
+  "name": "cause",
+  "trans": "n.原因,导致某事发生的人或事,动机,理由,根据,目标,理想,事业vt.引起,惹起,使(发生),促成"
+ },
+ {
+  "name": "cave",
+  "trans": "n.洞穴,窑洞vi.凹陷,投降vt.挖洞,使凹陷"
+ },
+ {
+  "name": "cease",
+  "trans": "v.停止,终了"
+ },
+ {
+  "name": "ceiling",
+  "trans": "n.天花板,最高限度"
+ },
+ {
+  "name": "celebrate",
+  "trans": "v.庆祝,祝贺,表扬,赞美,举行"
+ },
+ {
+  "name": "cell",
+  "trans": "n.单元,细胞,蜂房,(尤指监狱或寺院的)单人房间,电池"
+ },
+ {
+  "name": "cent",
+  "trans": "n.(货币单位)分,分币"
+ },
+ {
+  "name": "central",
+  "trans": "adj.中心的,中央的,重要的,主要的,中枢的,走中间道路的n.<美>电话总机"
+ },
+ {
+  "name": "centre/center",
+  "trans": "n.中心,中央,中心区v.集中"
+ },
+ {
+  "name": "ceremony",
+  "trans": "n.典礼,仪式,礼节,报幕员"
+ },
+ {
+  "name": "certain",
+  "trans": "adj.确定的,某一个,无疑的,必然的,可靠的 pron.某几个,某些"
+ },
+ {
+  "name": "certainly",
+  "trans": "adv.的确,(口语)当然,行"
+ },
+ {
+  "name": "certificate",
+  "trans": "n.证书,证明书vt.发给证明书,以证书形式授权给..."
+ },
+ {
+  "name": "chain",
+  "trans": "n.链(条),[常 pl.] 镣铐,一连串,一系列vt.用链条拴住"
+ },
+ {
+  "name": "chairman",
+  "trans": "n.主席,会长"
+ },
+ {
+  "name": "chalk",
+  "trans": "n.粉笔,白垩vt.用粉笔写,和以白垩"
+ },
+ {
+  "name": "challenge",
+  "trans": "n.挑战vt.向...挑战"
+ },
+ {
+  "name": "champion",
+  "trans": "n.冠军,拥护者,战士vt.拥护,支持"
+ },
+ {
+  "name": "channel",
+  "trans": "n.海峡,水道,沟,路线vt.引导,开导,形成河道 信道,频道"
+ },
+ {
+  "name": "chapter",
+  "trans": "n.(书籍)章"
+ },
+ {
+  "name": "character",
+  "trans": "n.(事物的)特性,性质,特征(的总和),(人的)品质,字符,性格,特征,人物vt.写,刻,印,使具有特征"
+ },
+ {
+  "name": "characteristic",
+  "trans": "ally//adv.表示特adj.特有的,表示绦缘"
+ },
+ {
+  "name": "charge",
+  "trans": "n.负荷,电荷,费用,主管,掌管,充电,充气,装料v.装满,控诉,责令,告诫,指示,加罪于,冲锋,收费"
+ },
+ {
+  "name": "chart",
+  "trans": "n.海图,图表vt.制图"
+ },
+ {
+  "name": "chase",
+  "trans": "n.追赶,追击vt.追赶,追逐,雕镂"
+ },
+ {
+  "name": "cheat",
+  "trans": "n.欺骗,骗子v.欺骗,骗取"
+ },
+ {
+  "name": "check",
+  "trans": "n.阻止,制止,控制,阻止物,支票,检讫的记号,饭馆的帐单vt.检查,制止,核对,寄存,托运vi.证明无误,核对无误,逐项相符,[象棋]将军"
+ },
+ {
+  "name": "cheer",
+  "trans": "n.愉快,欢呼v.(使)快活,(对)欢呼"
+ },
+ {
+  "name": "cheerful",
+  "trans": "adj.愉快的,高兴的"
+ },
+ {
+  "name": "cheese",
+  "trans": "n.干酪,<俚>头等的人或事物"
+ },
+ {
+  "name": "chemical",
+  "trans": "adj.化学的n.[常pl.] 化学制品,化学药品n.化学药品"
+ },
+ {
+  "name": "chemist",
+  "trans": "n.化学家,药剂师"
+ },
+ {
+  "name": "chemistry",
+  "trans": "n.化学"
+ },
+ {
+  "name": "cheque",
+  "trans": "n.支票"
+ },
+ {
+  "name": "cherry",
+  "trans": "n.樱桃,樱桃树,如樱桃的鲜红色,<俚,鄙>处女膜,处女"
+ },
+ {
+  "name": "chess",
+  "trans": "n.国际象棋"
+ },
+ {
+  "name": "chest",
+  "trans": "n.胸腔,胸膛,箱,柜"
+ },
+ {
+  "name": "chew",
+  "trans": "vt.咀爵(食物等)v.咀嚼,认真考虑"
+ },
+ {
+  "name": "chief",
+  "trans": "n.首领,领袖,酋长,长官,主要部分,最有价值的部分adj.主要的,首要的,首席的,主任的"
+ },
+ {
+  "name": "child",
+  "trans": "n.孩子,儿女,子孙,(头脑、空想等的)产物,弟子,追随者"
+ },
+ {
+  "name": "childhood",
+  "trans": "n.孩童时期"
+ },
+ {
+  "name": "chimney",
+  "trans": "n.烟囱,灯罩"
+ },
+ {
+  "name": "chin",
+  "trans": "n.下巴,下颚"
+ },
+ {
+  "name": "china",
+  "trans": "n.中国,瓷器"
+ },
+ {
+  "name": "chocolate",
+  "trans": "n.巧克力,巧克力色"
+ },
+ {
+  "name": "choice",
+  "trans": "n.选择,抉择,精选品,选择机会,选择权adj.精选的,上等的,挑三拣四的,可选的,宠爱的,爱惜的"
+ },
+ {
+  "name": "choose",
+  "trans": "v.选择,选定"
+ },
+ {
+  "name": "church",
+  "trans": "n.教堂,礼拜堂,教会,教派,[宗]礼拜"
+ },
+ {
+  "name": "cigarette",
+  "trans": "n.香烟,纸烟"
+ },
+ {
+  "name": "cinema",
+  "trans": "n.电影院,电影"
+ },
+ {
+  "name": "circle",
+  "trans": "n.圆周,圆形物,派系,循环v.围,环绕 盘旋"
+ },
+ {
+  "name": "circumstance",
+  "trans": "n.环境,详情,境况"
+ },
+ {
+  "name": "citizen",
+  "trans": "n.市民,公民"
+ },
+ {
+  "name": "civil",
+  "trans": "adj.全民的,市民的,公民的,国民的,民间的.民事的,根据民法的,文职的,有礼貌的"
+ },
+ {
+  "name": "civilize",
+  "trans": "vt.使开化,使文明,教化"
+ },
+ {
+  "name": "claim",
+  "trans": "n.(根据权利提出)要求,要求权,主张,要求而得到的东西vt.(根据权利)要求,认领,声称,主张,需要"
+ },
+ {
+  "name": "clap",
+  "trans": "n.拍手声,霹雳声v.鼓掌,轻拍"
+ },
+ {
+  "name": "class",
+  "trans": "n.班级,阶级,社会等级,种类,(一节)课vt.把...分类(或分等级)"
+ },
+ {
+  "name": "classical",
+  "trans": "adj.古典的,正统派的,古典文学的"
+ },
+ {
+  "name": "classify",
+  "trans": "vt.分类,分等"
+ },
+ {
+  "name": "classmate",
+  "trans": "n.同班同学"
+ },
+ {
+  "name": "classroom",
+  "trans": "n.教室"
+ },
+ {
+  "name": "claw",
+  "trans": "n.爪,脚爪v.抓"
+ },
+ {
+  "name": "clay",
+  "trans": "n.粘土,泥土,肉体,人体,似黏土的东西,陶土制的烟斗"
+ },
+ {
+  "name": "clear",
+  "trans": "adj.清楚的,清晰的,清澈的,光亮的,空旷的,有条理的adv.清楚地,完全地v.扫除,清除,晴,跳过,净得"
+ },
+ {
+  "name": "clerk",
+  "trans": "n.职员,办事员,<美> 店员"
+ },
+ {
+  "name": "cliff",
+  "trans": "n.悬崖,绝壁"
+ },
+ {
+  "name": "climate",
+  "trans": "n.气候,风土,思潮"
+ },
+ {
+  "name": "clothe",
+  "trans": "vt.给...穿衣,覆盖"
+ },
+ {
+  "name": "clue",
+  "trans": "n.线索"
+ },
+ {
+  "name": "co-operate",
+  "trans": "合作，协作"
+ },
+ {
+  "name": "coal",
+  "trans": "n.煤v.加煤"
+ },
+ {
+  "name": "coarse",
+  "trans": "adj.粗糙的,粗鄙的"
+ },
+ {
+  "name": "coast",
+  "trans": "n.海岸,滑坡v.沿海岸而行"
+ },
+ {
+  "name": "collar",
+  "trans": "衣领"
+ },
+ {
+  "name": "colleague",
+  "trans": "n.同事,同僚"
+ },
+ {
+  "name": "collect",
+  "trans": "v.收集,聚集,集中,搜集adj.由收件人付款的adv.由收件人付款地"
+ },
+ {
+  "name": "collection",
+  "trans": "n.收藏,征收,搜集品,捐款"
+ },
+ {
+  "name": "collective",
+  "trans": "adj.集体的n.集体"
+ },
+ {
+  "name": "colonel",
+  "trans": "n.陆军上校,团长"
+ },
+ {
+  "name": "colony",
+  "trans": "n.殖民地,侨民,(聚居的)一群同业,一批同行,(生物)群体"
+ },
+ {
+  "name": "column",
+  "trans": "n.圆柱,柱壮物,专栏,纵队"
+ },
+ {
+  "name": "comb",
+  "trans": "n.梳子,梳,鸡冠,蜂巢vi.梳(发),搜索"
+ },
+ {
+  "name": "combination",
+  "trans": "n.结合,联合,合并,化合,化合物"
+ },
+ {
+  "name": "combine",
+  "trans": "v.(使)联合,(使)结合n.联合企业,联合收割机n.联合收割机"
+ },
+ {
+  "name": "comfort",
+  "trans": "n.安慰,舒适,安慰者vt.安慰,使(痛苦等)缓和"
+ },
+ {
+  "name": "comfortable",
+  "trans": "adj.舒适的"
+ },
+ {
+  "name": "command",
+  "trans": "n.命令,掌握,司令部v.命令,指挥,克制,支配,博得,俯临"
+ },
+ {
+  "name": "commander",
+  "trans": "n.司令官,指挥官"
+ },
+ {
+  "name": "comment",
+  "trans": "n.注释,评论,意见vi.注释,评论"
+ },
+ {
+  "name": "commerce",
+  "trans": "n.商业"
+ },
+ {
+  "name": "commercial",
+  "trans": "adj.商业的,贸易的"
+ },
+ {
+  "name": "commit",
+  "trans": "vt.犯(错误),干(坏事),把...交托给,提交,答应负责"
+ },
+ {
+  "name": "committee",
+  "trans": "n.委员会"
+ },
+ {
+  "name": "common",
+  "trans": "adj.共同的,公共的,公有的,普通的,庸俗的,伪劣的n.[复][总]平民,公有,普通,共通"
+ },
+ {
+  "name": "communicate",
+  "trans": "v.沟通,通信,(房间、道路、花园等)相通,传达,感染"
+ },
+ {
+  "name": "communism",
+  "trans": "n.共产主义"
+ },
+ {
+  "name": "communist",
+  "trans": "n.共产主义者,共产党员adj.共产主义者的"
+ },
+ {
+  "name": "community",
+  "trans": "n.公社,团体,社会,(政治)共同体,共有,一致,共同体,(生物)群落"
+ },
+ {
+  "name": "companion",
+  "trans": "n.同伴,共事者"
+ },
+ {
+  "name": "companionship",
+  "trans": "n.交谊,友谊"
+ },
+ {
+  "name": "company",
+  "trans": "n.公司,陪伴,(一)群,(一)队,(一)伙,连,连队"
+ },
+ {
+  "name": "comparative",
+  "trans": "adj.比较的,相当的"
+ },
+ {
+  "name": "compare",
+  "trans": "v.比较,相比,比喻 n.比较"
+ },
+ {
+  "name": "compass",
+  "trans": "n.罗盘,指南针,[pl.] 圆规v.包围"
+ },
+ {
+  "name": "compel",
+  "trans": "vt.强迫,迫使"
+ },
+ {
+  "name": "competent",
+  "trans": "adj.有能力的,胜任的"
+ },
+ {
+  "name": "competition",
+  "trans": "n.竞争,竞赛"
+ },
+ {
+  "name": "complain",
+  "trans": "v.抱怨,悲叹,控诉"
+ },
+ {
+  "name": "complete",
+  "trans": "adj.全部的,完全的,完成的vt.完成,使完善"
+ },
+ {
+  "name": "complex",
+  "trans": "adj.复杂的,合成的,综合的n.联合体"
+ },
+ {
+  "name": "complicate",
+  "trans": "v.(使)变复杂"
+ },
+ {
+  "name": "compose",
+  "trans": "v.组成,写作,排字,(使)安定,调解"
+ },
+ {
+  "name": "compound",
+  "trans": "n.混合物,[化]化合物adj.复合的v.混合,配合"
+ },
+ {
+  "name": "comprehension",
+  "trans": "n.理解,包含"
+ },
+ {
+  "name": "compromise",
+  "trans": "n.妥协,折衷v.妥协,折衷,危及...的安全"
+ },
+ {
+  "name": "computer",
+  "trans": "n.计算机,电脑"
+ },
+ {
+  "name": "comrade",
+  "trans": "n.朋友,同志,伙伴"
+ },
+ {
+  "name": "conceal",
+  "trans": "vt.隐藏,隐蔽,隐瞒v.隐蔽"
+ },
+ {
+  "name": "concentrate",
+  "trans": "v.集中,浓缩"
+ },
+ {
+  "name": "concept",
+  "trans": "n.观念,概念"
+ },
+ {
+  "name": "concern",
+  "trans": "vt.涉及,关系到n.(利害)关系,关心,关注,关注,所关心的是"
+ },
+ {
+  "name": "concerning",
+  "trans": "prep.关于"
+ },
+ {
+  "name": "concert",
+  "trans": "n.音乐会,一致"
+ },
+ {
+  "name": "conclude",
+  "trans": "v.结束,终止,决定,作出结论vt.推断,断定,缔结,议定"
+ },
+ {
+  "name": "conclusion",
+  "trans": "n.结束,缔结,结论"
+ },
+ {
+  "name": "concrete",
+  "trans": "adj.具体的,有形的n.混凝土v.用混凝土修筑,浇混凝土,凝结"
+ },
+ {
+  "name": "condense",
+  "trans": "v.(使)浓缩,精简"
+ },
+ {
+  "name": "condition",
+  "trans": "n.条件,情形,环境,社会地位vt.以...为条件,使达到要求的情况"
+ },
+ {
+  "name": "conduct",
+  "trans": "n.行为,操行v.引导,管理,为人,传导"
+ },
+ {
+  "name": "conductor",
+  "trans": "n.领导者,经理,指挥管弦乐队、合唱队的,(市内有轨电车或公共汽车)售票员,<美>列车长"
+ },
+ {
+  "name": "conference",
+  "trans": "n.会议,讨论会,协商会"
+ },
+ {
+  "name": "confess",
+  "trans": "v.承认,坦白,忏悔"
+ },
+ {
+  "name": "confident",
+  "trans": "adj.自信的,确信的"
+ },
+ {
+  "name": "confine",
+  "trans": "vt.限制,禁闭n.界限,边界"
+ },
+ {
+  "name": "confirm",
+  "trans": "vt.确定,批准,使巩固,使有效v.确认,(基督教中)给...行按手礼"
+ },
+ {
+  "name": "conflict",
+  "trans": "n.斗争,冲突vi.抵触,冲突"
+ },
+ {
+  "name": "confuse",
+  "trans": "vt.搞乱,使糊涂"
+ },
+ {
+  "name": "congratulate",
+  "trans": "vt.祝贺,庆贺,恭喜"
+ },
+ {
+  "name": "congress",
+  "trans": "n.(代表)大会,[C～] (美国等国的)国会,议会"
+ },
+ {
+  "name": "conjunction",
+  "trans": "n.联合,关联,连接词"
+ },
+ {
+  "name": "connect",
+  "trans": "v.连接,联合,关连"
+ },
+ {
+  "name": "connection",
+  "trans": "n.连接,关系,接线,线路,亲戚"
+ },
+ {
+  "name": "conquest",
+  "trans": "n.征服n.战利品"
+ },
+ {
+  "name": "conscience",
+  "trans": "n.良心,道德心"
+ },
+ {
+  "name": "conscious",
+  "trans": "有意识的"
+ },
+ {
+  "name": "consent",
+  "trans": "vi.同意,赞成,答应n.同意,赞成,允诺"
+ },
+ {
+  "name": "consequence",
+  "trans": "n.结果,[逻]推理,推论,因果关系,重要的地位"
+ },
+ {
+  "name": "consequently",
+  "trans": "adv.从而,因此"
+ },
+ {
+  "name": "conservative",
+  "trans": "adj.保守的,守旧的n.保守派"
+ },
+ {
+  "name": "consider",
+  "trans": "vt.考虑,照顾,认为"
+ },
+ {
+  "name": "considerable",
+  "trans": "adj.相当大(或多)的,值得考虑的,相当可观的"
+ },
+ {
+  "name": "considerate",
+  "trans": "adj.考虑周到的"
+ },
+ {
+  "name": "consist",
+  "trans": "vi.由...组成,在于,一致"
+ },
+ {
+  "name": "consistent",
+  "trans": "adj.一致的,调和的,坚固的,[数、统]相容的"
+ },
+ {
+  "name": "constant",
+  "trans": "n.[数、物]常数,恒量adj.不变的,持续的,坚决的"
+ },
+ {
+  "name": "constitution",
+  "trans": "n.宪法,构造,体质,体格,国体,章程,惯例"
+ },
+ {
+  "name": "construct",
+  "trans": "vt.建造,构造,创立"
+ },
+ {
+  "name": "consult",
+  "trans": "v.商量,商议,请教,参考,考虑"
+ },
+ {
+  "name": "consume",
+  "trans": "vt.消耗,消费,消灭,大吃大喝,吸引vi.消灭,毁灭"
+ },
+ {
+  "name": "contact",
+  "trans": "n.接触,联系vt.接触,联系"
+ },
+ {
+  "name": "contain",
+  "trans": "vt.包含,容纳,容忍vi.自制v.[军]牵制(敌军)v.[数]可被...除尽"
+ },
+ {
+  "name": "container",
+  "trans": "n.容器(箱,盆,罐,壶,桶,坛子),集装箱"
+ },
+ {
+  "name": "contemporary",
+  "trans": "n.同时代的人adj.当代的,同时代的"
+ },
+ {
+  "name": "content",
+  "trans": "n.内容,容量,目录,满足adj.满足的,满意的,愿意vt.使满足"
+ },
+ {
+  "name": "contest",
+  "trans": "n.论争,竞赛v.,争论,争辩,竞赛,争夺"
+ },
+ {
+  "name": "continue",
+  "trans": "v.继续,连续,延伸"
+ },
+ {
+  "name": "continuous",
+  "trans": "adj.连续的,持续的"
+ },
+ {
+  "name": "contract",
+  "trans": "n.合同,契约,婚约v.使缩短,感染,订约"
+ },
+ {
+  "name": "contradiction",
+  "trans": "n.反驳,矛盾"
+ },
+ {
+  "name": "contrary",
+  "trans": "adj.相反的,逆的,<口语>执拗n.反面adv.相反地"
+ },
+ {
+  "name": "contrast",
+  "trans": "vt.使与...对比,使与...对照vi.和...形成对照n.对比,对照,(对照中的)差异"
+ },
+ {
+  "name": "contribute",
+  "trans": "v.捐助,捐献,贡献,投稿"
+ },
+ {
+  "name": "control",
+  "trans": "n.控制,支配,管理,调节,抑制,控制器,调节装置vt.控制,支配,管理(物价等),操纵,抑制"
+ },
+ {
+  "name": "convenient",
+  "trans": "adj.便利的,方便的"
+ },
+ {
+  "name": "conventional",
+  "trans": "adj.惯例的,常规的,习俗的,传统的"
+ },
+ {
+  "name": "conversation",
+  "trans": "n.会话,交谈"
+ },
+ {
+  "name": "convert",
+  "trans": "n.皈依者vt.使转变,转换...,使...改变信仰"
+ },
+ {
+  "name": "convey",
+  "trans": "vt.搬运,传达,转让"
+ },
+ {
+  "name": "convince",
+  "trans": "vt.使确信,使信服"
+ },
+ {
+  "name": "cope",
+  "trans": "vi.(善于)应付,(善于)处理"
+ },
+ {
+  "name": "copper",
+  "trans": "n.铜,警察"
+ },
+ {
+  "name": "cord",
+  "trans": "n.绳索,束缚"
+ },
+ {
+  "name": "cordial",
+  "trans": "n.兴奋剂,兴奋性饮料adj.热忱的,诚恳的,兴奋的"
+ },
+ {
+  "name": "core",
+  "trans": "n.果核,中心,核心"
+ },
+ {
+  "name": "corn",
+  "trans": "n.<美>玉米,<英>谷物,五谷,[医]鸡眼vt.腌(肉等)"
+ },
+ {
+  "name": "corner",
+  "trans": "n.角落,(街道)拐角处,(遥远的)地区,偏僻处,困境,绝路vt.迫至一隅,垄断,使陷入绝境,把...难住vi.相交成角,囤积(in)"
+ },
+ {
+  "name": "corporation",
+  "trans": "n.[律]社团,法人,公司,企业,<美>有限公司,(市,镇的)自治机关,<口>大肚皮"
+ },
+ {
+  "name": "correct",
+  "trans": "adj.正确的,恰当的,端正的vt.改正,纠正,告诫,惩戒"
+ },
+ {
+  "name": "correspond",
+  "trans": "vi.符合,协调,通信,相当,相应"
+ },
+ {
+  "name": "corresponding",
+  "trans": "adj.相应的,通讯的"
+ },
+ {
+  "name": "corridor",
+  "trans": "n.走廊"
+ },
+ {
+  "name": "cost",
+  "trans": "n.成本,价钱,代价vt.价值为,(使)花费(金钱,时间,劳力等),使失去(生命,健康等),令人付出vi.花费"
+ },
+ {
+  "name": "costly",
+  "trans": "adj.昂贵的,贵重的"
+ },
+ {
+  "name": "cottage",
+  "trans": "n.村舍,小别墅"
+ },
+ {
+  "name": "cotton",
+  "trans": "n.棉花,棉线"
+ },
+ {
+  "name": "cough",
+  "trans": "n.咳嗽v.咳嗽"
+ },
+ {
+  "name": "council",
+  "trans": "n.政务会,理事会,委员会,参议会,讨论会议,顾问班子,立法班子"
+ },
+ {
+  "name": "count",
+  "trans": "v.数,计算,计算在内,认为,有价值n.计数,计算,注意,伯爵"
+ },
+ {
+  "name": "counter",
+  "trans": "n.计算器,计数器,计算者,柜台,筹码adv.prep.相反地"
+ },
+ {
+  "name": "countryside",
+  "trans": "n.乡下地方,乡下居民"
+ },
+ {
+  "name": "county",
+  "trans": "n.县,郡"
+ },
+ {
+  "name": "couple",
+  "trans": "n.(一)对,(一)双,夫妇vt.连合,连接,结合vi.结合,结婚"
+ },
+ {
+  "name": "courage",
+  "trans": "n.勇气,精神"
+ },
+ {
+  "name": "course",
+  "trans": "n.过程,经过,进程,方针,路线,跑道,课程,一道菜v.追猎,急行,运行,流动 学业"
+ },
+ {
+  "name": "court",
+  "trans": "n.法院,庭院,朝廷,宫庭,球场,奉承,求爱,殷勤vt.向...献殷勤,追求,设法获得(他人的支持等),博得(喝彩),招致(失败、危险等)vi.求爱"
+ },
+ {
+  "name": "cousin",
+  "trans": "n.堂兄弟姊妹,表兄弟姊妹"
+ },
+ {
+  "name": "cover",
+  "trans": "n.盖子,封面,藉口vt.覆盖,铺,掩饰,保护,掩护,包括,包含,适用vi.覆盖,涂,代替"
+ },
+ {
+  "name": "crack",
+  "trans": "n.裂缝,噼啪声v.(使)破裂,裂纹,(使)爆裂adj.最好的,高明的"
+ },
+ {
+  "name": "crash",
+  "trans": "n.碰撞,坠落,坠毁,撞击声,爆裂声v.碰撞,坠落,坠毁,(指商业公司,政府等)破产,垮台"
+ },
+ {
+  "name": "crawl",
+  "trans": "vi.爬行,蠕动,徐徐行进n.爬行,蠕动,缓慢的行进"
+ },
+ {
+  "name": "crazy",
+  "trans": "adj.疯狂的,狂热的,(指建筑等)不安全的"
+ },
+ {
+  "name": "cream",
+  "trans": "n.乳酪,奶油,(护肤)面霜"
+ },
+ {
+  "name": "create",
+  "trans": "vt.创造,创作,引起,造成"
+ },
+ {
+  "name": "creative",
+  "trans": "adj.创造性的"
+ },
+ {
+  "name": "creature",
+  "trans": "n.人,动物,傀儡,创造物"
+ },
+ {
+  "name": "creep",
+  "trans": "vi.爬,蹑手蹑脚,蔓延"
+ },
+ {
+  "name": "crew",
+  "trans": "n.全体人员,(工作)队 vbl.crow的过去式"
+ },
+ {
+  "name": "cricket",
+  "trans": "n.[昆]蟋蟀,[运动]板球"
+ },
+ {
+  "name": "crime",
+  "trans": "n.犯罪,犯罪行为,罪行,罪恶"
+ },
+ {
+  "name": "criminal",
+  "trans": "n.罪犯,犯罪者adj.犯罪的,犯法的,罪恶的"
+ },
+ {
+  "name": "critic",
+  "trans": "n.批评家,评论家,吹毛求疵者"
+ },
+ {
+  "name": "critical",
+  "trans": "adj.评论的,鉴定的,批评的,危急的,临界的"
+ },
+ {
+  "name": "criticism",
+  "trans": "n.批评,批判"
+ },
+ {
+  "name": "criticize",
+  "trans": "v.批评,责备"
+ },
+ {
+  "name": "crop",
+  "trans": "n.农作物,产量,平头,短发vt.收割,修剪,种植vi.收获"
+ },
+ {
+  "name": "crowd",
+  "trans": "n.人群,群众,一堆(东西),一伙v.群集,拥挤,挤满"
+ },
+ {
+  "name": "crown",
+  "trans": "n.王冠,花冠,顶vt.加冕,顶上有,表彰,使圆满完成"
+ },
+ {
+  "name": "cruel",
+  "trans": "adj.残酷的,悲惨的,使痛苦的"
+ },
+ {
+  "name": "crush",
+  "trans": "vt.压碎,碾碎,压服,压垮,粉碎,(使)变形"
+ },
+ {
+  "name": "crystal",
+  "trans": "adj.结晶状的n.水晶,水晶饰品,结晶,晶体"
+ },
+ {
+  "name": "culture",
+  "trans": "n.文化,文明"
+ },
+ {
+  "name": "cupboard",
+  "trans": "n.食橱,碗碟橱"
+ },
+ {
+  "name": "cure",
+  "trans": "v.治愈,治疗n.治愈,痊愈"
+ },
+ {
+  "name": "current",
+  "trans": "adj.当前的,通用的,流通的,现在的,草写的,最近的n.涌流,趋势,电流,水流,气流"
+ },
+ {
+  "name": "curse",
+  "trans": "n.诅咒,咒语,祸根,祸因vt.诅咒,咒骂,降祸,使受罪"
+ },
+ {
+  "name": "curtain",
+  "trans": "n.窗帘,门帘v.装上门帘"
+ },
+ {
+  "name": "cushion",
+  "trans": "n.垫子,软垫,衬垫v.加衬垫"
+ },
+ {
+  "name": "custom",
+  "trans": "n.习惯,风俗,<动词单用>海关,(封建制度下)定期服劳役,缴纳租税,自定义,<偶用作>关税v.定制,承接定做活的"
+ },
+ {
+  "name": "customer",
+  "trans": "n.消费者"
+ },
+ {
+  "name": "customs",
+  "trans": "n.进口税,海关"
+ },
+ {
+  "name": "cycle",
+  "trans": "n.周期,循环,自行车,一段时间,整套,(电学)周波vi.循环,轮转,骑自行车vt.使循环,使轮转"
+ },
+ {
+  "name": "daily",
+  "trans": "adj.每日的,日常的adv.每日,日常地,天天n.日报,<美口>朝来夜去的女佣"
+ },
+ {
+  "name": "dairy",
+  "trans": "n.牛奶场,奶品场,售牛奶,奶油,鸡蛋等的商店,奶制品"
+ },
+ {
+  "name": "damage",
+  "trans": "n.损害,伤害v.招致损害n.[律] (用复数)赔偿金"
+ },
+ {
+  "name": "dangerous",
+  "trans": "adj.危险的"
+ },
+ {
+  "name": "dare",
+  "trans": "n.挑战vi.敢,胆敢vt.敢冒,不惧"
+ },
+ {
+  "name": "darling",
+  "trans": "n.心爱的人,亲爱的"
+ },
+ {
+  "name": "dash",
+  "trans": "n.少量(搀加物),冲撞,破折号,锐气,精力,干劲vi.猛掷,冲撞vt.泼溅,使猛撞,搀和,使破灭,使沮丧,匆忙完成"
+ },
+ {
+  "name": "dawn",
+  "trans": "n.黎明,拂晓,破晓vi.破晓,开始现生,变得(为人所)明白v.破晓 Dawn 道恩(女子名)"
+ },
+ {
+  "name": "daylight",
+  "trans": "n.日光,白昼,白天"
+ },
+ {
+  "name": "deaf",
+  "trans": "adj.聋的"
+ },
+ {
+  "name": "deal",
+  "trans": "n.交易,(政治上的)密约,待遇,份量,<口>买卖vi.处理,应付,做生意vt.分配,分给(out),发牌,给予"
+ },
+ {
+  "name": "death",
+  "trans": "n.死,死亡,致死的原因,毁灭,屠杀"
+ },
+ {
+  "name": "debt",
+  "trans": "n.债务,罪过"
+ },
+ {
+  "name": "decade",
+  "trans": "n.十年,十"
+ },
+ {
+  "name": "deceive",
+  "trans": "v.欺骗,行骗"
+ },
+ {
+  "name": "decision",
+  "trans": "n.决定,决心,决议,结果,果断,坚定"
+ },
+ {
+  "name": "deck",
+  "trans": "n.甲板,舰板,覆盖物,一副(纸牌)vt.装饰,修饰,打扮,装甲板"
+ },
+ {
+  "name": "declare",
+  "trans": "vt.断言,宣称,宣布,宣告,声明,(向海关)中报进口应纳税之货物"
+ },
+ {
+  "name": "decorate",
+  "trans": "v.装饰,为...做室内装修"
+ },
+ {
+  "name": "decrease",
+  "trans": "n.减少,减少之量v.减少"
+ },
+ {
+  "name": "deduce",
+  "trans": "vt.推论,演绎出"
+ },
+ {
+  "name": "deed",
+  "trans": "n.行为,事实,功绩,实行,契约vt.立契转让(旧产等)"
+ },
+ {
+  "name": "deep",
+  "trans": "adj.深的,纵深的,远离中心的,深奥的,难懂的,(指人)诡计多端的,低沉的(声音)adv.深入地,迟n.深渊,深处"
+ },
+ {
+  "name": "defeat",
+  "trans": "n.击败,战胜,失败vt.击败,战胜,使失败,挫折v.击败"
+ },
+ {
+  "name": "defence/defense",
+  "trans": "n.防卫,防卫设备n.[律](被告的)答辩、辩护"
+ },
+ {
+  "name": "defend",
+  "trans": "vt.防护,辩护,防卫,[律]作...的辩护律师"
+ },
+ {
+  "name": "definite",
+  "trans": "adj.明确的,一定的"
+ },
+ {
+  "name": "definitely",
+  "trans": "adv.明确地,干脆地"
+ },
+ {
+  "name": "degree",
+  "trans": "n.度数,度,程度,[律](罪行的)轻重,学位,地位,身份,[数]次数"
+ },
+ {
+  "name": "delay",
+  "trans": "v.耽搁,延迟,延期,迟滞n.耽搁,延迟,迟滞"
+ },
+ {
+  "name": "delegation",
+  "trans": "n.代表团,授权,委托"
+ },
+ {
+  "name": "delicate",
+  "trans": "adj.精巧的,精致的,病弱的,脆弱的,微妙的,棘手的,灵敏的,精密的"
+ },
+ {
+  "name": "delicious",
+  "trans": "adj.美味的"
+ },
+ {
+  "name": "delight",
+  "trans": "n.快乐,高兴,喜悦v.(使)高兴,(使)欣喜"
+ },
+ {
+  "name": "deliver",
+  "trans": "vt.递送,陈述,释放,发表(一篇演说等),交付,引渡,瞄准,给予(打击)"
+ },
+ {
+  "name": "delivery",
+  "trans": "n.递送,交付,分娩,交货,引渡n.[律] 财产等的正式移交 发送,传输"
+ },
+ {
+  "name": "demand",
+  "trans": "n.要求,需求(量),需要v.要求,需要,要求知道,查询"
+ },
+ {
+  "name": "democracy",
+  "trans": "n.民主政治,民主主义"
+ },
+ {
+  "name": "demonstrate",
+  "trans": "vt.示范,证明,论证vi.示威"
+ },
+ {
+  "name": "dense",
+  "trans": "adj.密集的,浓厚的"
+ },
+ {
+  "name": "deny",
+  "trans": "v.否认,拒绝"
+ },
+ {
+  "name": "depart",
+  "trans": "vi.离开,起程,不按照,逝世adj.过去的,逝世的"
+ },
+ {
+  "name": "department",
+  "trans": "n.部,局,处,科,部门,系,学部"
+ },
+ {
+  "name": "depend",
+  "trans": "vi.依靠,依赖"
+ },
+ {
+  "name": "dependent",
+  "trans": "adj.依靠的,依赖的,由...决定的,随...而定的"
+ },
+ {
+  "name": "depress",
+  "trans": "vt.使沮丧,使消沉,压下,压低,使不活泼,使萧条v.压下"
+ },
+ {
+  "name": "depth",
+  "trans": "n.深,深度,深奥,深刻"
+ },
+ {
+  "name": "descend",
+  "trans": "vi.下来,下降,遗传(指财产,气质,权利),突击,出其不意的拜访v.下去"
+ },
+ {
+  "name": "describe",
+  "trans": "描述，形容"
+ },
+ {
+  "name": "description",
+  "trans": "n.描写,记述,形容,种类,描述"
+ },
+ {
+  "name": "desert",
+  "trans": "n.沙漠,应得的赏罚,功过adj.沙漠的,不毛的,荒凉的vt.放弃,遗弃,逃跑vi.逃掉,逃亡,开小差"
+ },
+ {
+  "name": "deserve",
+  "trans": "vt.应受,值得v.应受"
+ },
+ {
+  "name": "design",
+  "trans": "n.设计,图案,花样,企图,图谋,(小说等的)构思,纲要v.设计,计划,谋划,构思"
+ },
+ {
+  "name": "desirable",
+  "trans": "adj.值得要的,合意的,令人想要的,悦人心意的"
+ },
+ {
+  "name": "desire",
+  "trans": "vt.想望,期望,希望,请求(官方丈礼)n.愿望,心愿,要求v.要求"
+ },
+ {
+  "name": "despair",
+  "trans": "n.绝望,失望,令人失望的人(事物)vi.绝望"
+ },
+ {
+  "name": "desperate",
+  "trans": "adj.不顾一切的,拚死的,令人绝望的"
+ },
+ {
+  "name": "despite",
+  "trans": "prep.不管,尽管,不论"
+ },
+ {
+  "name": "destination",
+  "trans": "n.目的地,[计] 目的文件,目的单元格"
+ },
+ {
+  "name": "destroy",
+  "trans": "vt.破坏,毁坏,消灭v.消灭,摧毁"
+ },
+ {
+  "name": "destruction",
+  "trans": "n.破坏,毁灭"
+ },
+ {
+  "name": "detail",
+  "trans": "n.细节,详情vt.详述,细说"
+ },
+ {
+  "name": "detect",
+  "trans": "vt.察觉,发觉,侦查,探测v.发现"
+ },
+ {
+  "name": "determination",
+  "trans": "n.决心,果断"
+ },
+ {
+  "name": "determine",
+  "trans": "v.决定,确定,测定,使下定决心,[律]使终止"
+ },
+ {
+  "name": "develop",
+  "trans": "vt.发展,发达,发扬,进步,逐步展开(情节,音乐主题,方程式等)洗印,显影vi.发展,生长,发育,逐步显示出来"
+ },
+ {
+  "name": "development",
+  "trans": "n.发展"
+ },
+ {
+  "name": "device",
+  "trans": "n.装置,设计,图案,策略,发明物,设备 [计]安装设备驱动程序"
+ },
+ {
+  "name": "devil",
+  "trans": "n.魔鬼,恶棍"
+ },
+ {
+  "name": "devote",
+  "trans": "vt.投入于,献身"
+ },
+ {
+  "name": "diagram",
+  "trans": "n.图表"
+ },
+ {
+  "name": "dial",
+  "trans": "n.刻度盘,钟面,转盘,(自动电话)拨号盘v.拨"
+ },
+ {
+  "name": "dialect",
+  "trans": "n.方言,语调"
+ },
+ {
+  "name": "dialogue",
+  "trans": "n.对话"
+ },
+ {
+  "name": "diameter",
+  "trans": "n.直径"
+ },
+ {
+  "name": "diamond",
+  "trans": "n.钻石,菱形"
+ },
+ {
+  "name": "diary",
+  "trans": "n.日记"
+ },
+ {
+  "name": "dictate",
+  "trans": "v.口述,口授,使听写,指令,指示,命令,规定n.指示(指理智,变心)"
+ },
+ {
+  "name": "dictation",
+  "trans": "n.听写,口述"
+ },
+ {
+  "name": "dictionary",
+  "trans": "n.字典,词典"
+ },
+ {
+  "name": "differ",
+  "trans": "vi.不一致,不同"
+ },
+ {
+  "name": "difference",
+  "trans": "n.差异,差别,分歧,争论,[数]差额,差分adj.[数]微分的,[机]差动的"
+ },
+ {
+  "name": "difficulty",
+  "trans": "n.困难,难点"
+ },
+ {
+  "name": "dig",
+  "trans": "v.掘,挖,钻研,搜集"
+ },
+ {
+  "name": "diligent",
+  "trans": "adj.勤勉的,用功的,细心而继续不断的"
+ },
+ {
+  "name": "dim",
+  "trans": "adj.暗淡的,模糊的,无光泽的,悲观的,怀疑的vt.使暗淡,使失去光泽n.<美俚>笨蛋、傻子"
+ },
+ {
+  "name": "dinner",
+  "trans": "n.正餐,宴会"
+ },
+ {
+  "name": "dip",
+  "trans": "浸，蘸"
+ },
+ {
+  "name": "direct",
+  "trans": "adj.径直的,直接的,直系的,直率的,[天]由西向东运行的,顺行的adv.直接地vt.指引,指示,指挥,命令,导演vi.指导,指挥"
+ },
+ {
+  "name": "direction",
+  "trans": "n.方向,指导,趋势,(常用复数)指示,用法,说明(书),收件人地址"
+ },
+ {
+  "name": "directly",
+  "trans": "adv.直接地,立即"
+ },
+ {
+  "name": "director",
+  "trans": "n.主任,主管,导演,(机关)首长,(团体)理事,(公司)董事,指挥仪,控制器"
+ },
+ {
+  "name": "dirt",
+  "trans": "n.污垢,泥土"
+ },
+ {
+  "name": "disadvantage",
+  "trans": "n.不利,不利条件,缺点,劣势"
+ },
+ {
+  "name": "disagree",
+  "trans": "vi.不一致,不适宜"
+ },
+ {
+  "name": "disappear",
+  "trans": "vi.消失,不见"
+ },
+ {
+  "name": "disappoint",
+  "trans": "vt.使失望"
+ },
+ {
+  "name": "disaster",
+  "trans": "n.灾难,天灾,灾祸"
+ },
+ {
+  "name": "discharge",
+  "trans": "vt.卸下,放出,清偿(债务),履行(义务),解雇,开(炮),放(枪),射(箭)vi.卸货,流注n.卸货,流出,放电"
+ },
+ {
+  "name": "discourage",
+  "trans": "vt.使气馁,阻碍"
+ },
+ {
+  "name": "discover",
+  "trans": "vt.发现,发觉v.发现"
+ },
+ {
+  "name": "discovery",
+  "trans": "n.发现,发明的东西"
+ },
+ {
+  "name": "discuss",
+  "trans": "vt.讨论,论述"
+ },
+ {
+  "name": "discussion",
+  "trans": "n.讨论"
+ },
+ {
+  "name": "disease",
+  "trans": "n.疾病,弊病"
+ },
+ {
+  "name": "disgust",
+  "trans": "n.厌恶,嫌恶vi.令人厌恶,令人反感vt.使作呕"
+ },
+ {
+  "name": "dish",
+  "trans": "n.盘,碟,盘装菜v.提出 碟形卫星天线"
+ },
+ {
+  "name": "dishonour",
+  "trans": "v.(=dlishonor)<英>使丢脸,(票据的)拒收"
+ },
+ {
+  "name": "dislike",
+  "trans": "vt.讨厌,不喜欢n.嫌恶"
+ },
+ {
+  "name": "dismiss",
+  "trans": "vt.解散,下课,开除,解职,使(或让)离开vi.解散"
+ },
+ {
+  "name": "disorder",
+  "trans": "n.杂乱,混乱,无秩序状态vt.扰乱,使失调,使紊乱"
+ },
+ {
+  "name": "display",
+  "trans": "vt.陈列,展览,显示n.陈列,展览,显示 显示,显示器"
+ },
+ {
+  "name": "distance",
+  "trans": "n.距离,远离,一长段时间,远方,远景,遥远,(时间的)间隔,(时日的)经过"
+ },
+ {
+  "name": "distant",
+  "trans": "adj.远的,关系远的(亲戚),疏远的,间隔的,冷漠的"
+ },
+ {
+  "name": "distinction",
+  "trans": "n.区别,差别,级别,特性,声望,显赫"
+ },
+ {
+  "name": "distinguish",
+  "trans": "v.区别,辨别"
+ },
+ {
+  "name": "distress",
+  "trans": "n.悲痛,穷困,不幸,危难,忧伤v.使悲痛,使穷困,使忧伤"
+ },
+ {
+  "name": "distribute",
+  "trans": "vt.分发,分配,散布,分布,分类,分区v.分发"
+ },
+ {
+  "name": "district",
+  "trans": "n.区域,地方,管区,行政区,(美国各州的)众议院选区"
+ },
+ {
+  "name": "disturb",
+  "trans": "vt.弄乱,打乱,打扰,扰乱v.扰乱"
+ },
+ {
+  "name": "ditch",
+  "trans": "n.沟,沟渠,壕沟"
+ },
+ {
+  "name": "dive",
+  "trans": "vi.潜水,跳水,下潜,俯冲n.潜水,跳水,下潜,俯冲"
+ },
+ {
+  "name": "divide",
+  "trans": "v.分,划分,分开,隔开,"
+ },
+ {
+  "name": "division",
+  "trans": "n.分开,分割,区分,除法,公司,(军事)师,分配,分界线"
+ },
+ {
+  "name": "divorce",
+  "trans": "n.离婚,脱离vt.使离婚,与...脱离"
+ },
+ {
+  "name": "dollar",
+  "trans": "n.元,美元"
+ },
+ {
+  "name": "domestic",
+  "trans": "adj.家庭的,国内的,与人共处的,驯服的"
+ },
+ {
+  "name": "donkey",
+  "trans": "n.驴子,笨蛋,顽固者,(=donkey engine)轻便发动机,(=donkey pump)辅助泵"
+ },
+ {
+  "name": "dormitory/dorm",
+  "trans": "n.宿舍"
+ },
+ {
+  "name": "dose",
+  "trans": "n.剂量,(一)剂,(一)服v.(给...)服药"
+ },
+ {
+  "name": "dot",
+  "trans": "n.点,圆点,园点vt.在...上打点"
+ },
+ {
+  "name": "double",
+  "trans": "n.两倍,[计] 双精度型adj.两倍的,双重的vt.使加倍vi.加倍,快步走,加倍努力"
+ },
+ {
+  "name": "doubt",
+  "trans": "n.怀疑,疑惑,疑问v.怀疑,不信,拿不准,<古>恐怕"
+ },
+ {
+  "name": "doubtful",
+  "trans": "adj.可疑的,不确的,疑心的"
+ },
+ {
+  "name": "doubtless",
+  "trans": "adj.无疑的,确定的adv.无疑地,确定地,<口>大概、多半"
+ },
+ {
+  "name": "down",
+  "trans": "adj.向下的adv.向下,在下面,下去,降下 prep.往下,沿着n.绒毛,软毛,开阔的高地"
+ },
+ {
+  "name": "downstairs",
+  "trans": "adv.在楼下,往楼下,下楼"
+ },
+ {
+  "name": "dozen",
+  "trans": "n.一打,十二个"
+ },
+ {
+  "name": "draft",
+  "trans": "n.草稿,草案,草图vt.起草,为...打样,设计v.草拟"
+ },
+ {
+  "name": "drag",
+  "trans": "v.拖,拖曳,缓慢而费力地行动n.拖拉"
+ },
+ {
+  "name": "dramatic",
+  "trans": "adj.戏剧性的,生动的"
+ },
+ {
+  "name": "draw",
+  "trans": "v.拉,曳,牵,画,绘制,拖曳vt.汲取,领取,提取,引起,吸引vi.向...移动,挨近n.平局,和局,拖曳"
+ },
+ {
+  "name": "drawer",
+  "trans": "n.抽屉,画家,制图员,(用复数)衬裤、内裤"
+ },
+ {
+  "name": "drawing",
+  "trans": "n.图画,制图,素描术"
+ },
+ {
+  "name": "dream",
+  "trans": "v.做梦,梦见,梦想,想到n.梦,梦想"
+ },
+ {
+  "name": "dress",
+  "trans": "n.女服,童装,服装,衣服v.(给...)穿衣"
+ },
+ {
+  "name": "drift",
+  "trans": "n.冲洗,漂流物,观望,漂流v.(使)漂流"
+ },
+ {
+  "name": "drip",
+  "trans": "n.水滴v.(使)滴下"
+ },
+ {
+  "name": "drive",
+  "trans": "n.驾车,驱动器,快车道,推进力,驱使,动力,干劲,击球vt.开车,驱赶,推动、发动(机器等),驾驶(马车,汽车等)vi.开车,猛击,飞跑n.[计]驱动器"
+ },
+ {
+  "name": "drop",
+  "trans": "v.滴下,落下,(使声音等)变弱,(使价格等)下降,使跌倒,使结束,不再讨论,停止与(某人)交往n.落下,下降,滴,滴剂,点滴,微量,下跌"
+ },
+ {
+  "name": "drown",
+  "trans": "v.溺死,淹死vt.淹没"
+ },
+ {
+  "name": "drug",
+  "trans": "n.药,麻药,麻醉药,滞销货vi.<俗> 吸毒vt.使服毒品,毒化"
+ },
+ {
+  "name": "drum",
+  "trans": "n.鼓,鼓声,鼓形圆桶,[解]鼓膜,鼓室vi.击鼓,作鼓声vt.打鼓奏"
+ },
+ {
+  "name": "dry",
+  "trans": "adj.干的,干燥的,口渴的vt.(使)干燥,(使)变干v.干燥"
+ },
+ {
+  "name": "duck",
+  "trans": "n.鸭子,急忙蹲下,闪避,<俚> 人,家伙vi.没入水中,闪避vt.猛按...入水,躲避"
+ },
+ {
+  "name": "due",
+  "trans": "n.应得物、权力,[复]应付款adj.应得的,应付的,正当的,预期的,(车、船预定)应到的"
+ },
+ {
+  "name": "dull",
+  "trans": "adj.感觉或理解迟钝的,无趣的,呆滞的,阴暗的vt.使迟钝,使阴暗,缓和vi.变迟钝,减少"
+ },
+ {
+  "name": "dumb",
+  "trans": "adj.哑的,无说话能力的,不说话的,无声音的"
+ },
+ {
+  "name": "during",
+  "trans": "prep.在...的期间,在...的时候"
+ },
+ {
+  "name": "dusk",
+  "trans": "n.薄暮,黄昏"
+ },
+ {
+  "name": "dust",
+  "trans": "n.灰尘,尘土,尘埃vt.掸掉...上的灰尘,撒糖于糕上"
+ },
+ {
+  "name": "duty",
+  "trans": "n.义务,责任,职责,职务,税"
+ },
+ {
+  "name": "dye",
+  "trans": "n.染料,染色vt.染v.染"
+ },
+ {
+  "name": "each",
+  "trans": "adj.各自的,每个的,每一 pron.各,各自,每个adv.每个"
+ },
+ {
+  "name": "eager",
+  "trans": "adj.热心于,渴望着"
+ },
+ {
+  "name": "eagle",
+  "trans": "n.鹰,鹰状标饰"
+ },
+ {
+  "name": "earn",
+  "trans": "vt.赚,挣得,获得v.赚得,获得"
+ },
+ {
+  "name": "earnest",
+  "trans": "adj.认真的,热心的,重要的n.真挚,定金,认真,热心"
+ },
+ {
+  "name": "ease",
+  "trans": "n.安逸,安心,不费力,悠闲vt.使悠闲,使安心,减轻,放松vi.减弱,减轻,放松,灵活地移动"
+ },
+ {
+  "name": "easily",
+  "trans": "adv.容易地,不费力地"
+ },
+ {
+  "name": "eastern",
+  "trans": "adj.东方的,东部的"
+ },
+ {
+  "name": "echo",
+  "trans": "n.回声,回音,回波vi.发回声,随声附和vt.摹仿,重复,反射 [计] 禁止(或允许)在屏幕上显示批处理命令行"
+ },
+ {
+  "name": "economic",
+  "trans": "adj.经济(上)的,产供销的,经济学的"
+ },
+ {
+  "name": "economy",
+  "trans": "n.经济,节约,节约措施,经济实惠,系统,机体,经济制度的状况"
+ },
+ {
+  "name": "edge",
+  "trans": "n.刀口,利刃,锋,优势,边缘,优势,尖锐vt.使锋利,挤进,镶边,开刃vi.缓缓移动,侧着移动"
+ },
+ {
+  "name": "educate",
+  "trans": "vt.教育,训练,培养v.教育"
+ },
+ {
+  "name": "education",
+  "trans": "n.教育,训导,训练,培养,教育学"
+ },
+ {
+  "name": "effect",
+  "trans": "n.结果,效果,作用,影响,(在视听方面给人流下的)印象vt.招致,实现,达到(目的等)"
+ },
+ {
+  "name": "effective",
+  "trans": "adj.有效的,被实施的,给人深刻印象,有生力量"
+ },
+ {
+  "name": "efficiency",
+  "trans": "n.效率,功效"
+ },
+ {
+  "name": "efficient",
+  "trans": "adj.(直接)生效的,有效率的,能干的"
+ },
+ {
+  "name": "effort",
+  "trans": "n.努力,成就"
+ },
+ {
+  "name": "eg.",
+  "trans": "例如"
+ },
+ {
+  "name": "elastic",
+  "trans": "adj.弹性的"
+ },
+ {
+  "name": "elder",
+  "trans": "n.年长者,老人,父辈adj.年长的,资格老的,"
+ },
+ {
+  "name": "elect",
+  "trans": "vt.选举,推选v.选择,作出选择,选举,选举,选举"
+ },
+ {
+  "name": "election",
+  "trans": "n.选举,当选,选择权,[宗]上帝的选拔"
+ },
+ {
+  "name": "electric",
+  "trans": "adj.电的,导电的,电动的,电气"
+ },
+ {
+  "name": "electrical",
+  "trans": "adj.电的,有关电的"
+ },
+ {
+  "name": "electricity",
+  "trans": "n.电流,电,电学"
+ },
+ {
+  "name": "electronic",
+  "trans": "adj.电子的"
+ },
+ {
+  "name": "element",
+  "trans": "n.要素,元素,成分,元件,自然环境"
+ },
+ {
+  "name": "elevator",
+  "trans": "n.电梯,升降机,[空]升降舵"
+ },
+ {
+  "name": "else",
+  "trans": "adj.别的,其他的adv.另外,其他"
+ },
+ {
+  "name": "elsewhere",
+  "trans": "adv.在别处"
+ },
+ {
+  "name": "embarrass",
+  "trans": "vt.使困窘,使局促不安,阻碍,麻烦"
+ },
+ {
+  "name": "emerge",
+  "trans": "vi.显现,浮现,暴露,形成,(由某种状态)脱出,(事实)显现出来"
+ },
+ {
+  "name": "emergency",
+  "trans": "n.紧急情况,突然事件,非常时刻,紧急事件"
+ },
+ {
+  "name": "emit",
+  "trans": "vt.发出,放射,吐露,散发,发表,发行"
+ },
+ {
+  "name": "emotion",
+  "trans": "n.情绪,情感,感情"
+ },
+ {
+  "name": "emotional",
+  "trans": "adj.情绪的,情感的"
+ },
+ {
+  "name": "emperor",
+  "trans": "n.皇帝,君主"
+ },
+ {
+  "name": "emphasis",
+  "trans": "n.强调,重点"
+ },
+ {
+  "name": "emphasize",
+  "trans": "vt.强调,着重v.强调"
+ },
+ {
+  "name": "empire",
+  "trans": "n.帝国,帝权"
+ },
+ {
+  "name": "employ",
+  "trans": "vt.雇用,用,使用v.使用n.雇用"
+ },
+ {
+  "name": "employee",
+  "trans": "n.职工,雇员,店员"
+ },
+ {
+  "name": "employment",
+  "trans": "n.雇用,使用,利用,工作,职业"
+ },
+ {
+  "name": "empty",
+  "trans": "adj.空的,空洞的,空虚的vt.使成为空的,倒空v.倒空adj.空的,空闲的v.腾空,腾出来"
+ },
+ {
+  "name": "enable",
+  "trans": "vt.使能够,授予权利或方法"
+ },
+ {
+  "name": "encounter",
+  "trans": "v.遭遇,遇到,相遇n.遭遇,遭遇战"
+ },
+ {
+  "name": "encourage",
+  "trans": "vt.鼓励,怂恿v.鼓励,鼓励"
+ },
+ {
+  "name": "endless",
+  "trans": "adj.无止境的,无穷的"
+ },
+ {
+  "name": "endure",
+  "trans": "v.耐久,忍耐"
+ },
+ {
+  "name": "enemy",
+  "trans": "n.敌人,仇敌,[集合名词]敌军,[喻]大敌adj.敌人的,敌方的"
+ },
+ {
+  "name": "energy",
+  "trans": "n.精力,精神,活力,[物]能量"
+ },
+ {
+  "name": "enforce",
+  "trans": "vt.强迫,执行,坚持,加强"
+ },
+ {
+  "name": "engage",
+  "trans": "vt.使忙碌,雇佣,预定,使从事于,使参加vi.答应,从事,交战,[机]接合,啮合"
+ },
+ {
+  "name": "engine",
+  "trans": "n.发动机,机车,火车头"
+ },
+ {
+  "name": "engineer",
+  "trans": "n.工程师,技师,火车司机,轮机员,工兵"
+ },
+ {
+  "name": "engineering",
+  "trans": "n.工程(学)"
+ },
+ {
+  "name": "enlarge",
+  "trans": "v.扩大,放大"
+ },
+ {
+  "name": "enormous",
+  "trans": "adj.巨大的,庞大的,<古>极恶的,凶暴的"
+ },
+ {
+  "name": "enough",
+  "trans": "adj.足够的,充足的,只够做...的n.充足,足够,很多adv.足够地,充分地int.够了!"
+ },
+ {
+  "name": "ensure",
+  "trans": "vt.保证,担保,使安全,保证得到v.确保,确保,保证"
+ },
+ {
+  "name": "entertain",
+  "trans": "vt.娱乐,招待,接受,怀抱vi.款待"
+ },
+ {
+  "name": "enthusiasm",
+  "trans": "n.狂热,热心,积极性,激发热情的事物"
+ },
+ {
+  "name": "entire",
+  "trans": "adj.全部的,完整的,整个"
+ },
+ {
+  "name": "entitle",
+  "trans": "vt.给...权利(或资格),给...题名,给...称号v.授权,授权"
+ },
+ {
+  "name": "entrance",
+  "trans": "n.入口,门口,进入"
+ },
+ {
+  "name": "entry",
+  "trans": "n.登录,条目,进入,入口,[商]报关手续,[律]对土地的侵占,对房屋的侵入"
+ },
+ {
+  "name": "envelope",
+  "trans": "n.信封,封套,封袋,[天]包层,[数]包迹,[生]包膜"
+ },
+ {
+  "name": "environment",
+  "trans": "n.环境,外界"
+ },
+ {
+  "name": "envy",
+  "trans": "n.vt.羡慕,嫉妒"
+ },
+ {
+  "name": "equal",
+  "trans": "adj.相等的,均等的,胜任的,平静的,合适的,不相上下的n.相等的事物(或数量),对手,匹敌,同辈vt.等于,比得上"
+ },
+ {
+  "name": "equation",
+  "trans": "n.相等,平衡,综合体,因素,方程式,等式,"
+ },
+ {
+  "name": "equip",
+  "trans": "vt.装备,配备,训练,准备行装"
+ },
+ {
+  "name": "equipment",
+  "trans": "n.装备,设备,器材,装置,铁道车辆,(一企业除房地产以外的)固定资产,才能"
+ },
+ {
+  "name": "era",
+  "trans": "n.时代,纪元,时期,[地]代"
+ },
+ {
+  "name": "error",
+  "trans": "n.错误,过失,误差"
+ },
+ {
+  "name": "escape",
+  "trans": "n.逃,逃亡,溢出设备,出口,逃跑,[植]野生vi.逃脱,避开,溜走vt.逃避,避免,被忘掉"
+ },
+ {
+  "name": "especially",
+  "trans": "adv.特别,尤其"
+ },
+ {
+  "name": "essay",
+  "trans": "vt.企图,尝试n.企图,散文,小品文,随笔,短文,评论"
+ },
+ {
+  "name": "essential",
+  "trans": "adj.本质的,实质的,基本的,提炼的,精华的n.本质,实质,要素,要点"
+ },
+ {
+  "name": "establish",
+  "trans": "vt.建立,设立,安置,使定居,使人民接受,确定v.建立"
+ },
+ {
+  "name": "estimate",
+  "trans": "v.估计,估价,评估n.估计,估价,评估"
+ },
+ {
+  "name": "etc.",
+  "trans": "等等"
+ },
+ {
+  "name": "evaluate",
+  "trans": "vt.评价,估计,求...的值v.评价"
+ },
+ {
+  "name": "eve",
+  "trans": "n.[诗]黄昏,前夕,前日 Eve 伊夫(女子名)"
+ },
+ {
+  "name": "even",
+  "trans": "adj.平的,平滑的,偶数的,一致的,平静的,恰好的,平均的,连贯的adv.[加强语气]甚至(...也),连...都,即使,恰好,正当vt.使平坦,使相等vi.变平,相等n.偶数,偶校验"
+ },
+ {
+  "name": "evening",
+  "trans": "n.傍晚,晚间,后期,(联欢性的)晚会"
+ },
+ {
+  "name": "event",
+  "trans": "n.事件,事变,结果,活动,精力,竞赛"
+ },
+ {
+  "name": "eventually",
+  "trans": "adv.最后,终于"
+ },
+ {
+  "name": "ever",
+  "trans": "adv.曾经,永远,不断地,在任何时候,究竟"
+ },
+ {
+  "name": "every",
+  "trans": "adj.每一的,每个的,全部的,每隔...的"
+ },
+ {
+  "name": "everybody",
+  "trans": "int.每个人,人人"
+ },
+ {
+  "name": "everyday",
+  "trans": "adj.每天的,日常的,平常的,平凡的"
+ },
+ {
+  "name": "everyone",
+  "trans": "pron.每个人,人人"
+ },
+ {
+  "name": "everything",
+  "trans": "pron.每件事物,万事"
+ },
+ {
+  "name": "everywhere",
+  "trans": "adv.各处,到处"
+ },
+ {
+  "name": "evidence",
+  "trans": "n.明显,显著,明白,迹象,根据,[物]证据,证物"
+ },
+ {
+  "name": "evil",
+  "trans": "adj.邪恶的,带来麻烦的,不幸的,有害的,诽谤的n.邪恶,不幸,罪恶"
+ },
+ {
+  "name": "exact",
+  "trans": "adj.精确的,准确的,原样的,精密的,严格vt.强求,急需,要求"
+ },
+ {
+  "name": "exactly",
+  "trans": "adv.正确地,严密地"
+ },
+ {
+  "name": "exaggerate",
+  "trans": "v.夸大,夸张"
+ },
+ {
+  "name": "examination/exam",
+  "trans": "n.考试,检查,细查"
+ },
+ {
+  "name": "examine",
+  "trans": "v.检查,调查,考试"
+ },
+ {
+  "name": "example",
+  "trans": "n.例子,实例,例题,范例,榜样,鉴戒,实例"
+ },
+ {
+  "name": "exceed",
+  "trans": "vt.超越,胜过vi.超过其他"
+ },
+ {
+  "name": "excellent",
+  "trans": "adj.卓越的,极好的"
+ },
+ {
+  "name": "except",
+  "trans": "vt.除,把...除外,反对,不计vi.反对 prep.除了...之外,若不是,除非 conj.只是,要不是"
+ },
+ {
+  "name": "exception",
+  "trans": "n.除外,例外,反对,异议"
+ },
+ {
+  "name": "excessive",
+  "trans": "adj.过多的,过分的,额外"
+ },
+ {
+  "name": "exchange",
+  "trans": "vt.交换,调换,兑换,交流,交易n.交换,调换,兑换,交流,交易"
+ },
+ {
+  "name": "excite",
+  "trans": "vt.刺激,使兴奋,使激动vi.<口>兴奋,激动"
+ },
+ {
+  "name": "exciting",
+  "trans": "adj.令人兴奋的,使人激动的"
+ },
+ {
+  "name": "exclaim",
+  "trans": "v.呼喊,惊叫,大声叫"
+ },
+ {
+  "name": "exclude",
+  "trans": "vt.拒绝接纳,把...排除在外,排斥"
+ },
+ {
+  "name": "execute",
+  "trans": "vt.执行,实行,完成,处死,制成,[律]经签名盖章等手续使(证书)生效"
+ },
+ {
+  "name": "executive",
+  "trans": "adj.实行的,执行的,行政的n.执行者,经理主管人员"
+ },
+ {
+  "name": "exercise",
+  "trans": "n.练习,习题,训练,锻炼,演习v.训练,锻炼vt.行使,使担扰"
+ },
+ {
+  "name": "exhaust",
+  "trans": "vt.用尽,耗尽,抽完,使精疲力尽vi.排气n.排气,排气装置adj.用不完的,不会枯竭的"
+ },
+ {
+  "name": "exhibit",
+  "trans": "vt.展出,陈列n.展览品,陈列品,展品v.展示"
+ },
+ {
+  "name": "exhibition",
+  "trans": "n.表现,展览会,展览品,显示"
+ },
+ {
+  "name": "exist",
+  "trans": "vi.存在,生存,生活,继续存在"
+ },
+ {
+  "name": "existence",
+  "trans": "n.存在,实在,生活,存在物,实在物"
+ },
+ {
+  "name": "exit",
+  "trans": "n.出口,太平门,退场,去世vi.退出,脱离,去世 [计]  离开当前命令行外壳"
+ },
+ {
+  "name": "expect",
+  "trans": "vt.期待,预期,盼望,指望,<口>(料)想,认为"
+ },
+ {
+  "name": "experience",
+  "trans": "n.vt.经验,体验,经历,阅历"
+ },
+ {
+  "name": "experiment",
+  "trans": "n.实验,试验vi.进行实验,做试验"
+ },
+ {
+  "name": "expert",
+  "trans": "n.专家,行家,[军](特等)射手adj.老练的,内行的,专门的vt.在...中当行家,当专家"
+ },
+ {
+  "name": "explain",
+  "trans": "v.解释,说明"
+ },
+ {
+  "name": "explanation",
+  "trans": "n.解释,解说,说明,辩解,互相讲明"
+ },
+ {
+  "name": "explode",
+  "trans": "vt.使爆炸vi.爆炸,爆发,破除,推翻,激发"
+ },
+ {
+  "name": "explore",
+  "trans": "v.探险,探测,探究"
+ },
+ {
+  "name": "explosion",
+  "trans": "n.爆发,发出,爆炸,[矿]煤气爆炸"
+ },
+ {
+  "name": "explosive",
+  "trans": "adj.爆炸(性)的,爆发(性)的,暴露n.爆炸物,炸药"
+ },
+ {
+  "name": "export",
+  "trans": "vt.输出n.出口货,输出,出口,出口商品v.出口"
+ },
+ {
+  "name": "expose",
+  "trans": "vt.使暴露,受到,使曝光v.揭露"
+ },
+ {
+  "name": "express",
+  "trans": "adj.急速的,特殊的,明确的n.快车,快递,专使vt.表达,表示adv.乘快车,以快递方式"
+ },
+ {
+  "name": "expression",
+  "trans": "表示，措辞，脸色"
+ },
+ {
+  "name": "extend",
+  "trans": "v.扩充,延伸,伸展,扩大[军]使疏开,给予,提供,演化出的全文,<英>[律]对(地产等)估价"
+ },
+ {
+  "name": "extensive",
+  "trans": "adj.广大的,广阔的,广泛的"
+ },
+ {
+  "name": "extent",
+  "trans": "n.广度,宽度,长度,范围,程度,区域,[律]<英>扣押,<美>临时所有权令"
+ },
+ {
+  "name": "external",
+  "trans": "adj.外部的,客观的,[医]外用的,外国的,表面的n.外部,外面"
+ },
+ {
+  "name": "extra",
+  "trans": "adj.额外的,不包括在价目内的,特大的,特佳的adv.特别地,非常,另外n.额外的人(或物),(报纸)号外,上等产品,(电影)临时演员"
+ },
+ {
+  "name": "extraordinary",
+  "trans": "adj.非常的,特别的,非凡的,特派的"
+ },
+ {
+  "name": "extreme",
+  "trans": "adj.尽头的,极端的,极度的,偏激的,最后的n.极端,极端的事物"
+ },
+ {
+  "name": "eyesight",
+  "trans": "n.视力,目力"
+ },
+ {
+  "name": "fabric",
+  "trans": "n.织品,织物,布,结构,建筑物,构造"
+ },
+ {
+  "name": "facility",
+  "trans": "n.容易,简易,灵巧,熟练,便利,敏捷,设备,工具"
+ },
+ {
+  "name": "factor",
+  "trans": "n.因素,要素,因数,代理人"
+ },
+ {
+  "name": "fade",
+  "trans": "vi.(声音等)减弱下去,褪色,消失,枯萎,凋谢vt.使褪色n.淡入,淡出adj.乏味的,平淡的"
+ },
+ {
+  "name": "failure",
+  "trans": "n.失败,失败者,缺乏,失灵,故障,破产,疏忽,<美>不及格"
+ },
+ {
+  "name": "faint",
+  "trans": "n.昏晕,昏倒adj.虚落地,衰弱的,软弱的,无力的,微弱的,暗淡的,模糊的vi.昏晕,昏倒,变得微弱,变得没气力"
+ },
+ {
+  "name": "fair",
+  "trans": "adj.美丽的,女性的,(肤色)白皙的,(头发)金黄的,干净的,公平的,(天气)晴朗的adv.公平地,公正地,直接地,清楚地n.美好的事物,美人,展览会,市集vi.转晴"
+ },
+ {
+  "name": "fairly",
+  "trans": "adv.公正地,正当的,公平对待某人,公平地,相当地,还算,清楚地"
+ },
+ {
+  "name": "faith",
+  "trans": "n.信任,信念,宗教信仰,忠实,保证,诺言,约定"
+ },
+ {
+  "name": "faithful",
+  "trans": "adj.守信的,忠实的,详确的,可靠的n.信徒"
+ },
+ {
+  "name": "false",
+  "trans": "假的，虚伪的"
+ },
+ {
+  "name": "familiar",
+  "trans": "adj.熟悉的,常见的,听惯的,亲近的,随便的n.密友,熟客,常客"
+ },
+ {
+  "name": "famine",
+  "trans": "n.饥荒,<古>饥饿,严重的缺乏"
+ },
+ {
+  "name": "famous",
+  "trans": "adj.著名的,出名的,<口>极好的,令人满意的"
+ },
+ {
+  "name": "fan",
+  "trans": "n.扇子,鼓风机,风扇,迷,狂热者,爱好者vt.煽动,刺激,扇,吹拂vi.飘动,成扇形散开"
+ },
+ {
+  "name": "fare",
+  "trans": "n.费用,旅客,食物vi.遭遇,进展,进步,经营,过活"
+ },
+ {
+  "name": "farewell",
+  "trans": "n.辞别,再见,再会int.再会,别了!(常含有永别或不容易再见面的意思)"
+ },
+ {
+  "name": "farmer",
+  "trans": "n.农夫,百姓,农民,农场主,承包主,牧场主,畜牧者"
+ },
+ {
+  "name": "fashion",
+  "trans": "n.样子,方式,流行,风尚,时样vt.形成,造,作,把...塑造成,使适应,使适合,改革,改变"
+ },
+ {
+  "name": "fashionable",
+  "trans": "adj.流行的,时髦的"
+ },
+ {
+  "name": "fasten",
+  "trans": "vt.扎牢,扣住,闩住,拴紧,使固定,系,集中于,强加于vi.扣紧,抓住"
+ },
+ {
+  "name": "fatal",
+  "trans": "adj.致命的,重大的,命运注定的,不幸的,致命的,毁灭性的"
+ },
+ {
+  "name": "fate",
+  "trans": "n.天数,命运,运气vt.注定,送命"
+ },
+ {
+  "name": "fatigue",
+  "trans": "n.疲乏,疲劳,累活,[军]杂役vt.使疲劳,使心智衰弱vi.疲劳"
+ },
+ {
+  "name": "fault",
+  "trans": "n.过错,缺点,故障,毛病vt.挑剔vi.弄错"
+ },
+ {
+  "name": "favor",
+  "trans": "n.好感,宠爱,关切,欢心,好意,喜爱vt.支持,赞成,照顾,促成,象,喜欢,证实,赐予"
+ },
+ {
+  "name": "favorable",
+  "trans": "adj.赞成的,有利的,赞许的,良好的,讨人喜欢的,起促进作用的"
+ },
+ {
+  "name": "favorite",
+  "trans": "n.特别喜欢的人(或物),喜欢的事物,亲信,心腹,幸运儿adj.喜爱的,宠爱的,中意的"
+ },
+ {
+  "name": "fear",
+  "trans": "n.恐怖,害怕,担心,敬畏v.害怕,畏惧,为...担心,敬畏(神等)"
+ },
+ {
+  "name": "fearful",
+  "trans": "adj.可怕的,吓人的,恐怕的,严重的"
+ },
+ {
+  "name": "feasible",
+  "trans": "adj.可行的,切实可行的"
+ },
+ {
+  "name": "feather",
+  "trans": "n.翎毛,轻的东西,羽毛vi.长羽毛vt.用羽毛装饰,射掉(飞禽)的羽毛"
+ },
+ {
+  "name": "feature",
+  "trans": "n.面貌的一部分(眼,口,鼻等)特征,容貌,特色,特写vt.是...的特色,特写,放映vi.起重要作用"
+ },
+ {
+  "name": "federal",
+  "trans": "adj.联邦的,联合的,联邦制的,同盟的n.(南北战争时期)北部联邦同盟盟员 北京连邦软件产业发展公司,国内主要的正版软件经销商"
+ },
+ {
+  "name": "fee",
+  "trans": "n.费(会费、学费等),酬金"
+ },
+ {
+  "name": "feed",
+  "trans": "n.饲养,饲料,(动物或婴儿的)一餐vt.喂养,饲养,放牧,靠...为生vi.吃东西,流入"
+ },
+ {
+  "name": "feeling",
+  "trans": "n.触觉,知觉,感觉,情绪,同情adj.富于感情的,富于同情心的,衷心的,有同情心的,有感觉的,仁慈的"
+ },
+ {
+  "name": "fell",
+  "trans": "vbl.fall 的过去式vt.击倒,打倒(疾病等),致于...死地,砍伐n.一季所伐的木材,兽皮,羊毛adj.凶猛的,可怕的"
+ },
+ {
+  "name": "fellow",
+  "trans": "n.人,家伙,伙伴,学会特别会员,朋友,同事adj.同伴的,同事的,同道的"
+ },
+ {
+  "name": "female",
+  "trans": "n.女性,女人,雌兽adj.女性的,女子的,妇女的,雌的,柔弱的,(声,色)柔和的"
+ },
+ {
+  "name": "fence",
+  "trans": "n.栅栏,围墙,剑术vt.用篱笆围住,练习剑术,防护vi.击剑,围以栅栏,跳过栅栏,搪塞"
+ },
+ {
+  "name": "fertile",
+  "trans": "adj.肥沃的,富饶的,能繁殖的"
+ },
+ {
+  "name": "fertilizer",
+  "trans": "n.肥料(尤指化学肥料),[动]受精媒介物"
+ },
+ {
+  "name": "festival",
+  "trans": "n.节日,喜庆日,音乐节,戏剧节,喜庆,欢宴,欢乐adj.节日的,快乐的"
+ },
+ {
+  "name": "fetch",
+  "trans": "vt.接来,取来,带来,售得,引出,吸引,到达,演绎出vi.取物,绕道而行n.取得,拿,诡计,魂"
+ },
+ {
+  "name": "fever",
+  "trans": "n.发烧,发热,热病,狂热,高度兴奋v.(使)发烧,(使)患热病,(使)狂热"
+ },
+ {
+  "name": "few",
+  "trans": "adj.很少的,不多的,少数的n.[表示否定]很少数,几乎没有"
+ },
+ {
+  "name": "fibre/fiber",
+  "trans": "n.纤维,构造,纤维制品,[植]须根"
+ },
+ {
+  "name": "field",
+  "trans": "n.原野,旷野,领域,(一块)田地,牧场,域,战场,运动场vt.把(谷物等)暴晒于场上,使上场vi.担任场外队员adj.田间的,野生的,野外的,田赛的 扫描场"
+ },
+ {
+  "name": "fierce",
+  "trans": "adj.凶猛的,猛烈的,热烈的,暴躁的<美>极讨厌的,难受的,<英方>精力旺盛的"
+ },
+ {
+  "name": "fight",
+  "trans": "n.打架,战斗,斗志vi.打仗,搏斗,对抗,打架vt.与...打仗,指挥战斗,反对...提案"
+ },
+ {
+  "name": "figure",
+  "trans": "外形，图形，人物"
+ },
+ {
+  "name": "fill",
+  "trans": "vt.装满,注满,充满,填充,弥漫,供应,供给,满足vi.充满n.满足,饱,充分,填方v.填充"
+ },
+ {
+  "name": "filter",
+  "trans": "n.滤波器,过滤器,滤光器,筛选vt.过滤,渗透,用过滤法除去vi.滤过,渗入,(消息等)走漏,慢慢传开"
+ },
+ {
+  "name": "final",
+  "trans": "n.结局,决赛,期末考试,<口>报纸(在一天中)最晚版adj.最后的,最终的,决定性的"
+ },
+ {
+  "name": "financial",
+  "trans": "adj.财政的,金融的"
+ },
+ {
+  "name": "finding",
+  "trans": "n.发现,发现物,决定,[律]裁决"
+ },
+ {
+  "name": "fine",
+  "trans": "adj.美好的,优良的,杰出的,精美的,杰出的,细,纤细,纯粹n.罚款,罚金,晴天,精细vt.罚款,精炼,澄清vi.变清,变细adv.<口>很好,妙,[常用于构成复合词]细微地,精巧地"
+ },
+ {
+  "name": "finger",
+  "trans": "n.手指(尤指大拇指以外的手指),指状物,指针,查找器(查找因特网用户的程序)v.用手指拨弄,伸出"
+ },
+ {
+  "name": "finish",
+  "trans": "n.完成,结束,磨光,末道漆,完美vt.完成,结束,用完,毁掉,使完美vi.结束,终结,停止,终止"
+ },
+ {
+  "name": "fireman",
+  "trans": "n.救火队员,消防队员"
+ },
+ {
+  "name": "firm",
+  "trans": "n.公司,(合伙)商号adj.结实的,坚硬的,坚定的,坚固的,牢固的,稳固的,严格的vt.使牢固,使坚定vi.变稳固,变坚实adv.稳固地,坚定地"
+ },
+ {
+  "name": "fisherman",
+  "trans": "n.渔民,渔夫"
+ },
+ {
+  "name": "fist",
+  "trans": "n.拳头,手,抓住,抓牢vt.拳打,握成拳,紧握"
+ },
+ {
+  "name": "fit",
+  "trans": "n.突然发作,适合,痉挛,一阵adj.合适的,恰当的,健康的,,准备好的vt.适合,安装,使合身,使适应,使合格vi.适合,符合"
+ },
+ {
+  "name": "fix",
+  "trans": "vt.使固定,装置,修理,准备,安装,凝视,整理,牢记vi.固定,注视,决定,选定,确定n.困境,方位,贿赂"
+ },
+ {
+  "name": "flag",
+  "trans": "n.旗,标记v.标记"
+ },
+ {
+  "name": "flame",
+  "trans": "n.火焰,光辉,光芒,热情,激情"
+ },
+ {
+  "name": "flat",
+  "trans": "adj.平坦的,扁平的,单调的,倒下的,浅的,干脆的,无聊的,无力的adv.平直地,仰卧地,恰恰,正好,断然地n.平面,平地,一层,公寓v.(使)变平,(使)降半音"
+ },
+ {
+  "name": "flavor",
+  "trans": "n.情味,风味,滋味,香料vt.加味于"
+ },
+ {
+  "name": "fleet",
+  "trans": "n.舰队(尤指有固定活动地区的舰队),港湾,小河adj.快速的,敏捷的,浅的adv.浅vt.消磨vi.疾驰,飞逝,掠过"
+ },
+ {
+  "name": "flesh",
+  "trans": "n.肉,(供食用的)兽肉,肉体,肉欲,果肉,蔬菜的嫩部,亲属,人体vt.以肉喂(猎犬等),使肥,赋以血肉vi.长胖"
+ },
+ {
+  "name": "flexible",
+  "trans": "adj.柔韧性,易曲的,灵活的,柔软的,能变形的,可通融的"
+ },
+ {
+  "name": "flight",
+  "trans": "n.飞行,逃走,飞跃,飞机的航程,班机,追逐,楼梯的一段,射程vi.成群飞行,迁徙vt.射击(飞禽),使惊飞"
+ },
+ {
+  "name": "float",
+  "trans": "n.漂流物,浮舟,漂浮,浮萍,彩车vi.浮动,飘浮,散播,摇摆,漂浮,动摇(计划等)付诸实行vt.使漂浮,容纳,淹没,发行,实行,用水注满"
+ },
+ {
+  "name": "flock",
+  "trans": "n.羊群,(禽、畜等的)群,大量,众多v.聚结"
+ },
+ {
+  "name": "flood",
+  "trans": "n.洪水,水灾,(因雨)涨潮,[诗]水vt.淹没,使泛滥,注满,充满vi.被水淹,溢出,涌进,喷出,涌出"
+ },
+ {
+  "name": "flour",
+  "trans": "n.面粉"
+ },
+ {
+  "name": "flourish",
+  "trans": "vi.繁荣,茂盛,活跃,手舞足蹈,兴旺,处于旺盛时期vt.挥动,夸耀n.茂盛,兴旺,华饰,繁荣"
+ },
+ {
+  "name": "flow",
+  "trans": "n.流程,流动,(河水)泛滥,洋溢vi.流动,涌流,川流不息,飘扬vt.溢过,淹没"
+ },
+ {
+  "name": "fluent",
+  "trans": "adj.流利的,流畅的"
+ },
+ {
+  "name": "fluid",
+  "trans": "n.流动性,流度adj.流动的,不固定的,可改变的,可另派用场的,流畅的"
+ },
+ {
+  "name": "fly",
+  "trans": "n.苍蝇,两翼昆虫,飞行vi.飞翔,飘扬,溃逃vt.飞越,使飘扬,逃脱adj.机敏的,敏捷的"
+ },
+ {
+  "name": "focus",
+  "trans": "n.(兴趣活动等的)中心,焦点,焦距,[医]病灶,[地](地震的)震源vi.聚焦,注视vt.使集中在焦点上,定焦点,调焦,集中"
+ },
+ {
+  "name": "fog",
+  "trans": "n.雾,烟雾,尘雾,迷惑,苔藓vi.被雾笼罩,变模糊vt.使困惑,以雾笼罩"
+ },
+ {
+  "name": "fold",
+  "trans": "n.折,羊栏,折痕,信徒vt.折叠,包,合拢,抱住,笼罩,调入,交迭vi.折叠起来,彻底失败"
+ },
+ {
+  "name": "follow",
+  "trans": "vt.跟随,追随,沿...而行,理解,遵循,从事,追求,注视vi.跟随,接着n.跟随,追随"
+ },
+ {
+  "name": "following",
+  "trans": "n.下列各项,部下,党羽adj.下列的,其次的 prep.在...之后"
+ },
+ {
+  "name": "fool",
+  "trans": "n.愚人,白痴,莽汉,受骗者,奶油拌水果vt.愚弄,欺骗,浪费vi.干傻事,开玩笑,游荡adj.傻的"
+ },
+ {
+  "name": "foolish",
+  "trans": "adj.愚蠢的,傻的,笨的,卤莽的,可爱的"
+ },
+ {
+  "name": "footstep",
+  "trans": "n.脚步,脚步声,一步跨出去的距离"
+ },
+ {
+  "name": "forbid",
+  "trans": "vt.禁止,不许v.禁止"
+ },
+ {
+  "name": "force",
+  "trans": "n.力量,武力,精力,魄力,势力,暴力,[复]军队,影响力vt.强制,强加,(用武力)夺取,促使,推动,施加压力"
+ },
+ {
+  "name": "forecast",
+  "trans": "n.先见,预见,预测,预报vt.预想,预测,预报,预兆"
+ },
+ {
+  "name": "forehead",
+  "trans": "n.前额,(任何事物的)前部"
+ },
+ {
+  "name": "foreign",
+  "trans": "adj.外国的,外交的,外国产的,外来的,[医]异质的,不相关的"
+ },
+ {
+  "name": "foreigner",
+  "trans": "n.外国人,外地人"
+ },
+ {
+  "name": "forest",
+  "trans": "n.森林,林木,<英>御猎场adj.森林的,住在森林中的vt.植树于"
+ },
+ {
+  "name": "forever",
+  "trans": "adv.永远,永恒,永久,常常,始终"
+ },
+ {
+  "name": "forget",
+  "trans": "vt.忘记,忽略vi.忘记,忘形,忘乎所以"
+ },
+ {
+  "name": "forgive",
+  "trans": "vt.原谅,饶恕,宽免(某人)之债务"
+ },
+ {
+  "name": "fork",
+  "trans": "n.叉,耙,叉形物,餐叉"
+ },
+ {
+  "name": "form",
+  "trans": "n.形状,形态,外形,表格,形式v.形成,构成,排列,(使)组成"
+ },
+ {
+  "name": "formal",
+  "trans": "adj.外形的,正式的,合礼仪的,形式的,整齐匀称的n.正式的社交活动"
+ },
+ {
+  "name": "formation",
+  "trans": "n.形成,构成,编队"
+ },
+ {
+  "name": "former",
+  "trans": "adj.从前的,以前的n.形成者,创造者,模型,样板"
+ },
+ {
+  "name": "formula",
+  "trans": "n.公式,规则,客套语"
+ },
+ {
+  "name": "forth",
+  "trans": "adv.往前,向外"
+ },
+ {
+  "name": "fortnight",
+  "trans": "n.两星期"
+ },
+ {
+  "name": "fortunate",
+  "trans": "adj.幸运的,幸福的"
+ },
+ {
+  "name": "fortunately",
+  "trans": "adv.幸运地"
+ },
+ {
+  "name": "fortune",
+  "trans": "n.财富,运气,大量财产,好运,命运vt.<古>偶然发生vt.给...以大宗财富"
+ },
+ {
+  "name": "forward",
+  "trans": "adj.早的,迅速的,前进的vt.转寄,促进,运送adv.向前地,向将来n.[体](足球等)前锋"
+ },
+ {
+  "name": "found",
+  "trans": "v.建立,创立,创办,使有根据,铸造,熔制"
+ },
+ {
+  "name": "foundation",
+  "trans": "n.基础,根本,建立,创立,地基,基金,基金会"
+ },
+ {
+  "name": "fountain",
+  "trans": "n.泉水,喷泉,源泉"
+ },
+ {
+  "name": "fox",
+  "trans": "n.狐狸,狐皮,狡猾的人vi.奸狡地行动,变酸vt.使变酸,使生黄斑"
+ },
+ {
+  "name": "fraction",
+  "trans": "n.小部分,片断,分数"
+ },
+ {
+  "name": "fragment",
+  "trans": "n.碎片,断片,片段"
+ },
+ {
+  "name": "frame",
+  "trans": "n.结构,体格vt.构成,设计,制定,使适合,陷害vi.<英方>有成功希望n.帧,画面,框架"
+ },
+ {
+  "name": "framework",
+  "trans": "n.构架,框架,结构"
+ },
+ {
+  "name": "frank",
+  "trans": "adj.坦白的,率直的,老实的vt.免费邮寄n.免费邮寄特权 Frank 弗兰克(男子名)"
+ },
+ {
+  "name": "free",
+  "trans": "adj.自由的,大方的,免费的,免税的,丰富的,空闲的vt.释放,使自由adv.自由地,免费"
+ },
+ {
+  "name": "freedom",
+  "trans": "n.自由,自主,直率,特权"
+ },
+ {
+  "name": "freeze",
+  "trans": "v.(使)结冰,(使)冷冻,冻结"
+ },
+ {
+  "name": "frequently",
+  "trans": "adv.常常,频繁地n.经常地"
+ },
+ {
+  "name": "fresh",
+  "trans": "adj.新鲜的,无经验的,生的,冒失的,鲜艳的adv.最新地,刚刚n.开始,泛滥"
+ },
+ {
+  "name": "friendly",
+  "trans": "adj.友好的,友谊的"
+ },
+ {
+  "name": "friendship",
+  "trans": "n.友谊,友好"
+ },
+ {
+  "name": "frighten",
+  "trans": "vt.使惊吓vi.惊恐"
+ },
+ {
+  "name": "frog",
+  "trans": "n.青蛙vi.捕蛙"
+ },
+ {
+  "name": "frontier",
+  "trans": "n.国境,边疆,边境"
+ },
+ {
+  "name": "frost",
+  "trans": "n.霜,霜冻,严寒v.结霜"
+ },
+ {
+  "name": "frown",
+  "trans": "vi.皱眉,蹙额,不赞成,反对v.皱眉"
+ },
+ {
+  "name": "fruit",
+  "trans": "n.水果,果实,果类,成果vi.结果实"
+ },
+ {
+  "name": "fry",
+  "trans": "n.油炸食物,油炸锅,鱼苗,鱼秧v.油炸,油煎"
+ },
+ {
+  "name": "fuel",
+  "trans": "n.燃料vt.加燃料,供以燃料vi.得到燃料"
+ },
+ {
+  "name": "fulfill",
+  "trans": "vt.履行,实现,完成(计划等)"
+ },
+ {
+  "name": "full",
+  "trans": "n.全部,完整adj.充满的,完全的,丰富的,完美的,详尽的,丰满的adv.完全地,整整,十分vt.把衣服缝得宽大"
+ },
+ {
+  "name": "fun",
+  "trans": "n.娱乐,玩笑,嬉笑,有趣的人或事物vi.开玩笑adj.供娱乐用的"
+ },
+ {
+  "name": "function",
+  "trans": "n.官能,功能,作用,职责,典礼,仪式,[数]函数vi.(器官等)活动,运行,行使职责"
+ },
+ {
+  "name": "fund",
+  "trans": "n.资金,基金v.支助,投资"
+ },
+ {
+  "name": "fundamental",
+  "trans": "adj.基础的,基本的n.[pl.] 基本原则,基本原理"
+ },
+ {
+  "name": "funeral",
+  "trans": "n.葬礼,出殡"
+ },
+ {
+  "name": "funny",
+  "trans": "adj.有趣的,好笑的,滑稽的,奇异的,古怪的n.滑稽人物"
+ },
+ {
+  "name": "fur",
+  "trans": "n.毛皮,毛,软毛"
+ },
+ {
+  "name": "furnace",
+  "trans": "n.炉子,熔炉"
+ },
+ {
+  "name": "furniture",
+  "trans": "n.家具,设备,储藏物"
+ },
+ {
+  "name": "further",
+  "trans": "adj.更远的,更多的,深一层的vt.促进,增进,助长adv.更进一步地,更远地,此外"
+ },
+ {
+  "name": "furthermore",
+  "trans": "adv.此外,而且"
+ },
+ {
+  "name": "future",
+  "trans": "n.未来,将来,前途,远景adj.未来的,将来的"
+ },
+ {
+  "name": "gain",
+  "trans": "n.财物的增加,财富的获取,利润,腰槽,收获vt.得到,增进,赚到,开腰槽于vi.获利,增加"
+ },
+ {
+  "name": "gallon",
+  "trans": "n.加仑"
+ },
+ {
+  "name": "gang",
+  "trans": "n.(一)伙,(一)群"
+ },
+ {
+  "name": "gap",
+  "trans": "n.缺口,裂口,间隙,缝隙,差距,隔阂"
+ },
+ {
+  "name": "garage",
+  "trans": "n.汽车间,修车厂,车库v.放入车库"
+ },
+ {
+  "name": "gardener",
+  "trans": "n.园丁"
+ },
+ {
+  "name": "gas",
+  "trans": "气体，煤气"
+ },
+ {
+  "name": "gasoline",
+  "trans": "n.汽油"
+ },
+ {
+  "name": "gate",
+  "trans": "n.大门"
+ },
+ {
+  "name": "gay",
+  "trans": "adj.欢迎的,<美俚>同性恋的,放荡的,快乐的n.<美俚> 同性恋者,尤指男性同性者"
+ },
+ {
+  "name": "gaze",
+  "trans": "v.盯,凝视n.凝视"
+ },
+ {
+  "name": "general",
+  "trans": "n.普通,将军,概要adj.一般的,普通的,综合的,概括的,全面的,大体的 n.常规"
+ },
+ {
+  "name": "generally",
+  "trans": "adv.一般,通常,一般地"
+ },
+ {
+  "name": "generation",
+  "trans": "n.产生,发生,一代,一代人"
+ },
+ {
+  "name": "generator",
+  "trans": "n.发电机,发生器"
+ },
+ {
+  "name": "generous",
+  "trans": "adj.慷慨的,大方的,有雅量的"
+ },
+ {
+  "name": "genius",
+  "trans": "n.天才,天赋,天才人物"
+ },
+ {
+  "name": "gentle",
+  "trans": "adj.温和的,文雅的"
+ },
+ {
+  "name": "gentleman",
+  "trans": "n.阁下,先生,有身分的人,绅士,[pl.] 男厕所,男盥洗室"
+ },
+ {
+  "name": "gently",
+  "trans": "adv.轻轻地,逐渐地"
+ },
+ {
+  "name": "genuine",
+  "trans": "adj.真实的,真正的,诚恳的"
+ },
+ {
+  "name": "geometry",
+  "trans": "n.几何学"
+ },
+ {
+  "name": "germ",
+  "trans": "n.微生物,细菌"
+ },
+ {
+  "name": "gesture",
+  "trans": "n.姿态,手势,表示v.作手势,以手势表示"
+ },
+ {
+  "name": "ghost",
+  "trans": "n.鬼,幽灵"
+ },
+ {
+  "name": "giant",
+  "trans": "n.巨人,大力士,巨大的动物或植物,伟人,天才adj.庞大的,巨大的"
+ },
+ {
+  "name": "gift",
+  "trans": "n.赠品,礼物,天赋,才能"
+ },
+ {
+  "name": "glance",
+  "trans": "vi.扫视,匆匆一看n.一瞥,眼光,匆匆一看"
+ },
+ {
+  "name": "glimpse",
+  "trans": "n.一瞥,一看v.瞥见"
+ },
+ {
+  "name": "globe",
+  "trans": "n.球体,地球仪,地球,世界"
+ },
+ {
+  "name": "glorious",
+  "trans": "adj.光荣的,显赫的"
+ },
+ {
+  "name": "glory",
+  "trans": "n.荣誉,光荣"
+ },
+ {
+  "name": "glove",
+  "trans": "n.手套vt.戴手套"
+ },
+ {
+  "name": "glow",
+  "trans": "vi.发光,发热"
+ },
+ {
+  "name": "glue",
+  "trans": "n.胶,胶水vt.胶合,粘贴,粘合"
+ },
+ {
+  "name": "goal",
+  "trans": "n.目的,目标,守门员,球门,(球赛等的)得分"
+ },
+ {
+  "name": "gold",
+  "trans": "n.黄金,金币adj.金的,金制的"
+ },
+ {
+  "name": "golden",
+  "trans": "adj.金色的,金黄色的,贵重的,极好的,黄金的"
+ },
+ {
+  "name": "goods",
+  "trans": "n.货物,<美俚>工具"
+ },
+ {
+  "name": "goose",
+  "trans": "n.鹅,雌鹅,鹅肉,(裁缝用的有长曲柄的)熨斗vt.突然加大油门,嘘骂"
+ },
+ {
+  "name": "govern",
+  "trans": "v.统治,支配,管理"
+ },
+ {
+  "name": "government",
+  "trans": "n.政府,<英>内阁,政治,政体"
+ },
+ {
+  "name": "governor",
+  "trans": "n.统治者,管理者,地方长官,主管人员"
+ },
+ {
+  "name": "graceful",
+  "trans": "adj.优美的"
+ },
+ {
+  "name": "grade",
+  "trans": "n.等级,级别vt.评分,评级v.分等级"
+ },
+ {
+  "name": "gradual",
+  "trans": "adj.逐渐的,逐步的,渐进的"
+ },
+ {
+  "name": "gradually",
+  "trans": "adv.逐渐地"
+ },
+ {
+  "name": "graduate",
+  "trans": "n.(大学)毕业生,研究生v.(使)(大学)毕业"
+ },
+ {
+  "name": "grain",
+  "trans": "n.谷物,谷类,谷粒,细粒,颗粒,粮食"
+ },
+ {
+  "name": "grammar",
+  "trans": "n.文法,有关原理的书,入门的书"
+ },
+ {
+  "name": "grand",
+  "trans": "adj.盛大的,豪华的,重大的,主要的,极重要的"
+ },
+ {
+  "name": "granddaughter",
+  "trans": "n.孙女"
+ },
+ {
+  "name": "grandfather",
+  "trans": "n.祖父,始祖"
+ },
+ {
+  "name": "grandmother",
+  "trans": "n.祖母"
+ },
+ {
+  "name": "grandson",
+  "trans": "n.孙子"
+ },
+ {
+  "name": "grant",
+  "trans": "vt.同意,准予,承认(某事为真)～"
+ },
+ {
+  "name": "grape",
+  "trans": "n.葡萄,葡萄树"
+ },
+ {
+  "name": "graph",
+  "trans": "n.图表,曲线图"
+ },
+ {
+  "name": "grasp",
+  "trans": "vt.抓住,抓紧,掌握,领会n.抓住,抓紧,掌握,领会"
+ },
+ {
+  "name": "grass",
+  "trans": "n.草"
+ },
+ {
+  "name": "grateful",
+  "trans": "adj.感激的,感谢的"
+ },
+ {
+  "name": "gratitude",
+  "trans": "n.感谢的心情"
+ },
+ {
+  "name": "great",
+  "trans": "adj.伟大的,大的,强烈的,非常的,主要的,大写的,重大的,崇高的adv.顺利地,得意地n.全部,大人物,大师"
+ },
+ {
+  "name": "greatly",
+  "trans": "adv.很,非常"
+ },
+ {
+  "name": "greedy",
+  "trans": "adj.贪吃的,贪婪的,渴望的"
+ },
+ {
+  "name": "green",
+  "trans": "n.绿色,绿色颜料,绿色物品adj.绿色的,未成熟的,新鲜的,精力旺盛的,无经验的,青春的"
+ },
+ {
+  "name": "greet",
+  "trans": "vt.问候,向...致意,获悉(消息),映入眼帘"
+ },
+ {
+  "name": "greeting",
+  "trans": "n.祝贺,问候"
+ },
+ {
+  "name": "grey/gray",
+  "trans": "adj.灰色的,灰白的n.灰色"
+ },
+ {
+  "name": "grip",
+  "trans": "vt.紧握,紧夹n.掌握,控制,把手v.抓住"
+ },
+ {
+  "name": "groan",
+  "trans": "n.呻吟,叹息vi.呻吟,受折磨,受压迫发出嘎吱声vt.呻吟着说"
+ },
+ {
+  "name": "grocer",
+  "trans": "n.食品商,杂货店"
+ },
+ {
+  "name": "gross",
+  "trans": "adj.总的,毛重的n.总额"
+ },
+ {
+  "name": "ground",
+  "trans": "n.地面,土地,战场,场所,范围adj.土地的,地面上的vt.把...放在地上,使搁浅,打基础vi.具有基础,着陆,搁浅 vbl.grind的过去式"
+ },
+ {
+  "name": "growth",
+  "trans": "n.生长,种植,栽培,发育,等比级数"
+ },
+ {
+  "name": "guarantee",
+  "trans": "n.保证,保证书,担保,抵押品vt.保证,担保"
+ },
+ {
+  "name": "guard",
+  "trans": "n.守卫,警戒,护卫队,防护装置vt.保卫,看守,当心vi.防止,警惕,警卫"
+ },
+ {
+  "name": "guess",
+  "trans": "vt.猜测,推测,猜中,猜对,想,认为vi.猜,推测n.猜测,推测"
+ },
+ {
+  "name": "guest",
+  "trans": "n.客人,来宾,旅客vt.招待,款待vi.作客,寄宿"
+ },
+ {
+  "name": "guidance",
+  "trans": "n.指导,领导"
+ },
+ {
+  "name": "guide",
+  "trans": "n.领路人,导游者,向导,引导者,指南vt.指导,支配,管理,带领,操纵vi.任向导"
+ },
+ {
+  "name": "guilty",
+  "trans": "adj.犯罪的,有罪的,心虚的"
+ },
+ {
+  "name": "gulf",
+  "trans": "n.海湾,深渊,漩涡,隔阂vt.吞没,使深深卷入"
+ },
+ {
+  "name": "gum",
+  "trans": "n.齿龈,树脂,橡胶,橡胶树,口香糖,香口胶,泡泡糖"
+ },
+ {
+  "name": "gymnasium/gym",
+  "trans": "n.健身房,体育馆"
+ },
+ {
+  "name": "habit",
+  "trans": "n.习惯,习性"
+ },
+ {
+  "name": "hall",
+  "trans": "n.会堂,礼堂,大厅,走廊,门厅"
+ },
+ {
+  "name": "halt",
+  "trans": "n.停止,暂停,中断vt.使停止,使立定vi.立定,停止,踌躇,有缺点"
+ },
+ {
+  "name": "hammer",
+  "trans": "n.铁锤,槌,锤子v.锤击,锤打"
+ },
+ {
+  "name": "handful",
+  "trans": "n.一把,少数"
+ },
+ {
+  "name": "handkerchief",
+  "trans": "n.手帕"
+ },
+ {
+  "name": "handle",
+  "trans": "n.柄,把手,把柄,口实,手感vt.触摸,运用,买卖,处理,操作vi.搬运,易于操纵n.[计]句柄"
+ },
+ {
+  "name": "handsome",
+  "trans": "adj.英俊的,大方的,慷慨的,美观的,堂皇的"
+ },
+ {
+  "name": "handwriting",
+  "trans": "n.笔迹,书写体,书法,笔势"
+ },
+ {
+  "name": "handy",
+  "trans": "adj.手边的,就近的,唾手可得的,便利的,敏捷的,容易取得的"
+ },
+ {
+  "name": "hang",
+  "trans": "n.悬挂的方式,(动作的)暂停,中止vt.悬挂,附着,装饰,绞死,踌躇,使悬而未决,垂下vi.悬着,垂下,被绞死,悬而不决"
+ },
+ {
+  "name": "happiness",
+  "trans": "幸福，幸运"
+ },
+ {
+  "name": "harbor",
+  "trans": "n.海港"
+ },
+ {
+  "name": "harden",
+  "trans": "vt.使变硬,使坚强,使冷酷vi.变硬,变冷酷,涨价"
+ },
+ {
+  "name": "hardship",
+  "trans": "n.困苦,艰难,辛苦"
+ },
+ {
+  "name": "hardware",
+  "trans": "n.五金器具,(电脑的)硬件,(电子仪器的)部件"
+ },
+ {
+  "name": "harm",
+  "trans": "vt.伤害,损害n.伤害,损害"
+ },
+ {
+  "name": "harmony",
+  "trans": "n.协调,融洽"
+ },
+ {
+  "name": "harvest",
+  "trans": "n.收获,收成,结果,成果v.收获,收割"
+ },
+ {
+  "name": "haste",
+  "trans": "n.匆忙,急忙"
+ },
+ {
+  "name": "hat",
+  "trans": "n.帽子vt.戴帽子"
+ },
+ {
+  "name": "hatred",
+  "trans": "n.憎恨,乱意,仇恨"
+ },
+ {
+  "name": "hay",
+  "trans": "干草"
+ },
+ {
+  "name": "hazard",
+  "trans": "n.冒险,危险,冒险的事vt.冒...的危险,赌运气,使遭危险"
+ },
+ {
+  "name": "headache",
+  "trans": "n.头痛,令人头痛之事"
+ },
+ {
+  "name": "headmaster",
+  "trans": "n.英国中小学校长,男舍监"
+ },
+ {
+  "name": "headquarters",
+  "trans": "n.司令部,指挥部,总部"
+ },
+ {
+  "name": "health",
+  "trans": "n.健康,健康状态,兴旺,为健康干杯"
+ },
+ {
+  "name": "healthy",
+  "trans": "adj.健康的,健壮的,有益于健康的"
+ },
+ {
+  "name": "heap",
+  "trans": "n.堆,大量,许多vt.堆,堆起v.堆积"
+ },
+ {
+  "name": "heart",
+  "trans": "n.心,心脏,中心,心地,心情,精神,宝贝儿,感情vt.把...放在中心"
+ },
+ {
+  "name": "heat",
+  "trans": "热，激烈，发热"
+ },
+ {
+  "name": "heaven",
+  "trans": "n.天,天空,天堂"
+ },
+ {
+  "name": "heavy",
+  "trans": "adj.重的,繁重的,巨大的,沉重的,阴沉的adv.沉重地,笨重地,大量地n.重物,严肃角色"
+ },
+ {
+  "name": "hedge",
+  "trans": "n.树篱,障碍物v.用树篱围住,避免作正面答复"
+ },
+ {
+  "name": "heel",
+  "trans": "n.脚后跟,踵,跟部"
+ },
+ {
+  "name": "height",
+  "trans": "n.高度,海拔,高地(常用复数),顶点"
+ },
+ {
+  "name": "helicopter",
+  "trans": "n.直升(飞)机,直升机"
+ },
+ {
+  "name": "helpful",
+  "trans": "adj.有帮助的,有用的,有益的"
+ },
+ {
+  "name": "hen",
+  "trans": "n.母鸡,雌鸟"
+ },
+ {
+  "name": "hence",
+  "trans": "adv.因此,从此"
+ },
+ {
+  "name": "hero",
+  "trans": "n.英雄,男主角,男主人公"
+ },
+ {
+  "name": "heroic",
+  "trans": "adj.英雄的,英勇的"
+ },
+ {
+  "name": "heroine",
+  "trans": "n.女英雄,女主人公"
+ },
+ {
+  "name": "hesitate",
+  "trans": "v.犹豫,踌躇,不愿"
+ },
+ {
+  "name": "hide",
+  "trans": "n.兽皮,皮革v.剥...的皮,痛打,隐藏,掩藏,隐瞒,掩饰"
+ },
+ {
+  "name": "highly",
+  "trans": "adv.高地,非常"
+ },
+ {
+  "name": "highway",
+  "trans": "n.公路,大路"
+ },
+ {
+  "name": "hillside",
+  "trans": "n.山坡,山腹"
+ },
+ {
+  "name": "hint",
+  "trans": "n.暗示,提示,线索"
+ },
+ {
+  "name": "hire",
+  "trans": "n.租金,工钱,租用,雇用vt.雇请,出租vi.受雇"
+ },
+ {
+  "name": "hit",
+  "trans": "n.打击,打,碰撞,讽刺,(演出等)成功vt.打,打击,碰撞,击中,袭击,偶然发现,伤...的感情,找到vi.打,打中,打击,碰撞,偶然碰上"
+ },
+ {
+  "name": "hobby",
+  "trans": "n.业余爱好"
+ },
+ {
+  "name": "holiday",
+  "trans": "n.假日,节日,假期"
+ },
+ {
+  "name": "hollow",
+  "trans": "n.洞,窟窿,山谷adj.空的,虚伪的,空腹的,凹的adv.<口>彻底vi.形成空洞vt.挖空,弄凹"
+ },
+ {
+  "name": "holy",
+  "trans": "adj.神圣的,圣洁的n.神圣的东西"
+ },
+ {
+  "name": "honest",
+  "trans": "adj.诚实的,正直的"
+ },
+ {
+  "name": "honor",
+  "trans": "n.尊敬,敬意,荣誉,光荣vt.尊敬,给以荣誉"
+ },
+ {
+  "name": "honorable",
+  "trans": "adj.可敬的,荣誉的,光荣的"
+ },
+ {
+  "name": "hook",
+  "trans": "n.钩,吊钩v.钩住,沉迷,上瘾"
+ },
+ {
+  "name": "hopeful",
+  "trans": "adj.怀有希望的,有希望的"
+ },
+ {
+  "name": "hopeless",
+  "trans": "adj.没有希望的,绝望的,不可救药"
+ },
+ {
+  "name": "horn",
+  "trans": "n.(牛、羊等的)角,喇叭,触角v.装角"
+ },
+ {
+  "name": "horror",
+  "trans": "n.惊骇,恐怖,惨事,极端厌恶"
+ },
+ {
+  "name": "horsepower",
+  "trans": "n.马力"
+ },
+ {
+  "name": "hospital",
+  "trans": "n.医院"
+ },
+ {
+  "name": "host",
+  "trans": "n.主机,主人,旅馆招待vt.当主人招待"
+ },
+ {
+  "name": "hostile",
+  "trans": "adj.敌对的,敌方的n.敌对"
+ },
+ {
+  "name": "hotel",
+  "trans": "n.旅馆,客栈,<俚>监狱"
+ },
+ {
+  "name": "household",
+  "trans": "n.一家人,家庭,家族,王室adj.家庭的,家族的,家属的,普通的,平常的"
+ },
+ {
+  "name": "housewife",
+  "trans": "n.主妇,家庭主妇,针线盒"
+ },
+ {
+  "name": "however",
+  "trans": "adv.无论如何,可是,仍然,究竟 conj.不管用何种方法,然而,可是"
+ },
+ {
+  "name": "human",
+  "trans": "n.人,人类adj.人的,人类的,人性的,有同情心的"
+ },
+ {
+  "name": "humble",
+  "trans": "adj.卑下的,微贱的,谦逊的,粗陋的vt.使...卑下,挫,贬抑"
+ },
+ {
+  "name": "humid",
+  "trans": "adj.充满潮湿的,湿润的,多湿气的"
+ },
+ {
+  "name": "humorous",
+  "trans": "adj.富幽默感的,滑稽的,诙谐的,想入非非的,异想天开的"
+ },
+ {
+  "name": "hunt",
+  "trans": "v.打猎,猎取,搜索,搜寻,猎获n.打猎,猎取,搜索,搜寻,狩猎"
+ },
+ {
+  "name": "hurt",
+  "trans": "v.刺痛,伤害,(使)痛心,(使)伤感情,危害,损害,受伤n.伤痛,伤害"
+ },
+ {
+  "name": "hydrogen",
+  "trans": "n.氢"
+ },
+ {
+  "name": "ice-cream",
+  "trans": "冰淇淋"
+ },
+ {
+  "name": "idea",
+  "trans": "n.想法,念头,意见,主意,思想,观念,概念"
+ },
+ {
+  "name": "ideal",
+  "trans": "n.理想adj.理想的,完美的,想象的,观念的,唯心论的"
+ },
+ {
+  "name": "identify",
+  "trans": "vt.识别,鉴别,把...和...看成一样v.确定"
+ },
+ {
+  "name": "idle",
+  "trans": "adj.空闲的,懒惰的,停顿的,无用的,无价值的vi.不做事,游手好闲,(机器)空转,虚度,闲散,不作事,游手好闲,浪费vt.虚度,使空闲,使空转"
+ },
+ {
+  "name": "igore",
+  "trans": "不理，忽视"
+ },
+ {
+  "name": "illegal",
+  "trans": "adj.违法的,不合规定的"
+ },
+ {
+  "name": "illness",
+  "trans": "n.疾病,生病"
+ },
+ {
+  "name": "image",
+  "trans": "n.图象,肖像,偶像,形象化的比喻,极为相象,映像,典型vt.想象,作...的像,反映,象征"
+ },
+ {
+  "name": "imaginary",
+  "trans": "adj.假想的,想象的,虚构的"
+ },
+ {
+  "name": "imagination",
+  "trans": "n.想象,空想,想象的事物,想象力,听觉"
+ },
+ {
+  "name": "imagine",
+  "trans": "vt.想象,设想"
+ },
+ {
+  "name": "imitate",
+  "trans": "vt.模仿,仿效,仿制,仿造v.模仿"
+ },
+ {
+  "name": "immediate",
+  "trans": "adj.直接的,紧接的,紧靠的,立即的,知觉的"
+ },
+ {
+  "name": "immense",
+  "trans": "adj.极广大的,无边的,<口>非常好的"
+ },
+ {
+  "name": "immigrant",
+  "trans": "adj.(从外国)移来的,移民的,移居的n.移民,侨民"
+ },
+ {
+  "name": "impact",
+  "trans": "n.碰撞,冲击,冲突,影响,效果vt.挤入,撞击,压紧,对...发生影响"
+ },
+ {
+  "name": "impatient",
+  "trans": "adj.不耐烦的,急躁的,不耐心的"
+ },
+ {
+  "name": "implication",
+  "trans": "n.牵连,含意,暗示"
+ },
+ {
+  "name": "imply",
+  "trans": "vt.暗示,意味"
+ },
+ {
+  "name": "import",
+  "trans": "n.进口货(常用复数),进口,输入,意思,重要性vt.输入,进口,含...的意思,重要,引入vi.有关系,有重要性"
+ },
+ {
+  "name": "importance",
+  "trans": "n.重要(性),重大,价值,傲慢"
+ },
+ {
+  "name": "impossible",
+  "trans": "adj.不可能的,不会发生的,难以忍受的"
+ },
+ {
+  "name": "impress",
+  "trans": "vt.印,盖印,留下印象"
+ },
+ {
+  "name": "impression",
+  "trans": "n.印象,感想,盖印,压痕"
+ },
+ {
+  "name": "impressive",
+  "trans": "adj.给人深刻印象的,感人的"
+ },
+ {
+  "name": "improve",
+  "trans": "v.改善,改进"
+ },
+ {
+  "name": "improvement",
+  "trans": "n.改进,进步"
+ },
+ {
+  "name": "inch",
+  "trans": "n.英寸(=1/12英尺)"
+ },
+ {
+  "name": "incident",
+  "trans": "n.事件,事变adj.附带的,易于发生的"
+ },
+ {
+  "name": "include",
+  "trans": "vt.包括,包含"
+ },
+ {
+  "name": "income",
+  "trans": "n.收入,收益,进款,所得"
+ },
+ {
+  "name": "increase",
+  "trans": "n.增加,增大,增长vt.增加,加大vi.增加,繁殖"
+ },
+ {
+  "name": "indeed",
+  "trans": "的确，多么"
+ },
+ {
+  "name": "independence",
+  "trans": "n.独立,自主"
+ },
+ {
+  "name": "independent",
+  "trans": "n.中立派,无党派者adj.独立自主的,不受约束的"
+ },
+ {
+  "name": "indicate",
+  "trans": "vt.指出,显示,象征,预示,需要,简要地说明"
+ },
+ {
+  "name": "indication",
+  "trans": "n.指出,指示,迹象,暗示"
+ },
+ {
+  "name": "indirect",
+  "trans": "adj.间接的,迂回的"
+ },
+ {
+  "name": "individual",
+  "trans": "n.个人,个体adj.个别的,单独的,个人的"
+ },
+ {
+  "name": "indoor",
+  "trans": "adj.户内的,室内的"
+ },
+ {
+  "name": "industrial",
+  "trans": "adj.工业的,产业的,实业的,从事工业的n.工业工人,[商]工业股票"
+ },
+ {
+  "name": "industry",
+  "trans": "n.工业,产业,行业,勤奋"
+ },
+ {
+  "name": "inevitable",
+  "trans": "adj.不可避免的,必然的"
+ },
+ {
+  "name": "infant",
+  "trans": "n.婴儿,幼儿adj.婴儿的,幼稚的"
+ },
+ {
+  "name": "infect",
+  "trans": "vt.[医] 传染,感染"
+ },
+ {
+  "name": "infer",
+  "trans": "v.推断"
+ },
+ {
+  "name": "inferior",
+  "trans": "adj.下等的,下级的,差的,次的,自卑的,劣等的"
+ },
+ {
+  "name": "influence",
+  "trans": "n.影响,感化,势力,有影响的人(或事),(电磁)感应vt.影响,改变"
+ },
+ {
+  "name": "inform",
+  "trans": "v.(～ of/about) 通知,告诉,获悉,告知"
+ },
+ {
+  "name": "information",
+  "trans": "n.通知,报告,消息,情报,知识,见闻,资料,起诉 信息"
+ },
+ {
+  "name": "inhabitant",
+  "trans": "n.居民,居住者"
+ },
+ {
+  "name": "inherit",
+  "trans": "vt.继承,遗传而得"
+ },
+ {
+  "name": "injection",
+  "trans": "n.注射,注射剂,(毛细血管等的)充血,(人造卫星,宇宙飞船等的)射入轨道"
+ },
+ {
+  "name": "injure",
+  "trans": "vt.损害,伤害v.伤害"
+ },
+ {
+  "name": "inn",
+  "trans": "n.(尤指乡村或公路边的) 旅馆,客栈vi.住旅馆"
+ },
+ {
+  "name": "inner",
+  "trans": "adj.内部的,里面的,内心的n.内部"
+ },
+ {
+  "name": "innocent",
+  "trans": "adj.(～ of) 清白的,无罪的,天真的,无知的"
+ },
+ {
+  "name": "insect",
+  "trans": "n.昆虫,卑鄙的人adj..虫的,虫子一样的,对付虫子的"
+ },
+ {
+  "name": "insist",
+  "trans": "v.坚持,强调"
+ },
+ {
+  "name": "inspect",
+  "trans": "vt.检查,视察v.检查"
+ },
+ {
+  "name": "inspire",
+  "trans": "vt.吸(气),鼓舞,感动,激发,启示,使生灵感,产生vi.吸入,赋予灵感"
+ },
+ {
+  "name": "install",
+  "trans": "vt.安装,安置,使就职"
+ },
+ {
+  "name": "instance",
+  "trans": "n.实例,建议,要求,情况,场合vt.举...为例,获得例证"
+ },
+ {
+  "name": "instant",
+  "trans": "adj.立即的,直接的,紧迫的,刻不容缓的,(食品)速溶的,方便的,即时的"
+ },
+ {
+  "name": "instead",
+  "trans": "adv.代替,改为,抵作,更换"
+ },
+ {
+  "name": "instinct",
+  "trans": "n.本能"
+ },
+ {
+  "name": "instruct",
+  "trans": "vt.教,教导,命令,指示,通知"
+ },
+ {
+  "name": "instruction",
+  "trans": "n.指示,用法说明(书),教育,指导,指令"
+ },
+ {
+  "name": "instrument",
+  "trans": "n.工具,手段,器械,器具,手段"
+ },
+ {
+  "name": "insult",
+  "trans": "n.侮辱,凌辱vt.侮辱,凌辱"
+ },
+ {
+  "name": "insurance",
+  "trans": "n.保险,保险单,保险业,保险费"
+ },
+ {
+  "name": "insure",
+  "trans": "vt.给...保险v.确保"
+ },
+ {
+  "name": "intellectual",
+  "trans": "adj.智力的,有智力的,显示智力的n.知识分子"
+ },
+ {
+  "name": "intelligence",
+  "trans": "n.智力,聪明,智能"
+ },
+ {
+  "name": "intelligent",
+  "trans": "adj.聪明的,伶俐的,有才智的,[计]智能的"
+ },
+ {
+  "name": "intend",
+  "trans": "vt.想要,打算,意指,意谓"
+ },
+ {
+  "name": "intensive",
+  "trans": "adj.强烈的,精深的,透彻的,[语法]加强语气的n.加强器"
+ },
+ {
+  "name": "intention",
+  "trans": "n.意图,目的"
+ },
+ {
+  "name": "intentional",
+  "trans": "adj.有意图的,故意的"
+ },
+ {
+  "name": "interest",
+  "trans": "n.兴趣,关心,重要性,影响,利息,[常 pl.] 利益,利害vt.使发生兴趣,引起...的注意"
+ },
+ {
+  "name": "interesting",
+  "trans": "adj.有趣味的,引起好奇(或注意)的"
+ },
+ {
+  "name": "interfere",
+  "trans": "vi.干涉,干预,妨碍,打扰"
+ },
+ {
+  "name": "interference",
+  "trans": "n.冲突,干涉"
+ },
+ {
+  "name": "intermediate",
+  "trans": "adj.中间的n.媒介"
+ },
+ {
+  "name": "internal",
+  "trans": "adj.内在的,国内的"
+ },
+ {
+  "name": "international",
+  "trans": "adj.国际的,世界的n.国际性组织,国际比赛"
+ },
+ {
+  "name": "interrupt",
+  "trans": "vt.打断(正在说话或动作的人),中断,妨碍,插嘴vi.打断(别人的讲话或行动)n.(发给电脑的)中断信号"
+ },
+ {
+  "name": "interval",
+  "trans": "n.间隔,距离,幕间休息n.时间间隔"
+ },
+ {
+  "name": "interview",
+  "trans": "vt.接见,会见n.接见,会见"
+ },
+ {
+  "name": "intimate",
+  "trans": "adj.亲密的,隐私的vt.宣布,明白表示n.熟友"
+ },
+ {
+  "name": "into",
+  "trans": "prep.到...里,进入到...之内,成为...状况,深入...之中"
+ },
+ {
+  "name": "introduce",
+  "trans": "vt.介绍,传入,引进,提出"
+ },
+ {
+  "name": "introduction",
+  "trans": "n.介绍,传入,初步,导言,绪论,入门"
+ },
+ {
+  "name": "invasion",
+  "trans": "n.入侵"
+ },
+ {
+  "name": "invent",
+  "trans": "vt.发明,创造v.发明"
+ },
+ {
+  "name": "invention",
+  "trans": "n.发明,创造"
+ },
+ {
+  "name": "inventor",
+  "trans": "n.发明家"
+ },
+ {
+  "name": "invest",
+  "trans": "v.投(资),购买(有用之物)～,授予,投资"
+ },
+ {
+  "name": "investigate",
+  "trans": "v.调查,研究"
+ },
+ {
+  "name": "investment",
+  "trans": "n.投资,可获利的东西"
+ },
+ {
+  "name": "invitation",
+  "trans": "n.邀请,招待"
+ },
+ {
+  "name": "invite",
+  "trans": "vt.邀请,引起n.邀请"
+ },
+ {
+  "name": "involve",
+  "trans": "vt.包括,笼罩,潜心于,使陷于"
+ },
+ {
+  "name": "inward",
+  "trans": "adv.向内,在内adj.向内的,内在的"
+ },
+ {
+  "name": "iron",
+  "trans": "n.铁,熨斗,坚强,烙铁,镣铐vt.烫平,熨,用铁装备vi.烫衣服"
+ },
+ {
+  "name": "island",
+  "trans": "n.岛,岛屿,岛状物(孤立状态的物),安全岛vt.使成岛状,孤立"
+ },
+ {
+  "name": "isolate",
+  "trans": "vt.使隔离,使孤立,使绝缘,离析n.隔离种群"
+ },
+ {
+  "name": "item",
+  "trans": "n.(可分类或列举的)项目,条款,(消息、情报等的)一则,一条"
+ },
+ {
+  "name": "its",
+  "trans": "pron.它的"
+ },
+ {
+  "name": "itself",
+  "trans": "pron.它本身,它自己"
+ },
+ {
+  "name": "jacket",
+  "trans": "n.短上衣,夹克,(锅炉、水管等的)套,书籍的封面套纸,护封,马铃薯皮vt.给...穿夹克,给...装护套"
+ },
+ {
+  "name": "jam",
+  "trans": "n.果酱,拥挤,堵塞,困境vt.挤进,使塞满,混杂,压碎,使堵塞vi.堵塞,轧住,拥挤"
+ },
+ {
+  "name": "jar",
+  "trans": "n.震动,刺耳声,震惊,争吵,罐,广口瓶vi.震惊,冲突,发刺耳声,不一致vt.震动,刺激"
+ },
+ {
+  "name": "jaw",
+  "trans": "n.[解]颚,颌,下巴(用复数),(山谷、海峡等的)狭窄的入口,[机]叉钳,钳夹v.闲谈,教训,唠叨"
+ },
+ {
+  "name": "jazz",
+  "trans": "n.(20世纪产生于美国的一种舞曲性音乐)爵士乐,喧闹adj.爵士乐的,喧吵的,颜色过于艳丽的vi.奏爵士乐,跳爵士舞,游荡vt.奏爵士乐,使活泼"
+ },
+ {
+  "name": "jealous",
+  "trans": "adj.妒忌的,猜疑的,警惕的,嫉妒的"
+ },
+ {
+  "name": "jewel",
+  "trans": "n.宝石"
+ },
+ {
+  "name": "join",
+  "trans": "vi.参加,结合,加入vt.连接,结合,参加,加入n.连接,结合,接合点 [计] 用子目录名取代驱动器符"
+ },
+ {
+  "name": "joint",
+  "trans": "n.接缝,接合处,接合点,关节,(牛、羊等的腿)大块肉adj.共同的,联合的,连接的,合办的vt.连接,接合,使有接头vi.贴合,生节"
+ },
+ {
+  "name": "joke",
+  "trans": "n.笑话,玩笑v.(和...)开玩笑"
+ },
+ {
+  "name": "journal",
+  "trans": "n.定期刊物,杂志,航海日记,分类账"
+ },
+ {
+  "name": "journey",
+  "trans": "n.旅行,旅程v.旅行"
+ },
+ {
+  "name": "joy",
+  "trans": "n.欢乐,喜悦,快乐,乐事,乐趣v.高兴 Joy 乔伊(女子名)"
+ },
+ {
+  "name": "judge",
+  "trans": "审判员，评价，审判"
+ },
+ {
+  "name": "judgment",
+  "trans": "n.判断"
+ },
+ {
+  "name": "juice",
+  "trans": "n.(水果)汁,液"
+ },
+ {
+  "name": "junior",
+  "trans": "n.年少者,晚辈,下级,(年龄、职位等)较低者,大学三年级学生adj.年少的,下级的,后进的"
+ },
+ {
+  "name": "justice",
+  "trans": "n.正义,正当,公平,正确,司法,审判,欣赏"
+ },
+ {
+  "name": "justify",
+  "trans": "v.证明...是正当的"
+ },
+ {
+  "name": "keen",
+  "trans": "adj.锋利的,敏锐的,敏捷的,热心的,渴望的"
+ },
+ {
+  "name": "kick",
+  "trans": "v.踢n.踢"
+ },
+ {
+  "name": "kid",
+  "trans": "n.哄骗,取笑,开玩笑,小孩,小山羊v.哄骗,取笑,开玩笑,欺骗"
+ },
+ {
+  "name": "kilogram/kilo",
+  "trans": "n.[物]千克,公斤"
+ },
+ {
+  "name": "kilometre",
+  "trans": "n.公里"
+ },
+ {
+  "name": "kindness",
+  "trans": "n.仁慈,亲切,好意,善意"
+ },
+ {
+  "name": "kingdom",
+  "trans": "n.王国,[宗]天国,上帝的统治,领域"
+ },
+ {
+  "name": "kitchen",
+  "trans": "n.厨房,炊具,炊事人员"
+ },
+ {
+  "name": "knee",
+  "trans": "n.膝,膝盖"
+ },
+ {
+  "name": "kneel",
+  "trans": "vi.跪下"
+ },
+ {
+  "name": "knock",
+  "trans": "v.敲,敲打,敲击,(使)碰撞n.敲,击,敲打"
+ },
+ {
+  "name": "knot",
+  "trans": "n.(绳等的)结,(树的)节,节(船速,＝哩／小时)v.打结"
+ },
+ {
+  "name": "knowledge",
+  "trans": "n.知识,学问,认识,知道,<古>学科"
+ },
+ {
+  "name": "labor",
+  "trans": "n.劳动,努力,工作,劳工,分娩,阵痛vi.劳动,努力争取(for),苦干vt.详细分析,麻烦"
+ },
+ {
+  "name": "laboratory/lab",
+  "trans": "n.实验室"
+ },
+ {
+  "name": "lack",
+  "trans": "n.缺乏,短缺的东西vt.缺乏,没有,需要vi.缺乏,没有"
+ },
+ {
+  "name": "ladder",
+  "trans": "n.梯子,阶梯vi.袜子抽丝,装设梯子"
+ },
+ {
+  "name": "lady",
+  "trans": "n.女士,夫人,小姐"
+ },
+ {
+  "name": "lag",
+  "trans": "n.落后,囚犯,迟延,桶板,防护套adj.最后的vi.缓缓而行,滞后vt.落后于,押往监狱,加上外套"
+ },
+ {
+  "name": "lake",
+  "trans": "湖"
+ },
+ {
+  "name": "lamp",
+  "trans": "n.灯vt.照亮"
+ },
+ {
+  "name": "land",
+  "trans": "n.陆地,(书面语)国家、国土,地带,[复数]地产,田产vi.靠岸,登陆,登岸,到达vt.使上岸,使登陆,使到达,使处于"
+ },
+ {
+  "name": "landlord",
+  "trans": "n.房东,地主,(旅馆等的)老板"
+ },
+ {
+  "name": "lane",
+  "trans": "n.(乡间)小路,巷,里弄,狭窄的通道,航线"
+ },
+ {
+  "name": "language",
+  "trans": "n.语言,语言文学,术语,语言表达能力,(运用语言的)方式、能力、风格,[自](机器)代码 /n.语言/国家"
+ },
+ {
+  "name": "lap",
+  "trans": "n.(坐时的)大腿前部,膝盖,舔声,(水)溅泼声,重叠的部分,(跑道的)一圈,衣兜,下摆vi.重叠,围住,轻拍,舔vt.包围,抱...在膝上,使重叠,舔食,泼溅,拍打"
+ },
+ {
+  "name": "large",
+  "trans": "adj.大的,巨大的,宽大的,夸大的adv.大大地,夸大地,顺风地n.大"
+ },
+ {
+  "name": "largely",
+  "trans": "adv.主要地,大量地,很大程度上"
+ },
+ {
+  "name": "laser",
+  "trans": "n.激光;Light amplification by stimulated emission of radiation,激光器,应用量子效应产生相干光束的设备。"
+ },
+ {
+  "name": "last",
+  "trans": "adj.最后的,临终的,末尾的,最近的,结论性的vi.持续,支持,维持vt.使维持,楦adv.最后,后来n.最后,末尾,临终,鞋楦头"
+ },
+ {
+  "name": "lately",
+  "trans": "adv.近来,最近"
+ },
+ {
+  "name": "latter",
+  "trans": "adj.后面的,(两者中)后者的,较后的,近来的"
+ },
+ {
+  "name": "laughter",
+  "trans": "n.笑,笑声"
+ },
+ {
+  "name": "launch",
+  "trans": "n.下水,汽艇,发射,发行,投放市场vt.使(船)下水,掷(标枪等),发射(导弹、火箭等),开办,发动,发起vi.起飞,下水,投入,开始"
+ },
+ {
+  "name": "laundry",
+  "trans": "n.洗衣店,要洗的衣服,洗熨"
+ },
+ {
+  "name": "lavatory",
+  "trans": "n.厕所,<主英>抽水马桶,<美>洗脸盆,浴室"
+ },
+ {
+  "name": "lawn",
+  "trans": "n.草地,草坪,(均匀生长于固体培养基的)菌苔"
+ },
+ {
+  "name": "lawyer",
+  "trans": "n.律师"
+ },
+ {
+  "name": "lay",
+  "trans": "vt.放置,铺设,产(卵)提出,平息,布置vi.下蛋,打赌n.位置,层面,形势,短叙事诗adj.世俗的,外行的 vbl.lie的过去式"
+ },
+ {
+  "name": "layer",
+  "trans": "n.层,阶层"
+ },
+ {
+  "name": "lazy",
+  "trans": "adj.懒惰的,懒散的"
+ },
+ {
+  "name": "lead",
+  "trans": "vt.领导,引导,致使vi.领导,(道路等)通向,导致,用水砣测深n.领导,领先,导线,铅,(自船上测海水深度的)铅陲,石墨,铅笔芯"
+ },
+ {
+  "name": "leader",
+  "trans": "n.领导者,社论n.[计]前导字符n.[机]导杆"
+ },
+ {
+  "name": "leadership",
+  "trans": "n.领导能力,领导阶层"
+ },
+ {
+  "name": "leading",
+  "trans": "adj.领导的,第一位的,最主要的"
+ },
+ {
+  "name": "leaf",
+  "trans": "n.叶,树叶,(书的)一张(两叶),页vi.生叶,翻书页vt.翻...的页"
+ },
+ {
+  "name": "league",
+  "trans": "n.同盟,联盟,盟约,联合会,社团v.组联盟,(使)加盟"
+ },
+ {
+  "name": "leak",
+  "trans": "n.漏洞,漏出,漏出物,泄漏,<俚>撒尿vi.漏,泄漏vt.使渗漏"
+ },
+ {
+  "name": "lean",
+  "trans": "n.倾斜,倾斜度,倚靠,倾向adj.瘦的,贫乏的,歉收的vi.倚靠,倾斜,依赖,倾向,偏向vt.使倾斜"
+ },
+ {
+  "name": "leap",
+  "trans": "v.跳,跳越,跳跃n.跳跃,飞跃"
+ },
+ {
+  "name": "learn",
+  "trans": "vi.学习,听到,获悉vt.学习,学会,认识到"
+ },
+ {
+  "name": "learned",
+  "trans": "adj.有学问的,学术上的"
+ },
+ {
+  "name": "learning",
+  "trans": "n.知识,学问,学习,学"
+ },
+ {
+  "name": "least",
+  "trans": "adj.最小的,最少的adv.最少,最小"
+ },
+ {
+  "name": "leather",
+  "trans": "n.皮革,皮革制品"
+ },
+ {
+  "name": "leave",
+  "trans": "n.许可,同意,请假,休假vt.离开,动身,剩下,遗忘,委托,遗弃vi.出发,离开,生叶,动身"
+ },
+ {
+  "name": "lecture",
+  "trans": "n.演讲,讲稿,谴责,教训vt.演讲,训诫,说教vi.讲演"
+ },
+ {
+  "name": "leg",
+  "trans": "n.腿,胫,旅程的一段vi.走,跑"
+ },
+ {
+  "name": "legal",
+  "trans": "adj.法律的,法定的,合法"
+ },
+ {
+  "name": "leisure",
+  "trans": "n.空闲,闲暇,悠闲,安逸"
+ },
+ {
+  "name": "lemon",
+  "trans": "n.柠檬adj.柠檬色的"
+ },
+ {
+  "name": "length",
+  "trans": "n.长度,长,时间的长短,[语]音长"
+ },
+ {
+  "name": "lens",
+  "trans": "n.透镜,镜头"
+ },
+ {
+  "name": "less",
+  "trans": "n.较少,较小adj.少的,小的adv.较少地,更小地,不及 prep.减去"
+ },
+ {
+  "name": "lessen",
+  "trans": "v.减少,减轻"
+ },
+ {
+  "name": "lest",
+  "trans": "conj.唯恐,以免,免得,(用于fear,be afraid之后,等于that)"
+ },
+ {
+  "name": "level",
+  "trans": "n.水平,水平面,水准,标准,级别adj.同高的,平坦的,齐平的,水平的vt.使...水平,夷平,使同等,瞄准,对准vi.变平,拉平"
+ },
+ {
+  "name": "liable",
+  "trans": "adj.有责任的,有义务的,易...的,有...倾向的,负有责任的,很有可能的"
+ },
+ {
+  "name": "liberal",
+  "trans": "n.自由主义者,(尤指英国、加拿大等国的)adj.慷慨的,不拘泥的,宽大的,自由主义的"
+ },
+ {
+  "name": "liberate",
+  "trans": "v.解放,释放"
+ },
+ {
+  "name": "license/licence",
+  "trans": "n.许可(证),执照vt.许可,特许v.许可"
+ },
+ {
+  "name": "lid",
+  "trans": "n.盖子,<美口>限制,眼睑vt.给...盖盖子"
+ },
+ {
+  "name": "lie",
+  "trans": "vi.躺,平放,展现,展开,位于v.说谎,躺n.谎话,谎言"
+ },
+ {
+  "name": "life",
+  "trans": "n.生命,生活,一生,寿命,生命力,传记"
+ },
+ {
+  "name": "lifetime",
+  "trans": "n.一生,终生,寿命"
+ },
+ {
+  "name": "lift",
+  "trans": "n.举起,电梯,起重机,搭车vt.升高,提高,举起,空运vi.升起,(指雾等)消散,耸立"
+ },
+ {
+  "name": "light",
+  "trans": "n.光,日光,发光体,灯adj.轻的,发光的,明亮的,浅的vt.点燃,照亮adv.轻地vi.点着,变亮"
+ },
+ {
+  "name": "lightning",
+  "trans": "n.闪电 (\"\"闪电\"\") 英国第一种超音速喷气式战斗机,英60年代的主力机种。"
+ },
+ {
+  "name": "likely",
+  "trans": "adj.很可能的,合适的,可靠的,有希望的adv.或许,很可能"
+ },
+ {
+  "name": "likewise",
+  "trans": "adv.同样地,照样地,又,也n.同样地"
+ },
+ {
+  "name": "lime",
+  "trans": "n.酸橙,石灰,黏鸟胶"
+ },
+ {
+  "name": "limit",
+  "trans": "n.界限,限度,限制vt.限制,限定"
+ },
+ {
+  "name": "limitation",
+  "trans": "n.限制,局限性"
+ },
+ {
+  "name": "link",
+  "trans": "n.链环,连结物,火把,链接vt.连结,联合,挽vi.连接起来"
+ },
+ {
+  "name": "lion",
+  "trans": "n.狮子,(剽悍的人)社交场合的名流"
+ },
+ {
+  "name": "lip",
+  "trans": "n.嘴唇,唇缘"
+ },
+ {
+  "name": "liquid",
+  "trans": "n.液体,流体,流音adj.液体的,清澈的,透明的,明亮的,流动的,易变的,(财务)易变卖的"
+ },
+ {
+  "name": "liquor",
+  "trans": "n.液体,汁,酒精饮料,[药]溶液vt.浸水vi.喝酒"
+ },
+ {
+  "name": "list",
+  "trans": "n.目录,名单,列表,序列,数据清单,明细表,条纹,[总称]各种上市证券vt.列出,列于表上,记入名单内,装布条vi.列于表上"
+ },
+ {
+  "name": "literature",
+  "trans": "n.文学(作品),文艺,著作,文献"
+ },
+ {
+  "name": "litre/liter",
+  "trans": "n.(=liter)升(容量单位)"
+ },
+ {
+  "name": "lively",
+  "trans": "adj.活泼的,活跃的,栩栩如生的,真实的"
+ },
+ {
+  "name": "liver",
+  "trans": "n.居住者,生活优裕的人,肝脏"
+ },
+ {
+  "name": "living",
+  "trans": "n.生活,生计,生存空间,居住面积adj.活的,起作用的,逼真的,现存的"
+ },
+ {
+  "name": "living-room",
+  "trans": "起居室"
+ },
+ {
+  "name": "load",
+  "trans": "n.负荷,重担,装载量,工作量,负载,加载vt.装载,装填,使担负vi.装货,装弹药,装料"
+ },
+ {
+  "name": "loaf",
+  "trans": "n.一条面包,块,游荡v.游荡,虚度光阴"
+ },
+ {
+  "name": "loan",
+  "trans": "n.(借出的)贷款,借出v.借,借给"
+ },
+ {
+  "name": "local",
+  "trans": "adj.地方的,当地的,局部的,乡土的n.当地居民,本地新闻,慢车,局部"
+ },
+ {
+  "name": "locate",
+  "trans": "vt.查找...的地点,使...坐落于,位于v.定位,位于"
+ },
+ {
+  "name": "lodge",
+  "trans": "n.门房,(猎人住的)山林小屋,(游览区的)旅馆,(地方社团的)集会处vi.临时住宿,寄宿(某人家)vt.容纳,寄存,把...射入,存放,(向有关当局)提出(声明)"
+ },
+ {
+  "name": "log",
+  "trans": "n.航行日志,原木,园形木材,园木v.把...记入航行日志,伐木,把...锯成段"
+ },
+ {
+  "name": "logic",
+  "trans": "n.逻辑,逻辑学,逻辑性"
+ },
+ {
+  "name": "logical",
+  "trans": "adj.合乎逻辑的,合理的"
+ },
+ {
+  "name": "lonely",
+  "trans": "adj.孤独的,寂寞的,偏僻的,人迹罕至的"
+ },
+ {
+  "name": "loose",
+  "trans": "n.解放,放任,放纵adj.宽松的,不精确的,不牢固的,散漫的,自由的vt.释放,放枪,开船vi.变松,开火adv.松散地"
+ },
+ {
+  "name": "lorry",
+  "trans": "n.<古>卡车,铁路货车"
+ },
+ {
+  "name": "loud",
+  "trans": "adj.高声的,不断的,喧吵的adv.高声地,大声地"
+ },
+ {
+  "name": "loudspeaker",
+  "trans": "n.扩音器,喇叭"
+ },
+ {
+  "name": "lovely",
+  "trans": "adj.可爱的,有趣的"
+ },
+ {
+  "name": "lover",
+  "trans": "n.爱人,爱好者,情人"
+ },
+ {
+  "name": "loyal",
+  "trans": "adj.忠诚的,忠心的"
+ },
+ {
+  "name": "loyalty",
+  "trans": "n.忠诚,忠心"
+ },
+ {
+  "name": "lucky",
+  "trans": "adj.幸运的,吉祥的,侥幸的"
+ },
+ {
+  "name": "luggage",
+  "trans": "n.行李,皮箱"
+ },
+ {
+  "name": "lump",
+  "trans": "n.块(尤指小块),肿块,笨人vt.使成块状,混在一起,忍耐,笨重地移动vi.结块"
+ },
+ {
+  "name": "lunch",
+  "trans": "n.午餐"
+ },
+ {
+  "name": "lung",
+  "trans": "n.肺,呼吸器,肺脏"
+ },
+ {
+  "name": "luxury",
+  "trans": "n.奢侈,华贵"
+ },
+ {
+  "name": "machine",
+  "trans": "n.机器,机械,机动车辆,机构,设计,机械般工作的人,(政党的)领导集团,核心组织vt.机器制造,用车床加工"
+ },
+ {
+  "name": "machinery",
+  "trans": "n.[总称] 机器,机械"
+ },
+ {
+  "name": "mad",
+  "trans": "adj.疯狂的,愚蠢的,狂欢的,非常激动的,狂热的,着迷的n.狂怒"
+ },
+ {
+  "name": "magazine",
+  "trans": "n.杂志,期刊,军火库,弹药库,(枪、炮的)弹仓,胶卷盒"
+ },
+ {
+  "name": "magic",
+  "trans": "n.魔法,巫术,戏法adj.魔术的,有魔力的,不可思议的"
+ },
+ {
+  "name": "magnificent",
+  "trans": "adj.华丽的,高尚的,宏伟的"
+ },
+ {
+  "name": "maid",
+  "trans": "n.少女,女仆"
+ },
+ {
+  "name": "mail",
+  "trans": "n.邮件,邮政,盔甲vt.邮寄,给...穿盔甲"
+ },
+ {
+  "name": "main",
+  "trans": "n.主要部分,体力,力量,大陆,要点,干线adj.主要的,重要的,全力的n.[计] 主群组"
+ },
+ {
+  "name": "mainland",
+  "trans": "n.大陆"
+ },
+ {
+  "name": "mainly",
+  "trans": "adv.大体上,主要地"
+ },
+ {
+  "name": "maintain",
+  "trans": "vt.维持,维修,继续,供养,主张"
+ },
+ {
+  "name": "major",
+  "trans": "n.<美>[教]主修课,[律]成年人,[乐]大调adj.主修的,成年的,大调的vi.主修"
+ },
+ {
+  "name": "majority",
+  "trans": "n.多数,大半n.[律] 成年"
+ },
+ {
+  "name": "male",
+  "trans": "adj.男的,雄的,男性"
+ },
+ {
+  "name": "manage",
+  "trans": "vi.处理,应付过去vt.管理,控制,操纵,维持,运用,搞成,设法,达成"
+ },
+ {
+  "name": "management",
+  "trans": "n.经营,管理,处理,操纵,驾驶,手段"
+ },
+ {
+  "name": "manager",
+  "trans": "n.经理,管理人员,管理器"
+ },
+ {
+  "name": "mankind",
+  "trans": "n.人类,男性,男子"
+ },
+ {
+  "name": "manner",
+  "trans": "n.礼貌,风格,方式,样式,习惯"
+ },
+ {
+  "name": "manual",
+  "trans": "n.手册,指南adj.手的,手动的,手工的,体力的,手册(性质)的,[律]实际占有的"
+ },
+ {
+  "name": "margin",
+  "trans": "n.页边的空白,(湖、池等的)边缘,极限,利润,差数,(时间、金额等的)富余vt.加边于,加旁注于"
+ },
+ {
+  "name": "mark",
+  "trans": "n.标志,分数,痕迹,记号vt.做标记于,打分数,标志vi.作记号 Mark 马克(男子名)"
+ },
+ {
+  "name": "marriage",
+  "trans": "n.结婚,婚姻,婚姻生活,密切结合,合并"
+ },
+ {
+  "name": "married",
+  "trans": "adj.已婚的,婚姻的"
+ },
+ {
+  "name": "mask",
+  "trans": "n.面具,掩饰,石膏面像vt.戴面具,掩饰,使模糊vi.化装,戴面具,掩饰,参加化装舞会"
+ },
+ {
+  "name": "mass",
+  "trans": "n.块,大多数,质量,群众,大量adj.群众的,大规模的,集中的vt.使集合vi.聚集"
+ },
+ {
+  "name": "master",
+  "trans": "n.主人,雇主,(男)教师,熟练技工,师傅,大师,硕士,<称呼>少爷adj.主人的,熟练的,高明的,主要的vt.征服,控制,精通"
+ },
+ {
+  "name": "match",
+  "trans": "n.火柴,比赛,竞赛,匹配,(足球,捧球,蓝球)比赛v.相配,相称,比赛,相比,匹配"
+ },
+ {
+  "name": "mate",
+  "trans": "n.配偶,对手,助手vt.使配对,使一致,结伴vi.成配偶,紧密配合"
+ },
+ {
+  "name": "material",
+  "trans": "n.材料,原料,物资,素材,布料adj.物质的,肉体的,具体的,重要的,实质性的"
+ },
+ {
+  "name": "mathematics/maths",
+  "trans": "n.数学"
+ },
+ {
+  "name": "matter",
+  "trans": "n.事件,问题,物质,内容,实质,原因,(印刷或书写的)文件,(文章或讲话等的)素材vi.有关系,要紧"
+ },
+ {
+  "name": "mature",
+  "trans": "adj.成熟的,到期的,充分考虑的,(票据等)到期的vt.使成熟vi.成熟,到期"
+ },
+ {
+  "name": "maximum",
+  "trans": "n.最大量,最大限度,极大adj.最高的,最多的,最大极限的"
+ },
+ {
+  "name": "mayor",
+  "trans": "n.市长"
+ },
+ {
+  "name": "meaning",
+  "trans": "n.意义,含意,意图,[逻]内涵adj.意味深长的"
+ },
+ {
+  "name": "means",
+  "trans": "n.手段,方法v.意味,想要"
+ },
+ {
+  "name": "meantime",
+  "trans": "n.其间,其时adv.其间"
+ },
+ {
+  "name": "meanwhile",
+  "trans": "(=meantime)n.其间,其时;adv.其间"
+ },
+ {
+  "name": "measure",
+  "trans": "n.尺寸,量度器,量度标准,方法,测量,措施vt.测量,测度,估量,分派,权衡,调节vi.量"
+ },
+ {
+  "name": "measurement",
+  "trans": "n.测量法,度量,(量得的)尺寸,度量单位制"
+ },
+ {
+  "name": "mechanic",
+  "trans": "n.技工,机修工,机械士"
+ },
+ {
+  "name": "medical",
+  "trans": "n.医生,体格检查adj.医学的,内科的,<古>(医)药的"
+ },
+ {
+  "name": "medicine",
+  "trans": "n.药,医学,内科学,内服药vt.给...用药"
+ },
+ {
+  "name": "medium",
+  "trans": "n.媒体,方法,媒介adj.中间的,中等的,半生熟的"
+ },
+ {
+  "name": "member",
+  "trans": "n.成员,会员,议员,(人或动,植物的)一部分,[语]子句,成分,[逻]推论的命题"
+ },
+ {
+  "name": "memorial",
+  "trans": "n.纪念物,纪念馆,纪念议事,请愿书adj.记念的,记忆的"
+ },
+ {
+  "name": "memory",
+  "trans": "n.记忆,记忆力,回忆,存储(器),存储器 存储器,内存"
+ },
+ {
+  "name": "mend",
+  "trans": "n.改进,改良,补丁,修理部分,好转vt.修改,改进,加快,修理,修补vi.好转,改善,改正"
+ },
+ {
+  "name": "mental",
+  "trans": "adj.精神的,智力的"
+ },
+ {
+  "name": "mention",
+  "trans": "vt.提及,说起n.提及,说起v.论及,提及"
+ },
+ {
+  "name": "menu",
+  "trans": "n.菜单"
+ },
+ {
+  "name": "merchant",
+  "trans": "n.商人,批发商,贸易商,店主adj.商业的,商人的"
+ },
+ {
+  "name": "mercy",
+  "trans": "n.仁慈,宽恕,怜悯"
+ },
+ {
+  "name": "mere",
+  "trans": "adj.仅仅的,起码的,纯粹的"
+ },
+ {
+  "name": "merely",
+  "trans": "adv.仅仅,只,不过"
+ },
+ {
+  "name": "merry",
+  "trans": "adj.欢乐的,愉快的"
+ },
+ {
+  "name": "metal",
+  "trans": "n.金属"
+ },
+ {
+  "name": "method",
+  "trans": "n.方法"
+ },
+ {
+  "name": "metre/meter",
+  "trans": "n.米,公尺"
+ },
+ {
+  "name": "microphone",
+  "trans": "n.扩音器,麦克风"
+ },
+ {
+  "name": "microscope",
+  "trans": "n.显微镜"
+ },
+ {
+  "name": "mild",
+  "trans": "adj.温和的,温柔的,淡味的,轻微的,适度的,不含有害物质的的"
+ },
+ {
+  "name": "mile",
+  "trans": "n.英里,较大的距离"
+ },
+ {
+  "name": "military",
+  "trans": "adj.军事的,军用的"
+ },
+ {
+  "name": "mill",
+  "trans": "n.压榨机,磨坊,磨粉机,工厂,制造厂vt.碾磨,磨细,搅拌,使乱转,打vi.乱转,被碾磨"
+ },
+ {
+  "name": "million",
+  "trans": "num.百万,百万个n.[pl.] 无数"
+ },
+ {
+  "name": "mind",
+  "trans": "n.头脑,智力,精神,意见,情绪vi.介意,照顾,留心vt.注意,留意,专心于,照看,介意"
+ },
+ {
+  "name": "mine",
+  "trans": "n.矿,矿山,矿井,源泉,宝库,地雷,水雷vt.挖掘,开采,在...布雷,破坏vi.开矿,埋设地雷 pron.我的"
+ },
+ {
+  "name": "mineral",
+  "trans": "n.矿物,矿石"
+ },
+ {
+  "name": "minister",
+  "trans": "n.部长,大臣"
+ },
+ {
+  "name": "ministry",
+  "trans": "n.(政府的)部门"
+ },
+ {
+  "name": "minor",
+  "trans": "n.未成年人,副修科目adj.较小的,次要的,二流的,未成年的vi.辅修n.[乐]小调,小音阶"
+ },
+ {
+  "name": "minority",
+  "trans": "n.少数,少数民族"
+ },
+ {
+  "name": "minus",
+  "trans": "adj.负的,减的 prep.减去n.负数"
+ },
+ {
+  "name": "minute",
+  "trans": "n.分,分钟,片刻,一瞬间,备忘录,笔记vt.记录,摘录,测定时间adj.微小的,详细的,仔细而准确的"
+ },
+ {
+  "name": "miracle",
+  "trans": "n.奇迹,奇事"
+ },
+ {
+  "name": "mirror",
+  "trans": "n.镜子,真实反映情况的东西,典范vt.反映,映出"
+ },
+ {
+  "name": "miserable",
+  "trans": "adj.痛苦的,悲惨的,可怜"
+ },
+ {
+  "name": "misleading",
+  "trans": "adj.易误解的,令人误解的"
+ },
+ {
+  "name": "miss",
+  "trans": "n.过错,避免,失败,小姐,姑娘vt.未得到,未达到,未听到,思念,未觉察,错过,遗漏,逃脱vi.失败,击不中"
+ },
+ {
+  "name": "missing",
+  "trans": "adj.不见的,缺少的"
+ },
+ {
+  "name": "mission",
+  "trans": "n.使命,任务,使团,代表团"
+ },
+ {
+  "name": "mist",
+  "trans": "n.薄雾"
+ },
+ {
+  "name": "mistake",
+  "trans": "错误，误会"
+ },
+ {
+  "name": "mister",
+  "trans": "n.先生"
+ },
+ {
+  "name": "misunderstand",
+  "trans": "vt.误解,误会"
+ },
+ {
+  "name": "mix",
+  "trans": "v.使混和,混淆,混合n.混合"
+ },
+ {
+  "name": "mixture",
+  "trans": "n.混合,混合物,混合剂"
+ },
+ {
+  "name": "mode",
+  "trans": "n.方式,模式,样式,时尚"
+ },
+ {
+  "name": "model",
+  "trans": "n.样式,型,模范,典型,模型,原型,模特儿vt.模仿v.模拟"
+ },
+ {
+  "name": "moderate",
+  "trans": "adj.中等的,适度的,适中的v.缓和"
+ },
+ {
+  "name": "modern",
+  "trans": "n.现代人,有思想的人adj.近代的,现代的,现代化的,时髦的"
+ },
+ {
+  "name": "modest",
+  "trans": "adj.谦虚的,谦让的,适度的"
+ },
+ {
+  "name": "moist",
+  "trans": "adj.潮湿的n.潮湿"
+ },
+ {
+  "name": "moisture",
+  "trans": "n.潮湿,湿气"
+ },
+ {
+  "name": "molecule",
+  "trans": "n.[化]分子,些微"
+ },
+ {
+  "name": "moment",
+  "trans": "adj.片刻的,瞬间的,力矩的n.瞬间"
+ },
+ {
+  "name": "money",
+  "trans": "n.货币,钱,金钱"
+ },
+ {
+  "name": "monitor",
+  "trans": "n.班长,监听器,监视器,监控器vt.监控v.监控"
+ },
+ {
+  "name": "month",
+  "trans": "n.月"
+ },
+ {
+  "name": "monthly",
+  "trans": "adj.每月的adv.每月一次n.月刊"
+ },
+ {
+  "name": "monument",
+  "trans": "n.纪念碑"
+ },
+ {
+  "name": "mood",
+  "trans": "n.心情,情绪,语气,状态"
+ },
+ {
+  "name": "moral",
+  "trans": "adj.道德(上)的,精神的n.道德"
+ },
+ {
+  "name": "moreover",
+  "trans": "adv.而且,此外"
+ },
+ {
+  "name": "mosquito",
+  "trans": "n.蚊子"
+ },
+ {
+  "name": "mostly",
+  "trans": "adv.主要地,大部分,通常"
+ },
+ {
+  "name": "motion",
+  "trans": "n.运动,动作v.运动"
+ },
+ {
+  "name": "motive",
+  "trans": "n.动机,目的adj.发动的,运动的"
+ },
+ {
+  "name": "motor",
+  "trans": "n.发动机,电动机"
+ },
+ {
+  "name": "mould",
+  "trans": "n.[亦作mold] 肥土,壤土,[亦作mold] 霉,模具v.用土覆盖,发霉,铸造"
+ },
+ {
+  "name": "mountain",
+  "trans": "n.山,山脉"
+ },
+ {
+  "name": "movement",
+  "trans": "n.运动,动作,运转,乐章"
+ },
+ {
+  "name": "mud",
+  "trans": "泥"
+ },
+ {
+  "name": "multiply",
+  "trans": "v.繁殖,乘,增加"
+ },
+ {
+  "name": "murder",
+  "trans": "n.谋杀,凶杀vt.谋杀,凶杀v.谋杀"
+ },
+ {
+  "name": "muscle",
+  "trans": "n.肌肉,臂力,(可供食用的)瘦肉,[解]肌"
+ },
+ {
+  "name": "museum",
+  "trans": "n.博物馆"
+ },
+ {
+  "name": "musical",
+  "trans": "adj.音乐的,悦耳的 音乐喜剧"
+ },
+ {
+  "name": "musician",
+  "trans": "n.音乐家"
+ },
+ {
+  "name": "must",
+  "trans": "aux.必须,应当,很可能,一定,必须,肯定,可以"
+ },
+ {
+  "name": "mutual",
+  "trans": "adj.相互的,共有的"
+ },
+ {
+  "name": "mysterious",
+  "trans": "adj.神秘的"
+ },
+ {
+  "name": "mystery",
+  "trans": "n.神秘,神秘的事物"
+ },
+ {
+  "name": "nail",
+  "trans": "n.指甲,钉,钉子vt.钉,将...钉牢"
+ },
+ {
+  "name": "naked",
+  "trans": "adj.裸体的,无遮盖的,无装饰的,无保护的,[律]无证据的,未证实的"
+ },
+ {
+  "name": "narrow",
+  "trans": "n.狭窄部分,海峡,隘路adj.狭窄的,精密的,严密的,有限的,气量小的,勉强的,眼光短浅的vi.变窄vt.使变狭窄,使缩小"
+ },
+ {
+  "name": "nation",
+  "trans": "n.国家,民族"
+ },
+ {
+  "name": "national",
+  "trans": "adj.国家的,国立[有]的,民族的"
+ },
+ {
+  "name": "nationality",
+  "trans": "n.国籍,国家,部落,民族,民族性"
+ },
+ {
+  "name": "native",
+  "trans": "n.本地人,土产,土人adj.本国的,出生地的,本地的,与生俱来的,天赋的,土产的,土著的"
+ },
+ {
+  "name": "natural",
+  "trans": "adj.自然的,自然界的,关于自然界的,天生的,天赋的,普通的,正常的,简单自然的 本位号"
+ },
+ {
+  "name": "nature",
+  "trans": "n.自然,自然界,大自然,自然状态,本性,天性,种类"
+ },
+ {
+  "name": "naval",
+  "trans": "adj.海军的"
+ },
+ {
+  "name": "navy",
+  "trans": "n.海军"
+ },
+ {
+  "name": "neat",
+  "trans": "adj.整洁的,灵巧的,优雅的,(酒)纯的,未搀水的"
+ },
+ {
+  "name": "necessarily",
+  "trans": "adv.必要地"
+ },
+ {
+  "name": "necessary",
+  "trans": "n.必需品adj.必要的,必需的,必然的"
+ },
+ {
+  "name": "necessity",
+  "trans": "n.必要性,需要,(常 pl.) 必需品"
+ },
+ {
+  "name": "neck",
+  "trans": "n.脖子,颈,颈壮物"
+ },
+ {
+  "name": "needle",
+  "trans": "n.针"
+ },
+ {
+  "name": "negative",
+  "trans": "n.否定,负数,底片adj.否定的,消极的,负的,阴性的vt.否定,拒绝(接受)"
+ },
+ {
+  "name": "neglect",
+  "trans": "vt.忽视,疏忽,漏做n.忽视,疏忽,漏做"
+ },
+ {
+  "name": "neighbor",
+  "trans": "n.<美> 邻居,邻国"
+ },
+ {
+  "name": "neighborhood",
+  "trans": "n.附近,邻近"
+ },
+ {
+  "name": "nephew",
+  "trans": "n.侄子,外甥"
+ },
+ {
+  "name": "nerve",
+  "trans": "n.神经,胆量,勇气,叶脉vt.鼓起勇气"
+ },
+ {
+  "name": "nervous",
+  "trans": "adj.神经紧张的,不安的,强健有力的"
+ },
+ {
+  "name": "nest",
+  "trans": "n.巢,窝,休息所,隐匿处,舒适的地方,(可以一个套一个的)一套器具vi.筑巢,找鸟巢vt.造巢,使套入"
+ },
+ {
+  "name": "net",
+  "trans": "n.网,网络,网状物,净利,实价adj.净余的,纯粹的vt.用网捕,净赚,得到vi.编网 [域] Nerwork operations and service centers,网络服务商"
+ },
+ {
+  "name": "neutral",
+  "trans": "n.中立者,中立国,非彩色,齿轮的空档adj.中立的,中立国的,中性的,无确定性质的,(颜色等)不确定的"
+ },
+ {
+  "name": "nevertheless",
+  "trans": "conj.然而,不过adv.仍然,不过"
+ },
+ {
+  "name": "niece",
+  "trans": "n.侄女,甥女"
+ },
+ {
+  "name": "noble",
+  "trans": "adj.高尚的,贵族的,高贵的n.贵族"
+ },
+ {
+  "name": "nod",
+  "trans": "v.点头,点... n.点头"
+ },
+ {
+  "name": "noisy",
+  "trans": "adj.吵杂的,聒噪的"
+ },
+ {
+  "name": "none",
+  "trans": "adv.决不,毫不 pron.一个也没有,毫无"
+ },
+ {
+  "name": "nonsense",
+  "trans": "n.胡说,废话"
+ },
+ {
+  "name": "northeast",
+  "trans": "n.东北adj.东北的"
+ },
+ {
+  "name": "northern",
+  "trans": "adj.北方的,北部的"
+ },
+ {
+  "name": "northwest",
+  "trans": "n.西北方adj.西北的"
+ },
+ {
+  "name": "noun",
+  "trans": "n.名词"
+ },
+ {
+  "name": "novel",
+  "trans": "n.小说,长篇故事adj.新奇的,新颖的,异常的"
+ },
+ {
+  "name": "nuclear",
+  "trans": "adj.[核]核子的,原子能的,核的,中心的"
+ },
+ {
+  "name": "nuisance",
+  "trans": "n.讨厌的人或东西,麻烦事,损害"
+ },
+ {
+  "name": "numerous",
+  "trans": "adj.众多的,许多的,无数的"
+ },
+ {
+  "name": "nursery",
+  "trans": "n.托儿所"
+ },
+ {
+  "name": "nut",
+  "trans": "n.坚果,螺母,螺帽,难解的问题"
+ },
+ {
+  "name": "nylon",
+  "trans": "n.尼龙"
+ },
+ {
+  "name": "obey",
+  "trans": "v.服从,顺从"
+ },
+ {
+  "name": "object",
+  "trans": "n.物体,目标,宾语,对象vi.反对,拒绝,抗议vt.提出...来反对"
+ },
+ {
+  "name": "objection",
+  "trans": "n.异议,缺陷,妨碍,拒绝之理由"
+ },
+ {
+  "name": "objective",
+  "trans": "n.目标,目的,(显微镜的)(接)物镜,[语法]宾格adj.客观的,[语法]宾格的"
+ },
+ {
+  "name": "oblige",
+  "trans": "vt.迫使,责成"
+ },
+ {
+  "name": "observation",
+  "trans": "n.观察,观测,[pl.] 观察资料(或报告)"
+ },
+ {
+  "name": "observe",
+  "trans": "vt.观察,观测,遵守,评述,说"
+ },
+ {
+  "name": "observer",
+  "trans": "n.观测者,观察员,遵守者"
+ },
+ {
+  "name": "obstacle",
+  "trans": "n.障碍,妨害物"
+ },
+ {
+  "name": "obtain",
+  "trans": "vt.获得,得到"
+ },
+ {
+  "name": "obvious",
+  "trans": "adj.明显的,显而易见的"
+ },
+ {
+  "name": "occasion",
+  "trans": "n.场合,时机,机会"
+ },
+ {
+  "name": "occasional",
+  "trans": "adj.偶然的,非经常的,特殊场合的,临时的"
+ },
+ {
+  "name": "occupation",
+  "trans": "n.职业,占有,占有(房屋等)期间"
+ },
+ {
+  "name": "occupy",
+  "trans": "vt.占,占用,占领,占据"
+ },
+ {
+  "name": "occur",
+  "trans": "vi.发生,出现"
+ },
+ {
+  "name": "ocean",
+  "trans": "n.大海,海洋,许多,广阔"
+ },
+ {
+  "name": "odd",
+  "trans": "adj.奇数的,单数的,单只的,不成对的,临时的,不固定的,带零头的,余的"
+ },
+ {
+  "name": "offend",
+  "trans": "v.犯罪,冒犯,违反,得罪,使...不愉快"
+ },
+ {
+  "name": "offer",
+  "trans": "n.出价,提议,意图vt.提供,出价,贡献,使出现,企图,演出vi.(机会、时机等)出现,献祭,提议"
+ },
+ {
+  "name": "officer",
+  "trans": "n.政府官员,军官,警官,船长vt.指挥"
+ },
+ {
+  "name": "omit",
+  "trans": "vt.省略,疏忽,遗漏"
+ },
+ {
+  "name": "onto",
+  "trans": "prep.在...之上"
+ },
+ {
+  "name": "opening",
+  "trans": "n.开,开放,开始,口子,穴,通路,空缺,机会adj.开始的,开幕的"
+ },
+ {
+  "name": "opera",
+  "trans": "n.歌剧"
+ },
+ {
+  "name": "operate",
+  "trans": "v.操作,运转,开动,起作用,动手术,开刀n.[军]作军事行动"
+ },
+ {
+  "name": "operation",
+  "trans": "n.运转,操作,实施,作用,业务,工作,手术,军事行动"
+ },
+ {
+  "name": "operator",
+  "trans": "n.操作员,工作者,(电话)接线员,报务员,手术员,行家,经营者,算子"
+ },
+ {
+  "name": "opinion",
+  "trans": "n.意见,看法,主张,判断,评价"
+ },
+ {
+  "name": "opponent",
+  "trans": "adj.对立的,对抗的n.对手,反对者"
+ },
+ {
+  "name": "opportunity",
+  "trans": "n.机会,时机"
+ },
+ {
+  "name": "oppose",
+  "trans": "vt.反对,使对立,使对抗,抗争vi.反对"
+ },
+ {
+  "name": "opposite",
+  "trans": "adj.相对的,对面的,对立的,相反的,对等的,对应的n.相反的事物"
+ },
+ {
+  "name": "optimistic",
+  "trans": "adj.乐观的"
+ },
+ {
+  "name": "optional",
+  "trans": "adj.可选择的,随意的"
+ },
+ {
+  "name": "oral",
+  "trans": "adj.口头的"
+ },
+ {
+  "name": "orange",
+  "trans": "n.柑,桔,橙,橙色"
+ },
+ {
+  "name": "orbit",
+  "trans": "n.轨道,势力范围,生活常规,眼眶vt.绕...轨道而行vi.进入轨道,沿轨道飞行,盘旋"
+ },
+ {
+  "name": "orderly",
+  "trans": "adj.有秩序的,整齐的,整洁的n.传令兵,勤务兵adv.依次地,顺序地"
+ },
+ {
+  "name": "ordinary",
+  "trans": "adj.平常的,普通的,平凡的n.[律] 推事,<英>[宗]罪犯的忏悔牧师"
+ },
+ {
+  "name": "ore",
+  "trans": "n.矿石,含有金属的岩石"
+ },
+ {
+  "name": "organ",
+  "trans": "n.[机]元件,机构,机关,机关报 [乐]风琴,管风琴,嗓音 [生物]器官"
+ },
+ {
+  "name": "organization",
+  "trans": "n.组织,机构,团体"
+ },
+ {
+  "name": "organize",
+  "trans": "vt.组织,使有机化,给予生机vi.组织起来"
+ },
+ {
+  "name": "origin",
+  "trans": "n.起源,由来,起因,出身,血统,[数]原点"
+ },
+ {
+  "name": "original",
+  "trans": "adj.最初的,原始的,独创的,新颖的n.原物,原作"
+ },
+ {
+  "name": "otherwise",
+  "trans": "adv.另外,否则,不同地,别的方式adj.另外的,其他方面的"
+ },
+ {
+  "name": "ounce",
+  "trans": "n.盎司,少量,[动]雪豹"
+ },
+ {
+  "name": "out-dated",
+  "trans": "过时的"
+ },
+ {
+  "name": "outdoor",
+  "trans": "adj.室外的,户外的,野外的"
+ },
+ {
+  "name": "outer",
+  "trans": "adj.外部的,外面的,远离中心的n.(射击)环外命中"
+ },
+ {
+  "name": "outlet",
+  "trans": "n.出口,出路"
+ },
+ {
+  "name": "output",
+  "trans": "n.产量,输出,输出量"
+ },
+ {
+  "name": "outside",
+  "trans": "n.外面,外表,外界adj.外面的,外表的,外界的adv.在外面,外表,出界 prep.在...外"
+ },
+ {
+  "name": "outstanding",
+  "trans": "adj.突出的,显著的"
+ },
+ {
+  "name": "outward",
+  "trans": "adj.外面的,外表的,公开的,向外的,外出的adv.向外,在外,表面上n.外表,周围世界"
+ },
+ {
+  "name": "oven",
+  "trans": "n.烤箱,烤炉,灶"
+ },
+ {
+  "name": "overcoat",
+  "trans": "n.外套大衣"
+ },
+ {
+  "name": "overcome",
+  "trans": "vt.战胜,克服,胜过,征服vi.得胜"
+ },
+ {
+  "name": "overlook",
+  "trans": "vt.俯瞰,耸出,远眺,没注意到n.眺望,俯瞰中的景色"
+ },
+ {
+  "name": "overnight",
+  "trans": "n.头天晚上adj.通宵的,晚上的,前夜的adv.在前一夜,整夜,昨晚一晚上"
+ },
+ {
+  "name": "oversea",
+  "trans": "adj.外国的,海外的"
+ },
+ {
+  "name": "overtake",
+  "trans": "vt.赶上,追上,(暴风雨、麻烦等)突然来袭,压倒"
+ },
+ {
+  "name": "owe",
+  "trans": "vt.欠(债等),受到...的思想,感激,把...归功于v.欠,应感激,应该把...归功于(to)vi.欠钱"
+ },
+ {
+  "name": "owner",
+  "trans": "n.所有者,业主"
+ },
+ {
+  "name": "ownership",
+  "trans": "n.所有权,物主身份"
+ },
+ {
+  "name": "ox",
+  "trans": "n.牛,公牛"
+ },
+ {
+  "name": "oxygen",
+  "trans": "n.[化]氧"
+ },
+ {
+  "name": "pace",
+  "trans": "n.(一)步,速度,步调,步法,步态vi.踱步,缓慢的走vt.用步测,踱步于,(马)溜花蹄"
+ },
+ {
+  "name": "pacific",
+  "trans": "爱好和平的，温和的"
+ },
+ {
+  "name": "pack",
+  "trans": "n.包裹,<贬>一群,一副,背包,包装vt.包装,捆扎,塞满,压紧,挑选vi.包装货物,挤,群集,被包装 背包"
+ },
+ {
+  "name": "package",
+  "trans": "n.包裹,包"
+ },
+ {
+  "name": "packet",
+  "trans": "n.小包裹,小捆;v.包装"
+ },
+ {
+  "name": "pad",
+  "trans": "n.垫,衬垫,便笺簿v.加上衬垫"
+ },
+ {
+  "name": "page",
+  "trans": "n.页,记录,事件,专栏vt.标明...的页数,翻...的书页vi.翻书页"
+ },
+ {
+  "name": "pain",
+  "trans": "n.痛苦,疼,痛,劳苦,努力vt.使痛苦"
+ },
+ {
+  "name": "painful",
+  "trans": "adj.疼痛的,使痛苦的"
+ },
+ {
+  "name": "paint",
+  "trans": "n.油漆,颜料,涂料v.油漆,(用颜料等)画,绘,描绘,逼真地描述"
+ },
+ {
+  "name": "painter",
+  "trans": "n.画家,油漆匠"
+ },
+ {
+  "name": "painting",
+  "trans": "n.上油漆,着色,绘画,油画v.描绘"
+ },
+ {
+  "name": "palace",
+  "trans": "n.宫,宫殿"
+ },
+ {
+  "name": "pale",
+  "trans": "n.栅栏,界线,范围,(围篱用的)尖板条adj.苍白的,暗淡的,无力的vi.变苍白,失色vt.使变苍白,使失色,用栅栏围"
+ },
+ {
+  "name": "palm",
+  "trans": "n.手掌,棕榈,(象征胜利的)棕榈叶vt.与...握手,藏...于掌中,蒙混"
+ },
+ {
+  "name": "pan",
+  "trans": "n.平底锅,盘子,面板 Pan <希神>潘(半人半羊的山林和畜牧之神)"
+ },
+ {
+  "name": "parade",
+  "trans": "n.游行,炫耀,阅兵,检阅,阅兵场v.游行,炫耀,夸耀,(使)列队行进"
+ },
+ {
+  "name": "paragraph",
+  "trans": "n.(文章)段,节,段落"
+ },
+ {
+  "name": "parallel",
+  "trans": "adj.平行的,相同的,类似的,并联的n.平行线,平行面,类似,相似物v.相应,平行"
+ },
+ {
+  "name": "parcel",
+  "trans": "n.小包,包裹vt.打包,捆扎"
+ },
+ {
+  "name": "pardon",
+  "trans": "vt.原谅,宽恕n.原谅,宽恕"
+ },
+ {
+  "name": "parliament",
+  "trans": "n.国会,议会"
+ },
+ {
+  "name": "participate",
+  "trans": "vi.参与,参加,分享,分担"
+ },
+ {
+  "name": "particle",
+  "trans": "n.粒子,点,极小量,微粒,质点,小品词,语气"
+ },
+ {
+  "name": "particularly",
+  "trans": "adv.独特地,显著地"
+ },
+ {
+  "name": "partly",
+  "trans": "adv.部分,几分"
+ },
+ {
+  "name": "partner",
+  "trans": "n.合伙人,股东,舞伴,伴侣vt.与...合伙,组成一对vi.做伙伴,当助手"
+ },
+ {
+  "name": "party",
+  "trans": "n.党,政党,随行人员,[律]当事人,社交会"
+ },
+ {
+  "name": "passage",
+  "trans": "n.通过,经过,通道,通路,(一)段,(一)节"
+ },
+ {
+  "name": "passenger",
+  "trans": "n.乘客,旅客"
+ },
+ {
+  "name": "passion",
+  "trans": "n.激情,热情,耶稣的受难和死亡"
+ },
+ {
+  "name": "passive",
+  "trans": "adj.被动的"
+ },
+ {
+  "name": "passport",
+  "trans": "n.护照"
+ },
+ {
+  "name": "past",
+  "trans": "n.过去,往时adj.过去的,结束的 prep.越过,晚于 vbl.pass的过去分词"
+ },
+ {
+  "name": "paste",
+  "trans": "n.糊,面团,黏土团vt.用浆糊粘,张贴n.粘贴"
+ },
+ {
+  "name": "pat",
+  "trans": "n.轻拍,(黄油)小块v.轻拍adv.适时,正好,恰好adj.恰好的,合适的,人为的"
+ },
+ {
+  "name": "patch",
+  "trans": "n.片,补缀,碎片,斑纹,斑点,小块地,眼罩,傻瓜;vt.修补,补缀,掩饰,平息"
+ },
+ {
+  "name": "path",
+  "trans": "n.小路,小径,路线,轨道,通道"
+ },
+ {
+  "name": "patience",
+  "trans": "n.耐性,忍耐 Patience 佩兴斯(女子名)"
+ },
+ {
+  "name": "patient",
+  "trans": "n.病人,患者adj.忍耐的,耐心的"
+ },
+ {
+  "name": "pattern",
+  "trans": "n.模范,式样,模式,样品,格调,图案vt.模仿,仿造,以图案装饰vi.形成图案"
+ },
+ {
+  "name": "pause",
+  "trans": "n.中止,暂停,休止符vi.暂停,中止,停顿,踌躇n.暂停"
+ },
+ {
+  "name": "paw",
+  "trans": "爪"
+ },
+ {
+  "name": "payment",
+  "trans": "n.付款,支付,报酬,偿还,报应,惩罚"
+ },
+ {
+  "name": "pea",
+  "trans": "豌豆"
+ },
+ {
+  "name": "peace",
+  "trans": "n.和平,和睦,安宁,静寂vi.安静下来"
+ },
+ {
+  "name": "peaceful",
+  "trans": "adj.和平的,平静的,安宁的,爱好和平的"
+ },
+ {
+  "name": "peak",
+  "trans": "n.山顶,顶点,帽舌,(记录的)最高峰adj.最高的vi.到达最高点,消瘦,缩小vt.使竖起,使达到最高点"
+ },
+ {
+  "name": "pear",
+  "trans": "n.梨子,梨树"
+ },
+ {
+  "name": "peasant",
+  "trans": "n.农夫,乡下人"
+ },
+ {
+  "name": "peculiar",
+  "trans": "adj.奇特的,罕见的,特殊的n.特有财产,特权"
+ },
+ {
+  "name": "penetrate",
+  "trans": "vt.穿透,渗透,看穿,洞察vi.刺入,看穿,渗透,弥漫"
+ },
+ {
+  "name": "penny",
+  "trans": "n.便士,<美> 分"
+ },
+ {
+  "name": "per",
+  "trans": "prep.每,每一,由,经"
+ },
+ {
+  "name": "perceive",
+  "trans": "vt.察觉v.感知,感到,认识到"
+ },
+ {
+  "name": "percentage",
+  "trans": "n.百分数,百分率,百分比"
+ },
+ {
+  "name": "perfect",
+  "trans": "n.完成式adj.完美的,全然的,理想的,正确的,熟练的,精通的完成式的vt.使完美,修改,使熟练"
+ },
+ {
+  "name": "perform",
+  "trans": "vt.履行,执行,表演,演出v.完成任务"
+ },
+ {
+  "name": "performance",
+  "trans": "n.履行,执行,成绩,性能,表演,演奏"
+ },
+ {
+  "name": "perhaps",
+  "trans": "adv.或许,多半"
+ },
+ {
+  "name": "period",
+  "trans": "n.时期,学时,节,句点,周期,(妇女的)经期adj.过去某段时期的int.没有了"
+ },
+ {
+  "name": "permanent",
+  "trans": "adj.永久的,持久的"
+ },
+ {
+  "name": "permission",
+  "trans": "n.许可,允许"
+ },
+ {
+  "name": "permit",
+  "trans": "n.通行证,许可证,执照v.许可,允许,准许"
+ },
+ {
+  "name": "persist",
+  "trans": "vi.坚持,持续"
+ },
+ {
+  "name": "personal",
+  "trans": "adj.私人的,个人的,亲自的,容貌的,身体的,人身的,针对个人的adj.[语法]人称的"
+ },
+ {
+  "name": "perspective",
+  "trans": "n.透视画法,透视图,远景,前途,观点,看法,观点,观察"
+ },
+ {
+  "name": "persuade",
+  "trans": "v.说服,劝说,(使)相信,劝某人做(不做)某事"
+ },
+ {
+  "name": "pet",
+  "trans": "n.宠物,受宠爱的人,不悦adj.宠爱的,亲昵的vt.宠爱vi.拥抱,爱抚,生气,发脾气"
+ },
+ {
+  "name": "petrol",
+  "trans": "n.<英>汽油(=<美>gasoline)"
+ },
+ {
+  "name": "petroleum",
+  "trans": "n.石油"
+ },
+ {
+  "name": "phase",
+  "trans": "n.阶段,状态,相,相位v.定相"
+ },
+ {
+  "name": "philosopher",
+  "trans": "n.哲学家,哲人"
+ },
+ {
+  "name": "philosophy",
+  "trans": "n.哲学,哲学体系,达观,冷静"
+ },
+ {
+  "name": "phrase",
+  "trans": "n.短语,习语,惯用语,成语,措词vt.用短语表达"
+ },
+ {
+  "name": "physical",
+  "trans": "adj.身体的,物质的,自然的,物理的n.体格检查"
+ },
+ {
+  "name": "physicist",
+  "trans": "n.物理学者,唯物论者"
+ },
+ {
+  "name": "physics",
+  "trans": "n.物理学"
+ },
+ {
+  "name": "pick",
+  "trans": "n.精选,掘,鹤嘴锄vt.摘,掘,凿,挑选,挖,挑剔vi.摘,掘,凿,挖,挑选v.拾取"
+ },
+ {
+  "name": "picnic",
+  "trans": "n.野餐vi.(去)野餐"
+ },
+ {
+  "name": "pie",
+  "trans": "n.馅饼,杂乱,喜鹊,爱说话的人vt.弄乱"
+ },
+ {
+  "name": "pigeon",
+  "trans": "n.鸽子"
+ },
+ {
+  "name": "pile",
+  "trans": "n.堆,大堆,高大建筑,<美口>大量钱财,<美>[核]反应堆,[电]电池组vi.堆起,堆积,积累,挤vt.堆于,累积,堆叠,打桩于,用桩支撑"
+ },
+ {
+  "name": "pill",
+  "trans": "n.药丸,口服避孕药,弹丸"
+ },
+ {
+  "name": "pillar",
+  "trans": "n.[建] 柱子,栋梁,重要的支持者"
+ },
+ {
+  "name": "pillow",
+  "trans": "n.枕头,枕垫"
+ },
+ {
+  "name": "pilot",
+  "trans": "n.飞行员,领航员,引水员vt.驾驶(飞机等),领航,引水v.驾驶"
+ },
+ {
+  "name": "pin",
+  "trans": "n.钉,销,栓,大头针,别针,腿vt.钉住,别住,阻止,扣牢,止住,牵制"
+ },
+ {
+  "name": "pinch",
+  "trans": "n.捏,撮,收缩,紧急关头,匮乏,压力vt.掐,夹痛,修剪,勒索,使感缺乏,使萎缩,偷vi.收缩,节省"
+ },
+ {
+  "name": "pine",
+  "trans": "n.松树,树木v.消瘦,憔悴,渴望,渴慕"
+ },
+ {
+  "name": "pink",
+  "trans": "n.粉红色,石竹花,化身,极致,精华adj.粉红的vt.刺,扎,刺痛,使变粉红色vi.变粉红色"
+ },
+ {
+  "name": "pint",
+  "trans": "n.品脱"
+ },
+ {
+  "name": "pioneer",
+  "trans": "n.先驱,倡导者,先遣兵,先锋"
+ },
+ {
+  "name": "pipe",
+  "trans": "n.管,导管,烟斗,管乐器,笛声vt.以管输送,吹哨子vi.吹笛,尖叫"
+ },
+ {
+  "name": "pit",
+  "trans": "n.深坑,深渊,陷阱,(物体或人体表面上的)凹陷,(英国剧场的)正厅后排、正厅后排的观众vt.窖藏,使凹下,去...之核,使留疤痕,使竞争vi.起凹点,凹陷"
+ },
+ {
+  "name": "pity",
+  "trans": "v.(觉得)可怜n.憾事,怜悯,同情"
+ },
+ {
+  "name": "plain",
+  "trans": "n.平原,草原adj.简单的,明白的,平常的,清晰的,普通的,朴素的adv.清楚地n.[计] 无格式"
+ },
+ {
+  "name": "planet",
+  "trans": "n.[天]行星"
+ },
+ {
+  "name": "plant",
+  "trans": "n.植物,庄稼,工厂,车间,设备vt.种植,栽培,培养,安置vi.种植"
+ },
+ {
+  "name": "plantation",
+  "trans": "n.耕地,种植园,大农场,森林,人造林,殖民"
+ },
+ {
+  "name": "plastic",
+  "trans": "n.塑胶,可塑体,塑料制品,整形adj.塑胶的,塑造的,有可塑性的,造形的,(外科)整形的"
+ },
+ {
+  "name": "plate",
+  "trans": "n.盘子,金属板,图版,金银餐具vt.镀(金,银等),电镀,给...装钢板"
+ },
+ {
+  "name": "player",
+  "trans": "n.做游戏的人,比赛者,演员,演奏者,表演者"
+ },
+ {
+  "name": "playground",
+  "trans": "n.运动场,操场"
+ },
+ {
+  "name": "pleasant",
+  "trans": "adj.令人愉快的,舒适的"
+ },
+ {
+  "name": "pleasure",
+  "trans": "n.愉快,快乐,乐事,乐趣,意志,愿望"
+ },
+ {
+  "name": "plentiful",
+  "trans": "adj.许多的,大量的,丰富的,丰饶的"
+ },
+ {
+  "name": "plot",
+  "trans": "n.小块土地,地区图,图,秘密计划(特指阴谋),(小说的)情节.结构vt.划分,绘图,密谋vi.密谋,策划"
+ },
+ {
+  "name": "plough/plow",
+  "trans": "n.犁v.耕,犁,犁耕,费力穿过,艰苦前进,在考试中淘汰"
+ },
+ {
+  "name": "plug",
+  "trans": "vt.堵,塞,插上,插栓n.塞子,插头,插销"
+ },
+ {
+  "name": "plunge",
+  "trans": "n.跳进,投入vi.投入,跳进,陷入vt.使投入,使插入,使陷入"
+ },
+ {
+  "name": "plural",
+  "trans": "adj.复数的"
+ },
+ {
+  "name": "plus",
+  "trans": "prep.加上adj.正的,加的"
+ },
+ {
+  "name": "pocket",
+  "trans": "n.衣袋,口袋,钱,财vt.装...在口袋里,隐藏(感情),据为己有,击...入袋adj.袖珍的,小型的"
+ },
+ {
+  "name": "poem",
+  "trans": "n.诗,象诗一样,美丽的东西"
+ },
+ {
+  "name": "poet",
+  "trans": "n.诗人"
+ },
+ {
+  "name": "poetry",
+  "trans": "n.诗,作诗法,诗意,诗情"
+ },
+ {
+  "name": "point",
+  "trans": "n.点,尖端,分数,要点,分数vt.弄尖,指向,指出,瞄准,加标点于vi.指,指向,表明"
+ },
+ {
+  "name": "poison",
+  "trans": "n.毒药,败坏道德之事,毒害vt.毒害,败坏,使中毒vi.放毒,下毒"
+ },
+ {
+  "name": "poisonous",
+  "trans": "adj.有毒的"
+ },
+ {
+  "name": "pole",
+  "trans": "n.棒,柱,杆,竿,极,磁极,电极vt.用竿支撑,用棒推vi.撑篙 Pole 波兰人"
+ },
+ {
+  "name": "police",
+  "trans": "n.警察队,警察机关,公安部门vt.管辖,维持治安adj.警察的,有关警察的"
+ },
+ {
+  "name": "policeman",
+  "trans": "n.警察"
+ },
+ {
+  "name": "policy",
+  "trans": "n.政策,方针"
+ },
+ {
+  "name": "polish",
+  "trans": "n.磨光,光泽,上光剂,优雅,精良vt.擦亮,发亮,磨光,推敲vi.发亮,变光滑adj.波兰的n.波兰人 Polish 波兰(Poland)的"
+ },
+ {
+  "name": "polite",
+  "trans": "adj.有礼貌的,客气的,有教养的,文雅的"
+ },
+ {
+  "name": "politician",
+  "trans": "n.政治家,政客"
+ },
+ {
+  "name": "politics",
+  "trans": "n.政治,政治学,政纲,政见"
+ },
+ {
+  "name": "pollute",
+  "trans": "vt.弄脏,污染"
+ },
+ {
+  "name": "pollution",
+  "trans": "n.污染,玷污"
+ },
+ {
+  "name": "pond",
+  "trans": "n.池塘v.筑成池塘"
+ },
+ {
+  "name": "pool",
+  "trans": "n.池,撞球,联营,石油层vt.合伙经营,共享,共有,集中(钱、力量等),采掘,汇聚成vi.汇合成塘,郁积,联营"
+ },
+ {
+  "name": "pop",
+  "trans": "n.取出,砰然声,枪击,流行乐曲;adj.流行的,热门的,通俗的;vt.开枪打,抛出,取出,突然伸出,突然行动;adv.突然,砰地;vi.发出爆裂声,爆开,射击,突然出现,瞪大;n.<口>汽水;Post Office Protocol,电子邮件协议"
+ },
+ {
+  "name": "popular",
+  "trans": "adj.通俗的,流行的,受欢迎的"
+ },
+ {
+  "name": "population",
+  "trans": "n.人口"
+ },
+ {
+  "name": "pork",
+  "trans": "n.猪肉,<美俚><粗>与(女子)性交"
+ },
+ {
+  "name": "port",
+  "trans": "n.港口,舱门,左舷,避风港,枪眼vt.左转舵,持(枪)vi.转舵左n.端口"
+ },
+ {
+  "name": "porter",
+  "trans": "n.守门人,门房,行李搬运工"
+ },
+ {
+  "name": "portion",
+  "trans": "n.一部分,一分"
+ },
+ {
+  "name": "portrait",
+  "trans": "n.肖像,人像"
+ },
+ {
+  "name": "position",
+  "trans": "n.位置,职位,立场,形势,阵地vt.安置,决定...的位置"
+ },
+ {
+  "name": "positive",
+  "trans": "adj.肯定的,实际的,积极的,绝对的,确实的adj.[数]正的adj.[电]阳的adj.[语法] 原级的"
+ },
+ {
+  "name": "possess",
+  "trans": "vt.占有,拥有,持有,摆布,支配"
+ },
+ {
+  "name": "possibility",
+  "trans": "n.可能性,可能发生的事物"
+ },
+ {
+  "name": "post",
+  "trans": "（支）柱，公告，邮寄，哨所，职位"
+ },
+ {
+  "name": "postage",
+  "trans": "n.邮资"
+ },
+ {
+  "name": "postman",
+  "trans": "n.邮差"
+ },
+ {
+  "name": "postpone",
+  "trans": "vt.推迟,使延期,延迟"
+ },
+ {
+  "name": "pot",
+  "trans": "n.罐,壶v.罐装"
+ },
+ {
+  "name": "potato",
+  "trans": "n.马铃薯"
+ },
+ {
+  "name": "potential",
+  "trans": "adj.潜在的,可能的,势的,位的n.潜能,潜力,电压"
+ },
+ {
+  "name": "pound",
+  "trans": "n.磅,英镑,重击,鱼塘,兽栏,拘留所vt.强烈打击,捣烂,监禁,关入栏vi.连续重击,连续敲打,苦干"
+ },
+ {
+  "name": "pour",
+  "trans": "v.灌注,倾泻,涌入,流,倾盆大雨"
+ },
+ {
+  "name": "poverty",
+  "trans": "n.贫穷,贫困,贫乏,缺少"
+ },
+ {
+  "name": "powder",
+  "trans": "n.粉,粉末,火药,尘土vt.搽粉于,撒粉,使成粉末vi.搽粉,变成粉末"
+ },
+ {
+  "name": "powerful",
+  "trans": "adj.强大的,有力的"
+ },
+ {
+  "name": "practical",
+  "trans": "adj.实际的,实践的,实用的,应用的,有实际经验的"
+ },
+ {
+  "name": "practically",
+  "trans": "adv.实际上,事实上,在实践上adv.几乎,简直"
+ },
+ {
+  "name": "practice",
+  "trans": "n.实行,实践,实际,惯例,习惯,练习,实习,开业"
+ },
+ {
+  "name": "practice/se",
+  "trans": "n.实行,实践,实际,惯例,习惯,练习,实习,开业"
+ },
+ {
+  "name": "praise",
+  "trans": "vt.赞扬,歌颂,称赞n.赞扬,赞美的话,赞美,荣耀,称赞"
+ },
+ {
+  "name": "pray",
+  "trans": "v.祈祷,恳求,请"
+ },
+ {
+  "name": "precious",
+  "trans": "adj.宝贵的,贵重的,珍爱的,过于精致的,珍爱的"
+ },
+ {
+  "name": "precise",
+  "trans": "adj.精确的,准确的n.精确"
+ },
+ {
+  "name": "predict",
+  "trans": "v.预知,预言,预报"
+ },
+ {
+  "name": "prefer",
+  "trans": "vt.更喜欢,宁愿"
+ },
+ {
+  "name": "preliminary",
+  "trans": "adj.预备的,初步的"
+ },
+ {
+  "name": "premier",
+  "trans": "adj.第一的,首要的n.总理"
+ },
+ {
+  "name": "preparation",
+  "trans": "n.准备,预备"
+ },
+ {
+  "name": "preposition",
+  "trans": "n.前置词"
+ },
+ {
+  "name": "prescribe",
+  "trans": "v.指示,规定,处(方),开(药)"
+ },
+ {
+  "name": "presence",
+  "trans": "n.出席,到场,存在"
+ },
+ {
+  "name": "present",
+  "trans": "n.赠品,礼物,现在,瞄准adj.现在的,出席的,当面的vt.介绍,引见,给,赠送,上演,提出,呈现vi.举枪瞄准"
+ },
+ {
+  "name": "preserve",
+  "trans": "vt.保护,保持,保存,保藏vi.做蜜饯,禁猎n.蜜饯,果酱,禁猎地,禁区,防护物"
+ },
+ {
+  "name": "president",
+  "trans": "n.总统,会长,校长,行长"
+ },
+ {
+  "name": "press",
+  "trans": "n.压,按,印刷,压力,拥挤,紧握,新闻vt.压,压榨,紧抱,逼迫vi.压,逼迫,拥挤,受压"
+ },
+ {
+  "name": "pressure",
+  "trans": "n.压,压力,电压,压迫,强制,紧迫"
+ },
+ {
+  "name": "pretend",
+  "trans": "vt.假装,装扮,(作为藉口或理由)伪称"
+ },
+ {
+  "name": "prevail",
+  "trans": "vi.流行,盛行,获胜,成功"
+ },
+ {
+  "name": "prevent",
+  "trans": "v.防止,预防"
+ },
+ {
+  "name": "previous",
+  "trans": "adj.在前的,早先的adv.在...以前 返回上一级菜单"
+ },
+ {
+  "name": "price",
+  "trans": "n.价格,价钱,代价vt.给...定价,问...的价格,标明价格"
+ },
+ {
+  "name": "pride",
+  "trans": "n.自豪,自尊(心),骄傲,傲慢vt.使自豪,使自夸"
+ },
+ {
+  "name": "primarily",
+  "trans": "adv.首先,起初,主要地,根本上"
+ },
+ {
+  "name": "primary",
+  "trans": "adj.第一位的,主要的,初步的,初级的,原来的,根源的"
+ },
+ {
+  "name": "primitive",
+  "trans": "adj.原始的,远古的,粗糙的,简单的"
+ },
+ {
+  "name": "prince",
+  "trans": "n.王子"
+ },
+ {
+  "name": "princess",
+  "trans": "n.公主"
+ },
+ {
+  "name": "principal",
+  "trans": "n.负责人,首长,校长,主犯,本金adj.主要的,首要的"
+ },
+ {
+  "name": "principle",
+  "trans": "n.法则,原则,原理"
+ },
+ {
+  "name": "print",
+  "trans": "n.版,印刷物,印迹,印章,印刷业,照片v.印刷,出版,印于,用印刷体写 [计]打印"
+ },
+ {
+  "name": "prison",
+  "trans": "n.监狱"
+ },
+ {
+  "name": "prisoner",
+  "trans": "adj.囚犯的n.战俘"
+ },
+ {
+  "name": "private",
+  "trans": "adj.私人的,私有的,私营的,秘密的n.士兵"
+ },
+ {
+  "name": "privilege",
+  "trans": "n.特权,特别待遇,基本公民权力,特免vt.给与...特权,特免"
+ },
+ {
+  "name": "prize",
+  "trans": "n.奖赏,奖金,奖品,捕获,捕获物,战利品adj.得奖的vt.珍视,估价,捕获,撬,撬开"
+ },
+ {
+  "name": "probable",
+  "trans": "adj.很可能的,大概的"
+ },
+ {
+  "name": "problem",
+  "trans": "n.问题,难题"
+ },
+ {
+  "name": "procedure",
+  "trans": "n.程序,手续"
+ },
+ {
+  "name": "proceed",
+  "trans": "vi.进行,继续下去,发生"
+ },
+ {
+  "name": "process",
+  "trans": "n.过程,作用,方法,程序,步骤,进行,推移vt.加工,处理"
+ },
+ {
+  "name": "produce",
+  "trans": "n.产物,农产品vt.提出,出示,生产,制造,结(果实),引起,招致,创作"
+ },
+ {
+  "name": "product",
+  "trans": "n.产品,产物,乘积"
+ },
+ {
+  "name": "production",
+  "trans": "n.生产,产品,作品,(研究)成果"
+ },
+ {
+  "name": "profession",
+  "trans": "n.职业,专业,表白,宣布"
+ },
+ {
+  "name": "professor",
+  "trans": "n.教授,公开表示信仰的人"
+ },
+ {
+  "name": "profit",
+  "trans": "n.利润,益处,得益vi.得益,利用vt.有益于,有利于"
+ },
+ {
+  "name": "program",
+  "trans": "n.节目,程序,纲要,计划vt.规划,拟...计划,安排...入节目vi.安排节目,编程序 (电脑)程序,(电视)节目"
+ },
+ {
+  "name": "progress",
+  "trans": "n.前进,进步,发展vi.前进,进步,进行"
+ },
+ {
+  "name": "progressive",
+  "trans": "n.改革论者,进步论者adj.前进的,(税收)累进的,进步的"
+ },
+ {
+  "name": "prohibit",
+  "trans": "vt.禁止,阻止"
+ },
+ {
+  "name": "project",
+  "trans": "n.计划,方案,事业,企业,工程v.设计,计划,投射,放映,射出,发射(导弹等),凸出"
+ },
+ {
+  "name": "promise",
+  "trans": "vt.允诺,答应n.允诺,答应,许诺"
+ },
+ {
+  "name": "promote",
+  "trans": "vt.促进,发扬,提升,提拔,晋升为 /n.升级/降级"
+ },
+ {
+  "name": "prompt",
+  "trans": "n.提示,付款期限vt.提示,鼓动,促使,(给演员)提白adj.敏捷的,迅速的,即时的adv.准时地"
+ },
+ {
+  "name": "pronoun",
+  "trans": "n.代名词"
+ },
+ {
+  "name": "pronounce",
+  "trans": "v.发音,宣告,断言"
+ },
+ {
+  "name": "pronunciation",
+  "trans": "n.发音,读法"
+ },
+ {
+  "name": "proof",
+  "trans": "n.证据,试验,考验,[印刷]校样adj.不能透入的,证明用的,防...的,有耐力的vt.检验,校对,使不被穿透"
+ },
+ {
+  "name": "proper",
+  "trans": "adj.适当的,正确的,固有的,特有的,有礼貌的,正当的,严格意义上的,彻底的"
+ },
+ {
+  "name": "property",
+  "trans": "n.财产,所有物,所有权,性质,特性,(小)道具"
+ },
+ {
+  "name": "proportion",
+  "trans": "n.比例,均衡,面积,部分vt.使成比例,使均衡,分摊"
+ },
+ {
+  "name": "proposal",
+  "trans": "n.提议,建议"
+ },
+ {
+  "name": "propose",
+  "trans": "vt.计划,建议,向...提议,求(婚)vi.打算,求婚"
+ },
+ {
+  "name": "prospect",
+  "trans": "n.景色,前景,前途,期望vi.寻找,勘探"
+ },
+ {
+  "name": "prosperity",
+  "trans": "n.繁荣"
+ },
+ {
+  "name": "prosperous",
+  "trans": "adj.繁荣的"
+ },
+ {
+  "name": "protect",
+  "trans": "vt.保护 /n.保护/解除"
+ },
+ {
+  "name": "protein",
+  "trans": "n.[生化]蛋白质adj.蛋白质的"
+ },
+ {
+  "name": "protest",
+  "trans": "n.主张,断言,抗议v.主张,断言抗议,拒付"
+ },
+ {
+  "name": "proud",
+  "trans": "adj.自豪的,得意的,骄傲的,妄自尊大的"
+ },
+ {
+  "name": "prove",
+  "trans": "vt.证明,证实,检验,考验vi.原来(是),证明(是)"
+ },
+ {
+  "name": "provide",
+  "trans": "v.供应,供给,准备,预防,规定"
+ },
+ {
+  "name": "provided",
+  "trans": "conj.倘若"
+ },
+ {
+  "name": "province",
+  "trans": "n.省(一个国家的大行政区)"
+ },
+ {
+  "name": "provision",
+  "trans": "n.供应,(一批)供应品,预备,防备,规定"
+ },
+ {
+  "name": "psychological",
+  "trans": "adj.心理(上)的"
+ },
+ {
+  "name": "publication",
+  "trans": "n.出版物,出版,发行,公布,发表"
+ },
+ {
+  "name": "publish",
+  "trans": "v.出版,刊印vt.公布,发表"
+ },
+ {
+  "name": "pull",
+  "trans": "v.拉,拖,拔n.拉,拖,拉力,牵引力"
+ },
+ {
+  "name": "pulse",
+  "trans": "n.脉搏,脉冲"
+ },
+ {
+  "name": "punctual",
+  "trans": "adj.严守时刻的,准时的"
+ },
+ {
+  "name": "punish",
+  "trans": "vt.惩罚,处罚"
+ },
+ {
+  "name": "pupil",
+  "trans": "n.学生,小学生,瞳孔"
+ },
+ {
+  "name": "purchase",
+  "trans": "vt.买,购买n.买,购买"
+ },
+ {
+  "name": "pure",
+  "trans": "adj.纯的,纯粹的,纯净的,无垢的,纯洁的,完美的,抽象的"
+ },
+ {
+  "name": "purpose",
+  "trans": "n.目的,意图,用途,效果,决心,意志vt.打算,企图,决心"
+ },
+ {
+  "name": "pursue",
+  "trans": "vt.追赶,追踪,追击,继续,从事"
+ },
+ {
+  "name": "push",
+  "trans": "n.推,推动,奋发,干劲,进取心,攻击vt.推,推动,推行,逼迫,增加vi.推,推进,增加,努力争取"
+ },
+ {
+  "name": "put",
+  "trans": "vt.放,摆,安置,表达,迫使,移动,提出,赋予vi.出发,航行,发芽,击n.掷,投击,笨蛋,怪人 vbl.put的过去式和过去分词adj.固定不动的"
+ },
+ {
+  "name": "puzzle",
+  "trans": "n.难题,谜v.(使)迷惑,(使)为难,迷惑不解"
+ },
+ {
+  "name": "qualify",
+  "trans": "v.(使)具有资格,证明合格,限制修饰vt.限制,限定"
+ },
+ {
+  "name": "quality",
+  "trans": "n.质量,品质,性质"
+ },
+ {
+  "name": "quantity",
+  "trans": "n.量,数量"
+ },
+ {
+  "name": "quarrel",
+  "trans": "n.吵架,反目,怨言,争吵的原因vi.吵架,争论,挑剔"
+ },
+ {
+  "name": "quarter",
+  "trans": "n.四分之一,[常 pl.] 方向,地区,方面,季,季度,一刻钟 num.四分之一,刻"
+ },
+ {
+  "name": "queen",
+  "trans": "n.王后,女王"
+ },
+ {
+  "name": "question",
+  "trans": "n.问题,疑问,询问v.询问,审问,怀疑"
+ },
+ {
+  "name": "queue",
+  "trans": "n.行列,长队,队列vi.排队,排队等待"
+ },
+ {
+  "name": "quick",
+  "trans": "adj.快的,迅速的,敏捷的,急剧的,活泼的adv.快n.活人,生物,要点,本质,核心,感觉敏锐的部位"
+ },
+ {
+  "name": "quicken",
+  "trans": "v.加快,鼓舞,刺激,生长,加速"
+ },
+ {
+  "name": "quiet",
+  "trans": "adj.静止的,宁静的,从容的n.安静,闲适vi.平静下来vt.使平静,使安心,减轻(疑虑、恐惧等)"
+ },
+ {
+  "name": "quit",
+  "trans": "vi.离开,辞职,停止vt.离开,放弃,解除,停止"
+ },
+ {
+  "name": "quite",
+  "trans": "adv.相当,完全,十分,彻底"
+ },
+ {
+  "name": "quotation",
+  "trans": "n.引用语,价格,报价单,行情表"
+ },
+ {
+  "name": "quote",
+  "trans": "vt.引用,引证,提供,提出,报(价)"
+ },
+ {
+  "name": "rabbit",
+  "trans": "n.兔,野兔"
+ },
+ {
+  "name": "race",
+  "trans": "n.种族,种族气质,种族特征,赛跑,急流,姜根vi.赛跑,疾走vt.与...赛跑,使空转"
+ },
+ {
+  "name": "racial",
+  "trans": "adj.人种的,种族的,种族间的"
+ },
+ {
+  "name": "rack",
+  "trans": "n.架,行李架,拷问台,小步跑,烧酒,破坏vt.放在架上,在架上制作,折磨,加以拷问,使痛苦,榨取vi.在饲草架装满干草,变形,(云)随风飘,(马)小步跑"
+ },
+ {
+  "name": "radar",
+  "trans": "n.雷达,电波探测器"
+ },
+ {
+  "name": "radio",
+  "trans": "n.<美>无线电通信,无线电接收装置,无线电广播设备v.用无线电发送"
+ },
+ {
+  "name": "rag",
+  "trans": "n.抹布,碎屑,石板瓦,破旧衣服,少量vt.揶揄,戏弄,欺负vi.喧闹"
+ },
+ {
+  "name": "rail",
+  "trans": "n.横杆,围栏,扶手,铁轨vt.以横木围栏,铺铁轨vi.责骂,抱怨"
+ },
+ {
+  "name": "rainbow",
+  "trans": "n.彩虹,五彩缤纷的排列,幻想,幻觉,虚无缥缈的东西adj.五彩缤纷的"
+ },
+ {
+  "name": "rainy",
+  "trans": "adj.下雨的,多雨的"
+ },
+ {
+  "name": "raise",
+  "trans": "n.上升,高地,提出vt.升起,唤起,提高,使出现,解除,饲养,筹集,使复活"
+ },
+ {
+  "name": "range",
+  "trans": "n.山脉,行列,范围,射程vt.排列,归类于,使并列,放牧vi.平行,延伸,漫游"
+ },
+ {
+  "name": "rank",
+  "trans": "n.等级,横列,阶级adj.繁茂的,恶臭的,讨厌的,下流的vt.排列,归类于,把...分等vi.列为,列队n.[数] 秩"
+ },
+ {
+  "name": "rapid",
+  "trans": "adj.迅速的,飞快的,险峻的n.急流,高速交通工具,高速交通网"
+ },
+ {
+  "name": "rare",
+  "trans": "adj.稀罕的,杰出的,珍贵的,(肉类)半熟的adv.非常"
+ },
+ {
+  "name": "rarely",
+  "trans": "adv.很少地,罕有地"
+ },
+ {
+  "name": "rat",
+  "trans": "鼠"
+ },
+ {
+  "name": "rate",
+  "trans": "n.比率,速度,等级,价格,费用vt.估价,认为,鉴定等级,责骂vi.被评价,责骂"
+ },
+ {
+  "name": "rather",
+  "trans": "adv.宁愿,宁可,更正确,更合适,有点,相当"
+ },
+ {
+  "name": "ratio",
+  "trans": "n.比,比率,[财政]复本位制中金银的法定比价"
+ },
+ {
+  "name": "raw",
+  "trans": "n.生肉,擦伤处,身上的痛处adj.未加工的,生疏的,处于自然状态的,,不掺水的,擦掉皮的,阴冷的,刺痛的vt.擦伤"
+ },
+ {
+  "name": "ray",
+  "trans": "n.光线,闪烁,微量vi.射出光线,浮现,放射光线vt.放射,显出"
+ },
+ {
+  "name": "reach",
+  "trans": "n.延伸,区域,河段,范围,(车子前后轴的)联接杆,横风行驶vt.到达,达到,伸出,影响vi.达到,延伸,伸出手,传开"
+ },
+ {
+  "name": "reaction",
+  "trans": "n.反应,反作用,反动(力)"
+ },
+ {
+  "name": "reality",
+  "trans": "n.真实,事实,本体,逼真"
+ },
+ {
+  "name": "realize/se",
+  "trans": "vt.认识到,了解,实现,实行"
+ },
+ {
+  "name": "realm",
+  "trans": "n.领域"
+ },
+ {
+  "name": "rear",
+  "trans": "n.后面,背后,后方,屁股adj.后面的,背面的,后方的vt.培养,饲养,举起,树立,栽种vi.高耸,暴跳,用后腿站起"
+ },
+ {
+  "name": "reason",
+  "trans": "n.理由,原因,动机,理智,前提vt.说服,推论,辩论vi.推论,劝说,思考"
+ },
+ {
+  "name": "reasonable",
+  "trans": "adj.合理的,有道理的,通情达理的,讲道理的"
+ },
+ {
+  "name": "rebel",
+  "trans": "n.造反者,叛逆者,反抗者,叛乱者adj.造反的,叛逆的,反抗的v.造反,反叛,反抗,叛乱"
+ },
+ {
+  "name": "recall",
+  "trans": "vt.回忆,回想,记起,取消n.召回"
+ },
+ {
+  "name": "receive",
+  "trans": "vt.收到,接到,接收,遭到,受到,接待,接见"
+ },
+ {
+  "name": "receiver",
+  "trans": "n.接受者,接收器,收信机"
+ },
+ {
+  "name": "recent",
+  "trans": "adj.新近的,近来的"
+ },
+ {
+  "name": "recently",
+  "trans": "adv.最近"
+ },
+ {
+  "name": "reception",
+  "trans": "n.接待,招待会,接收"
+ },
+ {
+  "name": "recite",
+  "trans": "v.背诵,朗读,叙述,[律]书面陈述(事实)"
+ },
+ {
+  "name": "recognition",
+  "trans": "n.赞誉,承认,重视,公认,赏识 识别"
+ },
+ {
+  "name": "recognize",
+  "trans": "vt.认可,承认,公认,赏识vi.具结"
+ },
+ {
+  "name": "recommend",
+  "trans": "vt.推荐,介绍,劝告,使受欢迎,托付,使...受欢迎,使...可取"
+ },
+ {
+  "name": "recommendation",
+  "trans": "n.推荐,介绍(信),劝告,建议"
+ },
+ {
+  "name": "record",
+  "trans": "n.履历,档案,诉状,最高纪录,报告,唱片vt.记录,标明,将...录音vi.录音,被录音adj.创纪录的"
+ },
+ {
+  "name": "recorder",
+  "trans": "n.记录员,录音[像]机n.[计] 宏录制器,记录器"
+ },
+ {
+  "name": "recover",
+  "trans": "vt.重新获得,恢复,使改过vi.痊愈,复原,胜诉"
+ },
+ {
+  "name": "reduce",
+  "trans": "vt.减少,缩小,简化,还原"
+ },
+ {
+  "name": "reduction",
+  "trans": "n.减少,缩影,变形,缩减量,约简,缩小,降低,缩图,缩版"
+ },
+ {
+  "name": "refer",
+  "trans": "vt.提交,谈及,归诸于,指点把...提交,使求助于vi.提到,涉及,查阅,咨询"
+ },
+ {
+  "name": "reference",
+  "trans": "n.提及,涉及,参考,参考书目,证明书(人),介绍信(人)"
+ },
+ {
+  "name": "refine",
+  "trans": "vt.精炼,精制,使文雅高尚"
+ },
+ {
+  "name": "reflection",
+  "trans": "n.反射,映象,倒影,反省,沉思,反映"
+ },
+ {
+  "name": "reform",
+  "trans": "n.改革,改善,改良运动,感化vt.改革,革新,重新组成vi.革新,改过,重组"
+ },
+ {
+  "name": "refresh",
+  "trans": "v.(使)精神振作,(使)精力恢复,更新"
+ },
+ {
+  "name": "refrigerator",
+  "trans": "n.电冰箱,冷藏库"
+ },
+ {
+  "name": "refusal",
+  "trans": "n.拒绝,推却,优先取舍权,优先取舍的机会"
+ },
+ {
+  "name": "regard",
+  "trans": "n.关心,注意,尊敬,尊重,致意,问候,关系vt.看待,当作,重视,尊敬,关系"
+ },
+ {
+  "name": "regardless",
+  "trans": "adj.不管,不顾,不注意"
+ },
+ {
+  "name": "region",
+  "trans": "n.区域,地方,(世界上某个特定的)地区,(艺术,科学等的)领域,(大气,海水等的)层"
+ },
+ {
+  "name": "register",
+  "trans": "n.记录,登记簿,登记,注册,寄存器vt.记录,登记,注册,提示,把...挂号vi.登记,注册,挂号"
+ },
+ {
+  "name": "regret",
+  "trans": "n.遗憾,悔恨,抱歉,歉意vt.为...感到遗憾,后悔,惋惜,哀悼,懊悔vi.感到抱歉"
+ },
+ {
+  "name": "regular",
+  "trans": "adj.规则的,有秩序的,经常的,(花)整齐的,常备军的,等边的,合格的,定期的n.正规军,正式队员adv.经常地n.正常体"
+ },
+ {
+  "name": "reinforce",
+  "trans": "vt.加强,增援,补充,增加...的数量,修补,加固vi.求援,得到增援n.加固物"
+ },
+ {
+  "name": "reject",
+  "trans": "n.被拒之人,被弃之物,不合格品,落选者,不及格者vt.拒绝,抵制,否决,呕出,驳回,丢弃"
+ },
+ {
+  "name": "relate",
+  "trans": "vt.叙述,讲,使联系,发生关系"
+ },
+ {
+  "name": "relation",
+  "trans": "n.关系,联系,叙述,故事,亲戚"
+ },
+ {
+  "name": "relative",
+  "trans": "n.亲戚,关系词,相关物,亲缘植物adj.有关系的,相对的,比较而言的"
+ },
+ {
+  "name": "relax",
+  "trans": "vi.放松,休息,休养,变从容vt.使松驰,缓和,使松懈,使休息"
+ },
+ {
+  "name": "release",
+  "trans": "n.释放,让渡,豁免,发行的书,释放证书vt.释放,解放,放弃,让与,免除,发表n.版本,发布"
+ },
+ {
+  "name": "relieve",
+  "trans": "vt.减轻,解除,援救,救济,换班"
+ },
+ {
+  "name": "religion",
+  "trans": "n.宗教,信仰"
+ },
+ {
+  "name": "religious",
+  "trans": "adj.信奉宗教的,虔诚的,宗教上的,修道的,严谨的n.僧侣,尼姑,修道士"
+ },
+ {
+  "name": "reluctant",
+  "trans": "adj.不顾的,勉强的,难得到的,难处理的"
+ },
+ {
+  "name": "rely",
+  "trans": "v.依赖,依靠,信赖,信任,依赖于"
+ },
+ {
+  "name": "remain",
+  "trans": "vi.保持,逗留,剩余,残存"
+ },
+ {
+  "name": "remark",
+  "trans": "n.备注,评论,注意,注释vt.评论,注意,谈及vi.谈论"
+ },
+ {
+  "name": "remarkable",
+  "trans": "adj.不平常的,非凡的,值得注意的,显著的"
+ },
+ {
+  "name": "remedy",
+  "trans": "n.药物,治疗法,补救,赔偿vt.治疗,补救,矫正,修缮,修补"
+ },
+ {
+  "name": "remember",
+  "trans": "vt.回忆起,铭记,纪念vi.记得"
+ },
+ {
+  "name": "remind",
+  "trans": "vt.提醒,使想起"
+ },
+ {
+  "name": "remove",
+  "trans": "vt.移动,开除,移交vi.迁移,搬家n.移动,距离,班级,升级"
+ },
+ {
+  "name": "rent",
+  "trans": "v.租,租借,出租n.租金"
+ },
+ {
+  "name": "repair",
+  "trans": "n.修理,修补vt.修理,修补,补救,纠正"
+ },
+ {
+  "name": "repeat",
+  "trans": "n.重复,反复vt.重做,复述,向他人转述,复制,使再现vi.重复,留有味道"
+ },
+ {
+  "name": "repeatedly",
+  "trans": "adv.重复地,再三地"
+ },
+ {
+  "name": "replace",
+  "trans": "vt.取代,替换,代替,把...放回原处"
+ },
+ {
+  "name": "report",
+  "trans": "n.报告,传说,谣言,声誉,名声,爆炸声v.报导,汇报,报到,告发"
+ },
+ {
+  "name": "reporter",
+  "trans": "n.记者,通讯员"
+ },
+ {
+  "name": "represent",
+  "trans": "vt.表现,描绘,声称,象征,扮演,回忆,再赠送,再上演vi.提出异议"
+ },
+ {
+  "name": "republic",
+  "trans": "n.共和国,共和政体adj.共和的"
+ },
+ {
+  "name": "republican",
+  "trans": "adj.共和国的,共和政体的,共和主义的,有关共和的n.共和党人"
+ },
+ {
+  "name": "reputation",
+  "trans": "n.名誉,名声"
+ },
+ {
+  "name": "request",
+  "trans": "vt.请求,要求n.请求,要求,邀请"
+ },
+ {
+  "name": "require",
+  "trans": "vt.需要,要求,命令"
+ },
+ {
+  "name": "rescue",
+  "trans": "vt.援救,营救n.援救,营救"
+ },
+ {
+  "name": "research",
+  "trans": "n.研究,调查vi.研究,调查"
+ },
+ {
+  "name": "resemble",
+  "trans": "vt.象,类似"
+ },
+ {
+  "name": "reservoir",
+  "trans": "n.水库,蓄水池"
+ },
+ {
+  "name": "residence",
+  "trans": "n.居住,住处"
+ },
+ {
+  "name": "resident",
+  "trans": "n.居民adj.居住的,常驻的"
+ },
+ {
+  "name": "resign",
+  "trans": "n.辞去(职务)v.辞去,辞职"
+ },
+ {
+  "name": "resist",
+  "trans": "vt.抵抗,反抗,抗,忍得住"
+ },
+ {
+  "name": "resistance",
+  "trans": "n.反抗,抵抗,抵抗力,阻力,电阻,阻抗"
+ },
+ {
+  "name": "resolve",
+  "trans": "n.决心v.决心,决定,决心要,(使)分解,溶解,解决vt.解决"
+ },
+ {
+  "name": "resource",
+  "trans": "n.[pl.] 资源,财力,办法,智谋"
+ },
+ {
+  "name": "respect",
+  "trans": "n.尊敬,敬重,注意,考虑,尊重,关系,有关,敬意vt.尊敬,尊重,不防碍"
+ },
+ {
+  "name": "respective",
+  "trans": "adj.分别的,各自的"
+ },
+ {
+  "name": "respond",
+  "trans": "v.回答,响应,作出反应vi.有反应"
+ },
+ {
+  "name": "response",
+  "trans": "n.回答,响应,反应"
+ },
+ {
+  "name": "responsibility",
+  "trans": "n.责任,职责"
+ },
+ {
+  "name": "responsible",
+  "trans": "adj.有责任的,可靠的,可依赖的,负责的"
+ },
+ {
+  "name": "rest",
+  "trans": "n.休息,静止,支持物,台,架,[音]休止符,其余,其他vi.休息,睡眠,静止,依靠,搁在,保持(状态),取决于vt.使休息,使静止,睡眠,依靠,搁在"
+ },
+ {
+  "name": "restaurant",
+  "trans": "n.餐馆,饭店"
+ },
+ {
+  "name": "restless",
+  "trans": "adj.得不到休息的,不平静的,不安宁的"
+ },
+ {
+  "name": "restore",
+  "trans": "vt.恢复,使回复,归还,交还,修复,重建"
+ },
+ {
+  "name": "restrict",
+  "trans": "vt.限制,约束,限定"
+ },
+ {
+  "name": "result",
+  "trans": "n.结果,成效,计算结果vi.起因,由于,以...为结果,导致"
+ },
+ {
+  "name": "resume",
+  "trans": "n.摘要,概略,<美> 履历vt.再继续,重新开始,重新占用,再用,恢复"
+ },
+ {
+  "name": "retain",
+  "trans": "vt.保持,保留"
+ },
+ {
+  "name": "retire",
+  "trans": "vi.退休,引退,退却,撤退,就寝"
+ },
+ {
+  "name": "retreat",
+  "trans": "vi.撤退,退却n.撤退,退却"
+ },
+ {
+  "name": "return",
+  "trans": "n.回来,返回,来回票,利润,回答adj.返回的,回程的,报答的,反向的,重现的vi.回返,归还vt.归还,回报,报告,获得,回答,返回"
+ },
+ {
+  "name": "reveal",
+  "trans": "vt.展现,显示,揭示,暴露"
+ },
+ {
+  "name": "review",
+  "trans": "vt.回顾,复习n.回顾,复习,评论"
+ },
+ {
+  "name": "revise",
+  "trans": "vt.修订,校订,修正,修改"
+ },
+ {
+  "name": "revolt",
+  "trans": "v.反抗,起义,反叛,反感,厌恶"
+ },
+ {
+  "name": "revolution",
+  "trans": "n.革命,旋转"
+ },
+ {
+  "name": "revolutionary",
+  "trans": "adj.革命的"
+ },
+ {
+  "name": "reward",
+  "trans": "n.报酬,奖金vt.酬劳,奖赏"
+ },
+ {
+  "name": "rib",
+  "trans": "肋骨"
+ },
+ {
+  "name": "ribbon",
+  "trans": "n.缎带,丝带,带,带状物,带子"
+ },
+ {
+  "name": "rice",
+  "trans": "n.稻,米"
+ },
+ {
+  "name": "rich",
+  "trans": "adj.富的,有钱的,富有的,富饶的,肥沃的,充足的,丰富的"
+ },
+ {
+  "name": "rid",
+  "trans": "vt.使摆脱,使去掉"
+ },
+ {
+  "name": "ride",
+  "trans": "v.骑,乘n.骑,乘"
+ },
+ {
+  "name": "ridge",
+  "trans": "n.背脊,山脊,屋脊,山脉,犁垄v.起皱,成脊状延伸,翻土作垄"
+ },
+ {
+  "name": "ridiculous",
+  "trans": "adj.荒谬的,可笑的"
+ },
+ {
+  "name": "rifle",
+  "trans": "n.来复枪,步枪,来复线,膛线vt.用步枪射击,抢夺vi.掠夺"
+ },
+ {
+  "name": "ring",
+  "trans": "n.环,环形物,环状,铃声,声调,打电话,拳击场vt.包围,套住,按铃,敲钟vi.成环形,响,鸣,敲钟,回响,按铃"
+ },
+ {
+  "name": "ripe",
+  "trans": "adj.熟的,成熟的,时机成熟的v.成熟"
+ },
+ {
+  "name": "rise",
+  "trans": "n.上升,增加,上涨,高地,小山,发生,出现vi.升起,起身,发源,起义,高耸,增长,上升,复活vt.使飞起"
+ },
+ {
+  "name": "risk",
+  "trans": "vt.冒...的危险n.冒险,风险"
+ },
+ {
+  "name": "rival",
+  "trans": "n.竞争者,对手v.竞争,对抗,相匹敌"
+ },
+ {
+  "name": "river",
+  "trans": "n.河,江"
+ },
+ {
+  "name": "road",
+  "trans": "n.路,道路,公路,大道"
+ },
+ {
+  "name": "roar",
+  "trans": "n.吼叫,怒号vi.吼叫,怒号v.滚动,咆哮"
+ },
+ {
+  "name": "roast",
+  "trans": "v.烤,烘,烘烤,暴露于某种热力下以得温暖"
+ },
+ {
+  "name": "rob",
+  "trans": "v.抢夺,抢掠,剥夺"
+ },
+ {
+  "name": "robot",
+  "trans": "n.机器人,遥控设备,自动机械,机械般工作的人"
+ },
+ {
+  "name": "rock",
+  "trans": "n.岩石,暗礁,石头,摇动vt.摇摆,使动摇vi.摇,摇动"
+ },
+ {
+  "name": "rocket",
+  "trans": "n.火箭v.飞速上升"
+ },
+ {
+  "name": "rod",
+  "trans": "n.杆,棒"
+ },
+ {
+  "name": "role",
+  "trans": "n.角色,任务"
+ },
+ {
+  "name": "roll",
+  "trans": "adj.滚动,滚转,(使)摇摆,(使)摇晃,卷起,卷拢vt.辗,轧n.(一)卷,卷形物,摇晃,摆动,名单"
+ },
+ {
+  "name": "roof",
+  "trans": "n.屋顶,房顶,顶"
+ },
+ {
+  "name": "root",
+  "trans": "n.根,根部,根本,根源v.(使)生根,(使)扎根,使立定不动,坚定不移,确立"
+ },
+ {
+  "name": "rope",
+  "trans": "n.绳,索,绳索v.围起"
+ },
+ {
+  "name": "rose",
+  "trans": "n.蔷薇属,玫瑰,玫瑰红;vbl.rise的过去式;Rose 罗斯(女子名);Remote Operations Service Elements,远程操作服务单元"
+ },
+ {
+  "name": "rotten",
+  "trans": "adj.腐烂的,恶臭的,堕落的,(岩石等)风化的,虚弱的,无用的"
+ },
+ {
+  "name": "rough",
+  "trans": "adj.粗糙的,粗略的,大致的,粗野的,粗暴的,粗略叙述的v.大体描述adv.粗糙地"
+ },
+ {
+  "name": "rouse",
+  "trans": "v.唤醒,激起,使振奋,惊起n.觉醒,奋起"
+ },
+ {
+  "name": "route",
+  "trans": "n.路线,路程,通道v.发送"
+ },
+ {
+  "name": "routine",
+  "trans": "n.例行公事,常规,日常事务,程序"
+ },
+ {
+  "name": "row",
+  "trans": "n.排,行v.划(船)"
+ },
+ {
+  "name": "royal",
+  "trans": "adj.王室的,皇家的,第一流的,高贵的"
+ },
+ {
+  "name": "rub",
+  "trans": "v.擦,摩擦 rt. (～ along) 和谐相处,(～ off) 擦掉,擦破,(～ out) 把(记号,笔记,笔迹等)擦掉"
+ },
+ {
+  "name": "rubbish",
+  "trans": "n.垃圾,废物,废话"
+ },
+ {
+  "name": "rude",
+  "trans": "adj.粗鲁的,无礼的,猛烈的,残暴的,粗鲁无礼的"
+ },
+ {
+  "name": "rug",
+  "trans": "n.(小)地毯,垫子"
+ },
+ {
+  "name": "ruin",
+  "trans": "v.(使)破产,(使)堕落,毁灭n.毁灭,崩溃,(pl.) 废墟,遗迹"
+ },
+ {
+  "name": "rule",
+  "trans": "n.规则,惯例,统治,章程,破折号,准则,标准,控制vt.规定,统治,支配,裁决vi.统治,管辖,裁定n.规则,水线"
+ },
+ {
+  "name": "ruler",
+  "trans": "n.统治者,管理者,尺,直尺n.标尺,划线板,划线的人"
+ },
+ {
+  "name": "rumour",
+  "trans": "n.[亦作rumor] 谣言,传闻v.谣传"
+ },
+ {
+  "name": "rural",
+  "trans": "adj.乡下的,田园的,乡村风味的,生活在农村的"
+ },
+ {
+  "name": "rush",
+  "trans": "n.匆促,冲进,急流,灯芯草vi.冲,奔,闯,赶紧,涌现vt.使冲,匆忙地做,突袭,飞跃,用 灯芯草做adj.急需的"
+ },
+ {
+  "name": "rust",
+  "trans": "n.铁锈vt.(使)生锈"
+ },
+ {
+  "name": "sack",
+  "trans": "n.大袋,大袋之量,麻布袋,短而松的袍装,布袋装,洗劫vt.解雇,装入袋,洗劫,就寝"
+ },
+ {
+  "name": "sacrifice",
+  "trans": "n.牺牲,献身,祭品,供奉v.牺牲,献出,献祭,供奉"
+ },
+ {
+  "name": "sad",
+  "trans": "adj.忧愁的,悲哀的"
+ },
+ {
+  "name": "saddle",
+  "trans": "n.鞍,鞍状物v.承受"
+ },
+ {
+  "name": "safe",
+  "trans": "n.保险箱,饭橱,菜橱,冷藏室adj.免受攻击的,安全的,可靠的,有把握的"
+ },
+ {
+  "name": "safety",
+  "trans": "n.安全,保险,安全设备,保险装置"
+ },
+ {
+  "name": "sail",
+  "trans": "v.航行(于)vi.启航,开船n.帆,篷,航行"
+ },
+ {
+  "name": "sailor",
+  "trans": "n.海员,水手,不大会晕船的人,船员"
+ },
+ {
+  "name": "sake",
+  "trans": "n.为了...之好处,出于对...的兴趣,缘故,理由,日本米酒"
+ },
+ {
+  "name": "salad",
+  "trans": "n.色拉"
+ },
+ {
+  "name": "salary",
+  "trans": "n.薪水vt.给...加薪"
+ },
+ {
+  "name": "salesman",
+  "trans": "n.售货员,推销员"
+ },
+ {
+  "name": "salt",
+  "trans": "n.食盐,风趣,刺激adj.含盐的,咸的,风趣的,辛辣的vt.加盐于,用盐腌 SALT [缩写] 限制战略武器会谈"
+ },
+ {
+  "name": "sample",
+  "trans": "n.标本,样品,例子vt.取样,采样,抽取...的样品,试验的一部分,尝试"
+ },
+ {
+  "name": "sand",
+  "trans": "n.沙,沙子,[pl.] 沙滩,沙地v.撒沙子"
+ },
+ {
+  "name": "sandwich",
+  "trans": "n.夹心面包,三明治vt.夹入中间v.做成三明治"
+ },
+ {
+  "name": "satellite",
+  "trans": "n.人造卫星"
+ },
+ {
+  "name": "satisfactory",
+  "trans": "adj.满意的,赎罪的"
+ },
+ {
+  "name": "saucer",
+  "trans": "n.茶托,碟子,茶碟"
+ },
+ {
+  "name": "sausage",
+  "trans": "n.香肠,腊肠"
+ },
+ {
+  "name": "save",
+  "trans": "vt.解救,保存,保全,保留,节省,储蓄vi.挽救,节省,救球 prep.除...之外n.救球 /v.[计]保存/更新"
+ },
+ {
+  "name": "saving",
+  "trans": "n.存款,挽救,救助,节约adj.搭救的,挽救的,节约的,节俭的,保留的,补偿的 prep.除...之外,考虑到"
+ },
+ {
+  "name": "saw",
+  "trans": "n.锯v.锯 vbl.see的过去式"
+ },
+ {
+  "name": "scale",
+  "trans": "n.刻度,衡量,比例,数值范围,比例尺,天平,等级vt.依比例决定,攀登,测量vi.剥落,生水垢,重,攀登,衡量"
+ },
+ {
+  "name": "scar",
+  "trans": "n.伤痕,疤痕v.结疤,使留下伤痕,创伤"
+ },
+ {
+  "name": "scarce",
+  "trans": "adj.缺乏的,不足的,稀有的,不充足的"
+ },
+ {
+  "name": "scarcely",
+  "trans": "adv.几乎不,简直没有"
+ },
+ {
+  "name": "scare",
+  "trans": "v.惊吓,受惊,威吓n.惊恐,恐慌,恐惧"
+ },
+ {
+  "name": "scatter",
+  "trans": "v.分散,散开,撒开,驱散"
+ },
+ {
+  "name": "scene",
+  "trans": "n.现场,场面,情景,景色,发生地点,[戏剧]一场,布景,道具布置"
+ },
+ {
+  "name": "schedule",
+  "trans": "n.时间表,进度表v.确定时间"
+ },
+ {
+  "name": "scheme",
+  "trans": "n.安排,配置,计划,阴谋,方案,图解,摘要v.计划,设计,图谋,策划"
+ },
+ {
+  "name": "scholarship",
+  "trans": "n.奖学金,学问,学识"
+ },
+ {
+  "name": "science",
+  "trans": "n.科学,自然科学,理科"
+ },
+ {
+  "name": "scientific",
+  "trans": "adj.科学的"
+ },
+ {
+  "name": "scientist",
+  "trans": "n.科学家"
+ },
+ {
+  "name": "scissors",
+  "trans": "n.pl.剪刀"
+ },
+ {
+  "name": "scold",
+  "trans": "v.责骂,申斥,斥责"
+ },
+ {
+  "name": "score",
+  "trans": "n.得分,乐谱,抓痕,二十,终点线,刻痕,帐目,起跑线vt.把...记下,刻划,划线,获得,评价vi.记分,刻痕,得分"
+ },
+ {
+  "name": "scout",
+  "trans": "n.侦察,搜索,侦察员,侦察机vi.守候,侦察,巡视,嘲笑vt.侦察,跟踪,觅得,监视,轻蔑地拒绝(建议,意见等)"
+ },
+ {
+  "name": "scrape",
+  "trans": "n.刮,擦,擦痕,刮擦声,困境vi.刮掉,擦掉,刮出刺耳声vt.刮,擦,擦伤,挖成"
+ },
+ {
+  "name": "scratch",
+  "trans": "n.乱写,刮擦声,抓痕,擦伤vt.乱涂,勾抹掉,擦,刮,搔,抓,挖出vi.发刮擦声,搔,抓adj.打草稿用的,凑合的"
+ },
+ {
+  "name": "scream",
+  "trans": "v.尖声叫,尖声喊叫n.尖叫声,喊叫声"
+ },
+ {
+  "name": "screw",
+  "trans": "n.螺丝钉,螺旋,螺杆,螺孔,螺旋桨,吝啬鬼vt.调节,旋,加强,压榨,强迫,鼓舞vi.转动,旋,拧"
+ },
+ {
+  "name": "seal",
+  "trans": "n.封铅,封条,印,图章,密封vt.封,密封n.海豹,海豹毛皮"
+ },
+ {
+  "name": "search",
+  "trans": "n.搜寻,查究v.搜索,搜寻,探求,调查"
+ },
+ {
+  "name": "seat",
+  "trans": "n.座,座位,所在地,场所,席位vt.使坐下"
+ },
+ {
+  "name": "second",
+  "trans": "n.秒,片刻,第二者,第二人,助手,次货,二等品adj.另一个,又一个 num.第二vt.赞成,支持"
+ },
+ {
+  "name": "secondary",
+  "trans": "adj.次要的,二级的,中级的,第二的"
+ },
+ {
+  "name": "secret",
+  "trans": "n.秘密,秘诀,奥秘adj.秘密的,隐秘的,幽静的、"
+ },
+ {
+  "name": "secretary",
+  "trans": "n.秘书,书记,部长,大臣"
+ },
+ {
+  "name": "section",
+  "trans": "n.部分,断片,部件,节,项,区,地域,截面"
+ },
+ {
+  "name": "secure",
+  "trans": "adj.安全的,可靠的,放心的,无虑的v.保护"
+ },
+ {
+  "name": "security",
+  "trans": "n.安全"
+ },
+ {
+  "name": "seed",
+  "trans": "n.种子,萌芽,原由,根据,子孙,精液vt.播种,结实,成熟,去...籽vi.结实,播种"
+ },
+ {
+  "name": "seek",
+  "trans": "v.寻找,探索,寻求"
+ },
+ {
+  "name": "seize",
+  "trans": "v.抓住,逮住,夺取vt.没收,查封"
+ },
+ {
+  "name": "seldom",
+  "trans": "adv.很少,不常"
+ },
+ {
+  "name": "select",
+  "trans": "vt.选择,挑选adj.精选的"
+ },
+ {
+  "name": "selection",
+  "trans": "n.选择,挑选,选集,精选品"
+ },
+ {
+  "name": "self",
+  "trans": "n.自己,自我,本性,本质,本人,私心vt.使近亲繁殖,[植]使自花授精vi.[植]自花授精adj.同一的"
+ },
+ {
+  "name": "selfish",
+  "trans": "adj.自私的"
+ },
+ {
+  "name": "sell",
+  "trans": "v.出售,卖"
+ },
+ {
+  "name": "semester",
+  "trans": "n.学期"
+ },
+ {
+  "name": "send",
+  "trans": "vt.送,寄,发送,派遣,打发"
+ },
+ {
+  "name": "senior",
+  "trans": "adj.年长的,资格较老的,地位较高的,高级的"
+ },
+ {
+  "name": "sense",
+  "trans": "n.官能,感觉,判断力,见识,...感,意义,理性vt.感到,理解,认识"
+ },
+ {
+  "name": "sensible",
+  "trans": "adj.有感觉的,明智的,有判断力的"
+ },
+ {
+  "name": "sensitive",
+  "trans": "adj.敏感的,灵敏的,感光的"
+ },
+ {
+  "name": "sentence",
+  "trans": "n.句子,判决,宣判,文句vt.宜判,判决"
+ },
+ {
+  "name": "separate",
+  "trans": "adj.分开的,分离的,个别的,单独的v.分开,隔离,分散,分别"
+ },
+ {
+  "name": "series",
+  "trans": "n.连续,系列,丛书,级数"
+ },
+ {
+  "name": "serious",
+  "trans": "adj.严肃的,认真的,严重的"
+ },
+ {
+  "name": "servant",
+  "trans": "n.仆人"
+ },
+ {
+  "name": "serve",
+  "trans": "v.当仆人,服务,服役,供职,招待,侍候,供应,适合n.发球"
+ },
+ {
+  "name": "service",
+  "trans": "n.服务,服务性工作,服役,仪式vt.保养,维修adj.(军队)服现役的,服务性的,仆人的,耐用的"
+ },
+ {
+  "name": "set",
+  "trans": "v.放,置,移动到,使(人或事物处于某种状态),提出,树立,规定,调整;n.一套,一副,一批,接受机,装置,趋势,布景;adj.固定的,规定的,坚决的,固执的,事先做好的;Secure Electronics Transations Protocol,安全电子商务协议"
+ },
+ {
+  "name": "settle",
+  "trans": "n.有背的长凳vt.安放,使定居,安排,解决,决定,整理,支付,使平静vi.安家,定居,停留,下陷,沉淀,决定,澄清"
+ },
+ {
+  "name": "several",
+  "trans": "adj.几个,个别的,单独的 pron.几个"
+ },
+ {
+  "name": "severe",
+  "trans": "adj.严厉的,严格的,剧烈的,严重的,严峻的"
+ },
+ {
+  "name": "sew",
+  "trans": "v.缝制,缝纫,缝合"
+ },
+ {
+  "name": "sex",
+  "trans": "n.性别,男性或女性,性欲,<口>性交,<俚>生殖器,阴茎vt.区别...的性别,引起...的性欲"
+ },
+ {
+  "name": "shade",
+  "trans": "n.荫,阴暗,荫凉处,图案阴影,黑暗,颜色深浅,遮光物,帘vi.渐变vt.遮蔽,使阴暗,使渐变,微减"
+ },
+ {
+  "name": "shadow",
+  "trans": "n.阴影,影子,影像,预兆,庇护,隐蔽处,阴暗,少许vt.遮蔽,使朦胧,预示,尾随vi.渐变,变阴暗"
+ },
+ {
+  "name": "shake",
+  "trans": "v.摇动,摇,颤抖,震动n.摇动,摇,颤抖,震动"
+ },
+ {
+  "name": "shallow",
+  "trans": "adj.浅的,浅薄的"
+ },
+ {
+  "name": "shame",
+  "trans": "n.羞耻,羞愧,可耻的人(或事物)"
+ },
+ {
+  "name": "shape",
+  "trans": "n.外形,形状,形态,(尤指女子的)体形,身段,形式vt.制作,定形,使成形,塑造,使符合vi.成形,形成,成长"
+ },
+ {
+  "name": "share",
+  "trans": "n.共享,参与,一份,部分,份额,参股vt.分享,均分,共有,分配vi.分享"
+ },
+ {
+  "name": "sharp",
+  "trans": "n.高调,内行,利刃,骗子adj.锐利的,锋利的,明显的,强烈的,刺耳的,急剧的,精明的,敏捷的adv.整,锐利地,急速地 日本夏普公司"
+ },
+ {
+  "name": "shave",
+  "trans": "v.剃,刮,削刮vt.刨,削n.刮脸"
+ },
+ {
+  "name": "shed",
+  "trans": "vt.流出,发散,散发,脱落,脱皮,摆脱n.分水岭,棚,小屋,工棚,货棚v.把...放入棚内,流下"
+ },
+ {
+  "name": "sheet",
+  "trans": "n.(一)片,(一)张,薄片,被单,被褥"
+ },
+ {
+  "name": "shell",
+  "trans": "n.贝壳,壳,外形,炮弹vt.去壳,脱落,炮轰vi.剥落,脱壳 [计] 设定命令行解释器的位置"
+ },
+ {
+  "name": "shelter",
+  "trans": "n.掩蔽处,身避处,掩蔽,保护,庇护所,掩体v.掩蔽,躲避"
+ },
+ {
+  "name": "shield",
+  "trans": "n.防护物,护罩,盾,盾状物vt.(from) 保护,防护v.遮蔽"
+ },
+ {
+  "name": "shift",
+  "trans": "n.移动,轮班,移位,变化,办法,手段vt.替换,转移,改变,移转,推卸,变速vi.转换,移动,转变,推托,变速"
+ },
+ {
+  "name": "shine",
+  "trans": "v.照耀,发光vt.擦亮n.光泽,光亮"
+ },
+ {
+  "name": "shiver",
+  "trans": "v.颤抖,打碎,碎裂n.(无法控制的)颤抖,碎片"
+ },
+ {
+  "name": "shock",
+  "trans": "n.打击,震动,冲突,休克,突击,禾束堆,乱蓬的头发vt.使震动,使休克,使受电击,震惊得vi.震动,吓人adj.蓬乱的,浓密的"
+ },
+ {
+  "name": "shoot",
+  "trans": "n.射击,发射,摄影,急流vt.射击,投射,伸出,拍摄,用完,挥出,给...注射,使爆炸vi.射出,射击,发出,发芽,射门,拍电影"
+ },
+ {
+  "name": "shore",
+  "trans": "n.岸,海滨,支撑柱vt.支撑,支持"
+ },
+ {
+  "name": "shortage",
+  "trans": "n.不足,缺乏"
+ },
+ {
+  "name": "shortcoming",
+  "trans": "n.缺点,短处"
+ },
+ {
+  "name": "shortly",
+  "trans": "adv.立刻,不久,简略地,简言之,即刻"
+ },
+ {
+  "name": "shot",
+  "trans": "n.开枪,射击,子弹,炮弹"
+ },
+ {
+  "name": "should",
+  "trans": "v.aux.应该,将要"
+ },
+ {
+  "name": "shoulder",
+  "trans": "n.肩,肩部,侧翼vt.肩负,承当"
+ },
+ {
+  "name": "shout",
+  "trans": "v.呼喊,呼叫n.呼喊,呼叫"
+ },
+ {
+  "name": "shower",
+  "trans": "n.阵雨,淋浴,(一)阵,(一)大批vt.大量地给与"
+ },
+ {
+  "name": "shrink",
+  "trans": "v.收缩,(使)皱缩,缩短"
+ },
+ {
+  "name": "shut",
+  "trans": "v.关上,闭上,关闭"
+ },
+ {
+  "name": "shy",
+  "trans": "adj.怕羞的,畏缩的,害羞的"
+ },
+ {
+  "name": "sick",
+  "trans": "n.病人adj.不舒服,有病的,恶心的,厌恶的,渴望的,病态的vt.呕吐,追击,使狗去咬"
+ },
+ {
+  "name": "side",
+  "trans": "n.边,旁边,面,侧面,胁,一方,(一个)方面,摆架子adj.旁边的,侧面的,副的,枝节的vi.站在同一边"
+ },
+ {
+  "name": "sigh",
+  "trans": "n.叹息,叹息声vi.叹息,叹气"
+ },
+ {
+  "name": "sight",
+  "trans": "n.视力,视觉,见,瞥见,视域,眼界"
+ },
+ {
+  "name": "sightseeing",
+  "trans": "n.观光"
+ },
+ {
+  "name": "sign",
+  "trans": "n.标记,符号,记号,征兆,迹象,征候v.签名(于),署名(于)～,签署"
+ },
+ {
+  "name": "signal",
+  "trans": "n.信号adj.信号的v.发信号,用信号通知"
+ },
+ {
+  "name": "signature",
+  "trans": "n.签名,署名,信号"
+ },
+ {
+  "name": "significance",
+  "trans": "n.意义,重要性"
+ },
+ {
+  "name": "silence",
+  "trans": "n.静,寂静,沉默,静默vt.使沉默,使安静v.压制"
+ },
+ {
+  "name": "silent",
+  "trans": "adj.寂静的,沉默的,无声的,无记载的"
+ },
+ {
+  "name": "silk",
+  "trans": "n.丝绸"
+ },
+ {
+  "name": "silly",
+  "trans": "adj.愚蠢的,无聊的,失去知觉的,无助的"
+ },
+ {
+  "name": "silver",
+  "trans": "n.银,银子vt.镀银"
+ },
+ {
+  "name": "similar",
+  "trans": "adj.相似的,类似的"
+ },
+ {
+  "name": "simple",
+  "trans": "adj.简单的,简易的,朴素的,简朴的,天真的,率直的,无经验的,易受骗的"
+ },
+ {
+  "name": "simplicity",
+  "trans": "n.简单,简易,朴素,直率"
+ },
+ {
+  "name": "simply",
+  "trans": "adv.简单地,完全,简直,仅仅,只不过,朴素地,只是"
+ },
+ {
+  "name": "single",
+  "trans": "adj.单一的,单身的,单纯的,孤独的,专一的,个别的n.一个,单打,单精度型vt.选出vi.[棒]作一垒打"
+ },
+ {
+  "name": "sink",
+  "trans": "vi.沉下,(使)下沉n.水槽,水池 接收器"
+ },
+ {
+  "name": "sit",
+  "trans": "v.(使)就座,(使)坐"
+ },
+ {
+  "name": "site",
+  "trans": "n.地点,场所,遗址vt.定...的地点n.站点"
+ },
+ {
+  "name": "situation",
+  "trans": "n.情形,境遇,(建筑物等的)位置"
+ },
+ {
+  "name": "skate",
+  "trans": "n.冰鞋,溜冰,老马,可鄙的人vi.滑冰,滑过"
+ },
+ {
+  "name": "sketch",
+  "trans": "n.略图,草图,概略,梗概,草图,拟定vi.绘略图,素描v.勾画"
+ },
+ {
+  "name": "skill",
+  "trans": "n.技能,,技巧,熟练,巧妙"
+ },
+ {
+  "name": "skilled",
+  "trans": "adj.熟练的"
+ },
+ {
+  "name": "skillful",
+  "trans": "adj.灵巧的,熟练的,制作精巧的"
+ },
+ {
+  "name": "skim",
+  "trans": "v.撇去"
+ },
+ {
+  "name": "skin",
+  "trans": "n.皮,皮肤,兽皮,皮毛,外皮,外壳v.长皮"
+ },
+ {
+  "name": "skirt",
+  "trans": "n.裙子v.环绕"
+ },
+ {
+  "name": "slam",
+  "trans": "v.砰地关上,砰地放下,猛力抨击,冲击n.砰,猛击,撞击,冲击"
+ },
+ {
+  "name": "slave",
+  "trans": "n.奴隶v.辛勤努力"
+ },
+ {
+  "name": "sleep",
+  "trans": "vi.睡,睡觉n.睡眠"
+ },
+ {
+  "name": "sleeve",
+  "trans": "n.袖子"
+ },
+ {
+  "name": "slender",
+  "trans": "adj.苗条的,微薄的,微弱的"
+ },
+ {
+  "name": "slide",
+  "trans": "v.(使)滑动,(使)滑行n.滑,滑动,幻灯片"
+ },
+ {
+  "name": "slight",
+  "trans": "adj.轻微的,微小的"
+ },
+ {
+  "name": "slip",
+  "trans": "n.滑倒,事故,片,纸片;vi.滑动,滑倒,失足,减退;vt.使滑动,滑过,摆脱,闪开,塞入;adj.滑动的,活络的,有活结的;Serial Line Interface Protocol,串行线路接口协议"
+ },
+ {
+  "name": "slippery",
+  "trans": "adj.滑的,光滑的"
+ },
+ {
+  "name": "slogan",
+  "trans": "n.口号,标语"
+ },
+ {
+  "name": "slope",
+  "trans": "n.斜坡,斜面,倾斜v.(使)顺斜"
+ },
+ {
+  "name": "soak",
+  "trans": "v.浸,泡,浸透n.浸透"
+ },
+ {
+  "name": "social",
+  "trans": "adj.社会的,爱交际的,社交的,群居的"
+ },
+ {
+  "name": "socialism",
+  "trans": "n.社会主义,社会主义运动"
+ },
+ {
+  "name": "socialist",
+  "trans": "n.社会主义者,社会党党员"
+ },
+ {
+  "name": "society",
+  "trans": "n.社会,...会,...社,友伴,交际,社交界,上流社会"
+ },
+ {
+  "name": "sock",
+  "trans": "n.短袜,鞋内衬底,轻软鞋,一击,零食vt.给...穿袜,重击,猛投,请...吃零食vi.爱吃零食adj.非常成功的adv.正着地,不偏不倚地"
+ },
+ {
+  "name": "soft",
+  "trans": "adj.软的,柔软的,温和的,温柔的,不含酒精的n.软件"
+ },
+ {
+  "name": "soil",
+  "trans": "n.土壤,土地,国土,国家,温床,粪便,务农vt.弄脏,污辱vi.变脏"
+ },
+ {
+  "name": "soldier",
+  "trans": "n.士兵,军人"
+ },
+ {
+  "name": "sole",
+  "trans": "adj.单独的,唯一的n.脚底,鞋底,基础v.换鞋底"
+ },
+ {
+  "name": "solemn",
+  "trans": "adj.庄严的,隆重的,严肃的"
+ },
+ {
+  "name": "solid",
+  "trans": "n.固体,立体adj.固体的,实心的,坚固的,结实的,立体的,可靠的,一致的,纯粹的"
+ },
+ {
+  "name": "solution",
+  "trans": "n.解答,解决办法,溶解,溶液 解决方案"
+ },
+ {
+  "name": "solve",
+  "trans": "vt.解决,解答"
+ },
+ {
+  "name": "somehow",
+  "trans": "adv.不知何故"
+ },
+ {
+  "name": "sore",
+  "trans": "adj.疼痛的,痛心的,剧烈的n.痛的地方,痛处"
+ },
+ {
+  "name": "sorrow",
+  "trans": "n.悲哀,悲痛"
+ },
+ {
+  "name": "sort",
+  "trans": "n.种类,类别v.分类,拣选"
+ },
+ {
+  "name": "soul",
+  "trans": "n.灵魂,心灵,精神,精力"
+ },
+ {
+  "name": "sound",
+  "trans": "n.声音,语音,噪音,吵闹,海峡,听力范围,探条adj.健全的,可靠的,合理的,有效彻底的,健康的adv.彻底地,充分地vi.发出声音,回响,测深,听起来vt.使发声,宣告,听诊,测...深,试探"
+ },
+ {
+  "name": "soup",
+  "trans": "汤"
+ },
+ {
+  "name": "sour",
+  "trans": "adj.酸的,发酵的,酸腐的,酸味的"
+ },
+ {
+  "name": "source",
+  "trans": "n.来源,水源,消息来源,原始资料,发起者 源,源极"
+ },
+ {
+  "name": "southeast",
+  "trans": "n.东南adj.东南的"
+ },
+ {
+  "name": "southern",
+  "trans": "adj.南的,南方的"
+ },
+ {
+  "name": "southwest",
+  "trans": "n.西南方adj.西南的,向西南方的"
+ },
+ {
+  "name": "sow",
+  "trans": "n.大母猪vt.播种,散布,使密布vi.播种"
+ },
+ {
+  "name": "spade",
+  "trans": "n.铲,铁锹v.铲"
+ },
+ {
+  "name": "spare",
+  "trans": "adj.多余的,剩下的,高而瘦的人的,少量的,贫乏的,备用的v.节约,节省,不伤害,宽恕,分让,提供给某人"
+ },
+ {
+  "name": "spark",
+  "trans": "n.火花,火星,闪光,情郎,花花公子,活力,电信技师,瞬间放电vi.闪烁,发火花,求婚vt.发动,鼓舞,使有朝气,求婚"
+ },
+ {
+  "name": "special",
+  "trans": "n.特派员,专车,专刊adj.特别的,特殊的,专门的,专用的"
+ },
+ {
+  "name": "specialist",
+  "trans": "n.专门医师,专家"
+ },
+ {
+  "name": "specific",
+  "trans": "n.特效药,细节adj.详细而精确的,明确的,特殊的,特效的,[生物]种的"
+ },
+ {
+  "name": "specimen",
+  "trans": "n.范例,标本,样品,样本,待试验物"
+ },
+ {
+  "name": "speech",
+  "trans": "n.演说,讲话 语音"
+ },
+ {
+  "name": "speed",
+  "trans": "n.迅速,速度,速率v.加快,速飞,飞跑"
+ },
+ {
+  "name": "spell",
+  "trans": "n.符咒,魅力,一段时间,轮班vt.拼写,拼成,意味着,轮值,招致,迷住vi.轮替,拼字"
+ },
+ {
+  "name": "spelling",
+  "trans": "n.拼法,拼写法"
+ },
+ {
+  "name": "spend",
+  "trans": "v.花费,消耗,用尽vt.度过,消磨"
+ },
+ {
+  "name": "sphere",
+  "trans": "n.球,球体,范围,领域,方面,圈子,半球"
+ },
+ {
+  "name": "spider",
+  "trans": "n.蜘蛛,设圈套者,三脚架"
+ },
+ {
+  "name": "spill",
+  "trans": "n.溢出,溅出,摔下,木片,小塞子,暴跌,溢出量vt.使溢出,使散落,洒,使流出,使摔下,倒出vi.溢出,涌流,充满"
+ },
+ {
+  "name": "spin",
+  "trans": "v.旋转,纺,纺纱n.旋转"
+ },
+ {
+  "name": "spirit",
+  "trans": "n.精神,灵魂,幽灵,妖精,勇气,火力,热情,情绪vt.诱拐,鼓励,鼓舞"
+ },
+ {
+  "name": "spiritual",
+  "trans": "adj.精神上的"
+ },
+ {
+  "name": "spit",
+  "trans": "n.唾液v.吐(唾沫),吐出,发射,发出,喷吐"
+ },
+ {
+  "name": "spite",
+  "trans": "n.(in ～ of)不顾,不管,敌意v.困扰"
+ },
+ {
+  "name": "splendid",
+  "trans": "adj.壮丽的,辉煌的,极好的"
+ },
+ {
+  "name": "split",
+  "trans": "v.劈开,(使)裂开,分裂,分离n.裂开,裂口,裂痕"
+ },
+ {
+  "name": "spoil",
+  "trans": "vt.损坏,搞糟,宠坏,溺爱v.扰乱"
+ },
+ {
+  "name": "sponsor",
+  "trans": "n.发起人,主办者,保证人,主办人vt.发起,主办v.赞助"
+ },
+ {
+  "name": "spoon",
+  "trans": "n.匙,调羹,勺子"
+ },
+ {
+  "name": "sportsman",
+  "trans": "n.运动家,冒险家"
+ },
+ {
+  "name": "spot",
+  "trans": "n.班点,污点,地点,场所,现场v.沾污,弄脏,侦察vt.认出,发现"
+ },
+ {
+  "name": "spread",
+  "trans": "n.伸展,展开,传播,蔓延,酒席,宴会,桌布v.伸展,展开,铺,涂,敷,摆,传播,散布"
+ },
+ {
+  "name": "spring",
+  "trans": "n.春天,跃起,泉,弹簧,发条,弹性,弹力,根源v.跳,跃,跃出,使跳跃,使爆炸,触发"
+ },
+ {
+  "name": "spur",
+  "trans": "n.踢马剌,剌激物,(鸟,虫等的)距,刺激v.鞭策,刺激,疾驰,驱策"
+ },
+ {
+  "name": "square",
+  "trans": "n.正方形,广场,平方,直角尺adj.正方形的,四方的,直角的,正直的,公平的,结清的,平方的,彻底的adv.成直角地,正直地,公平地,坚定地v.使成方形,弄平,使直,与...一致,符合,自乘,结算"
+ },
+ {
+  "name": "squeeze",
+  "trans": "n.压榨,挤v.压榨,挤,挤榨"
+ },
+ {
+  "name": "stable",
+  "trans": "adj.稳定的"
+ },
+ {
+  "name": "stack",
+  "trans": "n.堆,一堆,堆栈v.堆叠"
+ },
+ {
+  "name": "stadium",
+  "trans": "n.露天大型运动场"
+ },
+ {
+  "name": "staff",
+  "trans": "n.棒,杖,杆,支柱,全体职员,[军]参谋机构,[音]五线谱vt.供给人员,充当职员"
+ },
+ {
+  "name": "stage",
+  "trans": "n.舞台,戏剧,活动场所,发展的进程,阶段或时期,驿站vt.上演,筹备,举行"
+ },
+ {
+  "name": "stain",
+  "trans": "n.污点,瑕疵v.染污,沾污"
+ },
+ {
+  "name": "stair",
+  "trans": "n.(阶梯的某)一级,楼梯"
+ },
+ {
+  "name": "stake",
+  "trans": "n.树桩"
+ },
+ {
+  "name": "stale",
+  "trans": "n.(牲畜等的)尿adj.不新鲜的,陈腐的,疲倦的,陈旧的vt.使变旧,走味vi.变陈旧,变无味,失时效,撒尿"
+ },
+ {
+  "name": "stamp",
+  "trans": "n.邮票,印花,印,图章,标志,印记,跺脚,顿足v.跺(脚),顿(足),压印"
+ },
+ {
+  "name": "stand",
+  "trans": "n.停止,抵抗的状态,立场,立足点,看台,架子,台v.站,立,站起,(使)竖立,(使)位于,维持不变,持久,经受"
+ },
+ {
+  "name": "standard",
+  "trans": "n.旗,军旗,标准,规格,本位adj.标准的,权威,第一流的"
+ },
+ {
+  "name": "stare",
+  "trans": "v.(～ at) 凝视,盯着看"
+ },
+ {
+  "name": "starve",
+  "trans": "vt.使饿死vi.饿得要死"
+ },
+ {
+  "name": "state",
+  "trans": "n.情形,状态,国家,政府,州adj.国家的,国有的,国营的,州的,正式的,典礼用的vt.声明,陈述,规定"
+ },
+ {
+  "name": "statement",
+  "trans": "n.声明,陈述,综述"
+ },
+ {
+  "name": "statesman",
+  "trans": "n.政治家"
+ },
+ {
+  "name": "status",
+  "trans": "n.身份,地位,情形,状况"
+ },
+ {
+  "name": "steady",
+  "trans": "adj.稳固的,稳定的,坚定的,扎实的,坚定不移的v.(使)稳定,(使)稳固"
+ },
+ {
+  "name": "steal",
+  "trans": "v.偷,窃取,偷窃,偷盗"
+ },
+ {
+  "name": "steam",
+  "trans": "n.蒸汽,水汽vi.蒸发vt.蒸"
+ },
+ {
+  "name": "steamer",
+  "trans": "n.汽船,蒸汽机"
+ },
+ {
+  "name": "steer",
+  "trans": "v.驾驶,掌舵"
+ },
+ {
+  "name": "stem",
+  "trans": "n.茎,干,词干,茎干v.滋生,阻止"
+ },
+ {
+  "name": "step",
+  "trans": "n.脚步,步幅,步调,步伐,步骤,措施,梯级,台阶v.走,举步,移步,踏 产品数据转换规范"
+ },
+ {
+  "name": "stick",
+  "trans": "n.棍,棒,手杖v.粘住,粘贴vt.刺,戳"
+ },
+ {
+  "name": "stiff",
+  "trans": "adj.硬的,僵直的,拘谨的,呆板的,艰难的,费劲的,僵硬的"
+ },
+ {
+  "name": "stimulate",
+  "trans": "vt.刺激,激励v.刺激,激励"
+ },
+ {
+  "name": "sting",
+  "trans": "n.刺,刺痛,针刺v.刺,刺痛,刺激"
+ },
+ {
+  "name": "stocking",
+  "trans": "n.长袜"
+ },
+ {
+  "name": "stomach",
+  "trans": "n.胃,胃口,胃部v.容忍"
+ },
+ {
+  "name": "stone",
+  "trans": "n.石,石头,宝石"
+ },
+ {
+  "name": "stoop",
+  "trans": "n.弯腰,屈背,屈服vi.弯下,弯下上身,屈服,弯腰,堕落vt.俯曲,辱没"
+ },
+ {
+  "name": "store",
+  "trans": "vt.贮藏,贮备,存储n.商店,店铺,贮藏,贮备"
+ },
+ {
+  "name": "storey/story",
+  "trans": "n.[建] 层"
+ },
+ {
+  "name": "storm",
+  "trans": "暴风雨"
+ },
+ {
+  "name": "stove",
+  "trans": "n.炉"
+ },
+ {
+  "name": "straight",
+  "trans": "adj.直的,诚实的,正直的,率直的,整齐的adv.直,直接,一直"
+ },
+ {
+  "name": "strange",
+  "trans": "adj.陌生的,生疏的,前所未知的,奇怪的,奇异的,不惯的"
+ },
+ {
+  "name": "stranger",
+  "trans": "n.陌生人,门外汉"
+ },
+ {
+  "name": "strap",
+  "trans": "n.带,皮带vt.用带缚住,用带捆扎"
+ },
+ {
+  "name": "strategy",
+  "trans": "n.策略,军略"
+ },
+ {
+  "name": "straw",
+  "trans": "n.稻草,麦杆"
+ },
+ {
+  "name": "stream",
+  "trans": "n.溪,川,流,一股,一串,河流v.流,涌,流注"
+ },
+ {
+  "name": "street",
+  "trans": "n.街,街道"
+ },
+ {
+  "name": "strength",
+  "trans": "n.力,力量,力气,实力,兵力,浓度"
+ },
+ {
+  "name": "strengthen",
+  "trans": "v.加强,巩固"
+ },
+ {
+  "name": "stress",
+  "trans": "n.重压,逼迫,压力,重点,着重,强调,重音vt.着重,强调,重读"
+ },
+ {
+  "name": "strict",
+  "trans": "adj.(～ with) 严格的,严厉的,严谨的,精确的"
+ },
+ {
+  "name": "strike",
+  "trans": "n.罢工,打击,殴打vt.打,撞击,冲击,罢工,打动,划燃,到达,侵袭vi.打,打击,罢工,抓,敲,搏动,打动,穿透"
+ },
+ {
+  "name": "string",
+  "trans": "n.线,细绳,一串,一行v.排成一列"
+ },
+ {
+  "name": "stroke",
+  "trans": "n.击,敲,报时的钟声,(网球等)一击,(划船等)一划,(绘画等)一笔,一次努力,打击vt.抚摸"
+ },
+ {
+  "name": "structure",
+  "trans": "n.结构,构造,建筑物vt.建筑,构成,组织"
+ },
+ {
+  "name": "struggle",
+  "trans": "n.竞争,努力,奋斗vi.努力,奋斗,挣扎vt.尽力使得,使劲移动"
+ },
+ {
+  "name": "study",
+  "trans": "n.学习,研究,学科,试作,论文,求学,努力,书房vt.学习,攻读,研究,考虑,计划vi.学习,试图"
+ },
+ {
+  "name": "stuff",
+  "trans": "n.原料,材料,素材资料vt.塞满,填满,填充"
+ },
+ {
+  "name": "stun",
+  "trans": "vt.使晕倒,使惊吓,打晕n.晕眩,打昏,惊倒"
+ },
+ {
+  "name": "stupid",
+  "trans": "adj.愚蠢的,麻木的,乏味的"
+ },
+ {
+  "name": "style",
+  "trans": "n.风格,时尚,文体,风度,类型,字体vt.称呼,设计,使合潮流 使铁笔作装饰画"
+ },
+ {
+  "name": "submarine",
+  "trans": "n.潜水艇,潜艇adj.水下的,海底的"
+ },
+ {
+  "name": "submit",
+  "trans": "v.(使)服从,(使)顺从vt.提交,递交"
+ },
+ {
+  "name": "subsequent",
+  "trans": "adj.后来的,并发的"
+ },
+ {
+  "name": "substitute",
+  "trans": "n.代用品,代替者,替代品v.代替,替换,替代"
+ },
+ {
+  "name": "subtract",
+  "trans": "v.(～ from)减去,减"
+ },
+ {
+  "name": "suburb",
+  "trans": "n.市郊,郊区"
+ },
+ {
+  "name": "subway",
+  "trans": "n.地道,<美> 地铁"
+ },
+ {
+  "name": "succeed",
+  "trans": "vi.(～ in) 成功v.继...之后,继任,继承,取得成功"
+ },
+ {
+  "name": "success",
+  "trans": "n.成功,成就,胜利,发迹,兴旺"
+ },
+ {
+  "name": "successful",
+  "trans": "adj.成功的"
+ },
+ {
+  "name": "succession",
+  "trans": "n.连续,继承,继任,演替,[农业] 轮栽,连续性"
+ },
+ {
+  "name": "successive",
+  "trans": "adj.继承的,连续的"
+ },
+ {
+  "name": "such",
+  "trans": "adj.这样的,这种,某一 pron.这样的人(们)或物"
+ },
+ {
+  "name": "sudden",
+  "trans": "adj.突然的,意外的"
+ },
+ {
+  "name": "suffer",
+  "trans": "vt.遭受,经历,忍受vi.受痛苦,受损害"
+ },
+ {
+  "name": "sufficient",
+  "trans": "adj.充分的,足够的"
+ },
+ {
+  "name": "sugar",
+  "trans": "n.糖,食糖"
+ },
+ {
+  "name": "suggest",
+  "trans": "vt.建议,提出,使想起,暗示"
+ },
+ {
+  "name": "suggestion",
+  "trans": "n.提议,意见,暗示,微量"
+ },
+ {
+  "name": "suit",
+  "trans": "v.合适,适合,相配,合式,适宜于n.一套衣服"
+ },
+ {
+  "name": "suitable",
+  "trans": "adj.适当的,相配的"
+ },
+ {
+  "name": "sulphur/sulfur",
+  "trans": "n.硫磺"
+ },
+ {
+  "name": "sum",
+  "trans": "n.总数,和,金额,算术题"
+ },
+ {
+  "name": "summarize",
+  "trans": "v.概述,总结,摘要而言"
+ },
+ {
+  "name": "summary",
+  "trans": "n.摘要,概要"
+ },
+ {
+  "name": "summer",
+  "trans": "n.夏季vi.避暑,过夏天adj.夏季的,在夏季的"
+ },
+ {
+  "name": "sunlight",
+  "trans": "n.日光,阳光,日照"
+ },
+ {
+  "name": "sunrise",
+  "trans": "n.日出"
+ },
+ {
+  "name": "sunset",
+  "trans": "n.日落,晚年"
+ },
+ {
+  "name": "sunshine",
+  "trans": "n.阳光"
+ },
+ {
+  "name": "super",
+  "trans": "n.不重要的角色,冗员vt.用冷纱布贴(书背)vi.充当跑龙套的角色adj.上等的,特大的,特级的,十分的,过分的,极好的adv.非常 /n.上标/下标"
+ },
+ {
+  "name": "superior",
+  "trans": "n.长者,高手,上级adj.较高的,上级的,上好的,出众的,高傲的"
+ },
+ {
+  "name": "supply",
+  "trans": "n.补给,供给,供应品vt.补给,供给,提供,补充,代理vi.替代他人职务"
+ },
+ {
+  "name": "support",
+  "trans": "vt.支撑,扶持,支持,支援,拥护,维持,赡养,忍受n.支撑,支持,支援,维持,赡养,支持者,支柱"
+ },
+ {
+  "name": "suppose",
+  "trans": "vt.推想,假设,猜想vi.料想 conj.假使...结果会怎样"
+ },
+ {
+  "name": "supreme",
+  "trans": "adj.极度的,极大的,至高的,最高的"
+ },
+ {
+  "name": "sure",
+  "trans": "adj.对....有把握,确信某事,稳当的,可靠的adv.的确,当然"
+ },
+ {
+  "name": "surface",
+  "trans": "n.表面,外表,水面adj.表面的,肤浅的"
+ },
+ {
+  "name": "surgery",
+  "trans": "n.外科,外科学,手术室,诊疗室"
+ },
+ {
+  "name": "surprise",
+  "trans": "n.惊奇,诧异,惊人之事,奇袭vt.使惊奇,奇袭adj.令人惊讶的"
+ },
+ {
+  "name": "surrender",
+  "trans": "vt.交出,放弃,使投降,听任vi.投降,自首n.交出,放弃,投降 投降算了"
+ },
+ {
+  "name": "surround",
+  "trans": "vt.包围,环境v.围绕"
+ },
+ {
+  "name": "survey",
+  "trans": "n.测量,调查,俯瞰,概观,纵览,视察vt.调查(收入,民意等) 测量,勘定,审视,视察,俯瞰,通盘考虑vi.测量土地"
+ },
+ {
+  "name": "survive",
+  "trans": "v.幸免于,幸存,生还"
+ },
+ {
+  "name": "suspect",
+  "trans": "n.嫌疑犯adj.令人怀疑的,不可信的,可疑的v.怀疑,猜想,对...有所觉察"
+ },
+ {
+  "name": "suspicion",
+  "trans": "n.猜疑,怀疑"
+ },
+ {
+  "name": "swallow",
+  "trans": "n.[鸟]燕子,吞咽,喉vt.咽,淹没,吞没,取消,忍受,轻信,压制,耗尽vi.吞下,咽下"
+ },
+ {
+  "name": "sway",
+  "trans": "v.摇摆,摇动"
+ },
+ {
+  "name": "swear",
+  "trans": "vi.诅咒v.宣誓,发誓"
+ },
+ {
+  "name": "sweat",
+  "trans": "n.汗v.(使)出汗"
+ },
+ {
+  "name": "sweep",
+  "trans": "v.扫,打扫,清扫,席卷,冲光,扫过,掠过"
+ },
+ {
+  "name": "sweet",
+  "trans": "adj.甜的,可受的,美好的,芳香的n.糖果"
+ },
+ {
+  "name": "swell",
+  "trans": "v.(使)膨胀,增大"
+ },
+ {
+  "name": "swift",
+  "trans": "n.[鸟]雨燕,(梳棉机等的)大滚筒adj.迅速的,快的,敏捷的,立刻的adv.迅速地,敏捷地"
+ },
+ {
+  "name": "swim",
+  "trans": "n.游泳,漂浮,潮流,眼花adj.游泳时穿戴的vi.游泳,游,漂浮,旋转,覆盖,充溢,眩晕,浸vt.游过,使浮起adj.游泳时穿戴的"
+ },
+ {
+  "name": "swing",
+  "trans": "v.摇摆,摆动,回转,旋转n.秋千,摇摆,摆动"
+ },
+ {
+  "name": "switch",
+  "trans": "n.开关,电闸,转换vt.转换,转变"
+ },
+ {
+  "name": "sword",
+  "trans": "n.剑"
+ },
+ {
+  "name": "symbol",
+  "trans": "n.符号,记号,象征"
+ },
+ {
+  "name": "sympathetic",
+  "trans": "adj.有同情心的,合意的,赞成的n.[解]交感神经,容易感受的人"
+ },
+ {
+  "name": "sympathize",
+  "trans": "vi.同情,共鸣,同感,同意,吊唁"
+ },
+ {
+  "name": "sympathy",
+  "trans": "n.同情,同情心"
+ },
+ {
+  "name": "synthetic",
+  "trans": "adj.合成的,人造的,综合的"
+ },
+ {
+  "name": "system",
+  "trans": "n.系统,体系,制度,体制,秩序,规律,方法"
+ },
+ {
+  "name": "tag",
+  "trans": "n.标签,鞋带、绳子等末端的金属物,垂下物,附属物,名称,标记符,陈词滥调,结束语vt.加标签于,紧随,添饰,起浑名,连接vi.紧随"
+ },
+ {
+  "name": "tail",
+  "trans": "n.尾部,尾巴,尾状物,后部,踪迹,排的长队,限定继承权;adj.在后面的,限定继承的,尾部的,后面来的,后部的;vt.为...装尾,附于其后,尾随,跟踪,监视,使架住;vi.成为散乱的行列,跟踪,嵌入,船尾搁浅"
+ },
+ {
+  "name": "tailor",
+  "trans": "缝制，裁缝"
+ },
+ {
+  "name": "tale",
+  "trans": "n.故事,坏话,流言蜚语,谣言,叙述,传说"
+ },
+ {
+  "name": "talent",
+  "trans": "n.天才,才干,才能"
+ },
+ {
+  "name": "tame",
+  "trans": "adj.(指动物)驯服的、柔顺的,(指人)没精打彩的、顺从的,被开垦的,沉闷的,乏味的,平淡的vt.驯养,驯服,制服,使变得平淡vi.变得驯服"
+ },
+ {
+  "name": "tank",
+  "trans": "n.(盛液体,气体的大容器)桶、箱、罐、槽,池塘,坦克,战车,柜,储水池vt.储于槽中,击败vi.大量喝酒"
+ },
+ {
+  "name": "tap",
+  "trans": "n.轻打,活栓,水龙头vt.轻打,轻敲,敲打出,开发,分接,使流出,选择,攻螺纹于vi.轻叩,轻拍,轻声走n.<美>(用复数)熄灯号"
+ },
+ {
+  "name": "tape",
+  "trans": "n.带子,带,录音带,磁带vt.录音"
+ },
+ {
+  "name": "target",
+  "trans": "n.目标,对象,靶子"
+ },
+ {
+  "name": "task",
+  "trans": "n.任务,作业v.分派任务"
+ },
+ {
+  "name": "taste",
+  "trans": "v.品尝,辨味,(of)有 ...味道,领略vt.体验,感到n.味道,味觉"
+ },
+ {
+  "name": "tax",
+  "trans": "n.税,税款,税金vt.对...征税,使负重担,指控,责备"
+ },
+ {
+  "name": "technical",
+  "trans": "adj.技术的,技术上的,技巧方面的"
+ },
+ {
+  "name": "technician",
+  "trans": "n.技术员,技师"
+ },
+ {
+  "name": "technique",
+  "trans": "n.技术,技巧,方法,表演法,手法"
+ },
+ {
+  "name": "tedious",
+  "trans": "adj.单调乏味的,沉闷的,冗长乏味的"
+ },
+ {
+  "name": "teenager",
+  "trans": "n.十几岁的青少年"
+ },
+ {
+  "name": "telegram",
+  "trans": "n.电报"
+ },
+ {
+  "name": "telephone",
+  "trans": "n.电话,电话机v.打电话"
+ },
+ {
+  "name": "telescope",
+  "trans": "n.望远镜v.压缩"
+ },
+ {
+  "name": "temper",
+  "trans": "n.(钢等)韧度,回火,性情,脾气,情绪,心情,调剂,趋向v.(冶金)回火、锻炼,调和,调节"
+ },
+ {
+  "name": "temperature",
+  "trans": "n.温度"
+ },
+ {
+  "name": "temple",
+  "trans": "n.庙,寺,神殿,教堂,礼拜堂,太阳穴,鬓角"
+ },
+ {
+  "name": "temporary",
+  "trans": "adj.暂时的,临时的,临时性"
+ },
+ {
+  "name": "tempt",
+  "trans": "vt.诱惑,引诱,吸引,使感兴趣,考验,试探"
+ },
+ {
+  "name": "temptation",
+  "trans": "n.诱惑,诱惑物"
+ },
+ {
+  "name": "tend",
+  "trans": "vi.趋向,往往是vt.照管,护理"
+ },
+ {
+  "name": "tendency",
+  "trans": "n.趋向,倾向"
+ },
+ {
+  "name": "tender",
+  "trans": "adj.嫩的,温柔的,软弱的"
+ },
+ {
+  "name": "tennis",
+  "trans": "n.网球运动adj.网球的,用于网球运动的vi.打网球"
+ },
+ {
+  "name": "tense",
+  "trans": "adj.紧张的,拉紧的v.(使)紧张,(使)拉紧n.[语法]时态"
+ },
+ {
+  "name": "tension",
+  "trans": "n.紧张(状态),不安,拉紧,压力,张力,牵力,电压vt.拉紧,使紧张"
+ },
+ {
+  "name": "tent",
+  "trans": "n.帐篷"
+ },
+ {
+  "name": "term",
+  "trans": "n.学期,期限,期间,条款,条件,术语"
+ },
+ {
+  "name": "territory",
+  "trans": "n.领土,版图,地域"
+ },
+ {
+  "name": "terror",
+  "trans": "n.恐怖,可怕的人,恐怖时期,恐怖行动"
+ },
+ {
+  "name": "textbook",
+  "trans": "n.教科书,课本adj.合乎规范的"
+ },
+ {
+  "name": "textile",
+  "trans": "n.纺织品adj.纺织的"
+ },
+ {
+  "name": "therefore",
+  "trans": "adv.因此,所以"
+ },
+ {
+  "name": "thermometer",
+  "trans": "n.温度计,体温计"
+ },
+ {
+  "name": "thick",
+  "trans": "adj.厚的,粗的,稠的,浓的n.最拥挤部份,活动最多部份,事物的粗大浓密部份"
+ },
+ {
+  "name": "thirsty",
+  "trans": "adj.口渴的,渴望的,热望的"
+ },
+ {
+  "name": "though",
+  "trans": "adv.虽然,可是 conj.虽然,尽管"
+ },
+ {
+  "name": "thought",
+  "trans": "n.思考,想法,思想,思潮,关心,关怀,挂念 vbl.think的过去式和过去分词"
+ },
+ {
+  "name": "thoughtful",
+  "trans": "adj.深思的,有思想性的,体贴的,关切的"
+ },
+ {
+  "name": "thread",
+  "trans": "n.线,细丝,线索,思路,螺纹"
+ },
+ {
+  "name": "threat",
+  "trans": "n.恐吓,凶兆,威胁"
+ },
+ {
+  "name": "threaten",
+  "trans": "vt.恐吓,威胁,预示(危险),似有发生或来临的可能,可能来临"
+ },
+ {
+  "name": "thrive",
+  "trans": "v.兴旺,繁荣,茁壮成长,旺盛"
+ },
+ {
+  "name": "throat",
+  "trans": "n.咽喉,喉咙,嗓音,窄路,口子vt.用喉音说,开沟于"
+ },
+ {
+  "name": "throughout",
+  "trans": "prep.遍及,贯穿adv.到处,始终,全部"
+ },
+ {
+  "name": "throw",
+  "trans": "n.投,掷v.扔,抛,(指马)把骑者摔在地上,使苦恼,惊忧,投掷"
+ },
+ {
+  "name": "thumb",
+  "trans": "n.拇指vt.以拇指拨弄,笨拙处理,弄坏,翻阅,作搭车手势vi.用拇指翻书页"
+ },
+ {
+  "name": "thunder",
+  "trans": "n.雷,雷声,轰隆声vi.打雷,雷鸣"
+ },
+ {
+  "name": "thus",
+  "trans": "adv.因而,从而,这样,如此"
+ },
+ {
+  "name": "ticket",
+  "trans": "n.票,入场券"
+ },
+ {
+  "name": "tide",
+  "trans": "n.潮,潮汐,潮流,趋势"
+ },
+ {
+  "name": "tidy",
+  "trans": "n.椅子的背罩,装杂碎的容器adj.整齐的,整洁的,精简的vt.弄整齐,收拾,整理vi.整理,收拾adj.<口>可观的、相当大的"
+ },
+ {
+  "name": "tie",
+  "trans": "n.带子,线,鞋带,不分胜负,关系,领带,领结,平局vt.系,打结,扎,约束,与...成平局vi.被用带(或绳子等)系住,结合,打结,不分胜负"
+ },
+ {
+  "name": "tight",
+  "trans": "adj.紧的,绷紧的,紧密的,不漏水(不透气)的,由压迫产生的,困难的,吝啬的,严厉的adv.紧紧地"
+ },
+ {
+  "name": "tin",
+  "trans": "n.[化]锡,马口铁,罐vt.涂锡于adj.锡制的"
+ },
+ {
+  "name": "tiny",
+  "trans": "adj.很少的,微小的"
+ },
+ {
+  "name": "tip",
+  "trans": "n.顶,尖端,梢,倾斜,轻击,末端,小费,秘密消息vt.在...顶端装附加物,使倾斜,使翻倒,暗示,轻击,给,泄露,给小费vi.倾斜,翻倒,倾覆,踮脚走,给小费n.提示,技巧"
+ },
+ {
+  "name": "tired",
+  "trans": "adj.疲劳的,累的,疲倦的"
+ },
+ {
+  "name": "tissue",
+  "trans": "n.薄的纱织品,薄纸,棉纸,[生]组织,连篇"
+ },
+ {
+  "name": "title",
+  "trans": "n.头衔,名称,标题,冠军,资格,字幕,权利,扉页vt.赋予头衔,加标题于adj.标题的,用作书名的"
+ },
+ {
+  "name": "toast",
+  "trans": "n.烤面包(片),吐司面包,干杯vt.敬酒,烤(面包等),使暖和vi.烤暖,烤火,烘"
+ },
+ {
+  "name": "tobacco",
+  "trans": "n.烟草,烟草制品,抽烟"
+ },
+ {
+  "name": "toe",
+  "trans": "n.趾,脚趾,足尖vt.以趾踏触,用脚尖走vi.动脚尖 [军] Tables of Organization and Equipment,编制及装备表"
+ },
+ {
+  "name": "together",
+  "trans": "adv.共同,一起,合起来,集拢地"
+ },
+ {
+  "name": "toilet",
+  "trans": "n.盥洗室,梳洗"
+ },
+ {
+  "name": "ton",
+  "trans": "n.吨,[pl.] 大量,许多"
+ },
+ {
+  "name": "tone",
+  "trans": "n.音调,音质,语调,色调,状况,品质,语气,气氛vt.调和,增强,以特殊腔调说,配合,定音调vi.颜色调和"
+ },
+ {
+  "name": "tongue",
+  "trans": "n.舌头,舌状物,语言,说话方式,口语vt.舔,闲谈,斥责vi.吹管乐器"
+ },
+ {
+  "name": "tonight",
+  "trans": "adv.今晚,今夜n.今晚"
+ },
+ {
+  "name": "tool",
+  "trans": "n.工具,用具,爪牙,走狗,手段vt.用工具加工,使用设备vi.使用工具"
+ },
+ {
+  "name": "tooth",
+  "trans": "n.牙齿"
+ },
+ {
+  "name": "topic",
+  "trans": "n.话题,主题"
+ },
+ {
+  "name": "torch",
+  "trans": "n.火把,启发之物vi.像火炬一样燃烧vt.用火炬点燃"
+ },
+ {
+  "name": "tortoise",
+  "trans": "n.龟,迟缓的人"
+ },
+ {
+  "name": "torture",
+  "trans": "n.折磨,痛苦,拷问,拷打vt.拷问,曲解,折磨,使弯曲"
+ },
+ {
+  "name": "total",
+  "trans": "n.总数,合计adj.总的,全部的,整个的v.合计,总数达,达到"
+ },
+ {
+  "name": "tough",
+  "trans": "n.恶棍adj.强硬的,艰苦的,坚强的,坚韧的,强壮的,吃苦耐劳的,凶恶的,粗暴的adv.<口>强硬地,顽强地vt.<美口>忍受,耐,坚持"
+ },
+ {
+  "name": "tour",
+  "trans": "n.旅行,游历,旅游v.旅行,游历,巡回,漫游"
+ },
+ {
+  "name": "tourist",
+  "trans": "n.旅行者,旅游者"
+ },
+ {
+  "name": "toward",
+  "trans": "prep.向,对于,为了adj.有希望的,有利的,逼近的,温顺的"
+ },
+ {
+  "name": "towel",
+  "trans": "n.手巾,毛巾v.用毛巾擦"
+ },
+ {
+  "name": "tower",
+  "trans": "n.塔,城堡"
+ },
+ {
+  "name": "toy",
+  "trans": "玩具"
+ },
+ {
+  "name": "trace",
+  "trans": "n.痕迹,踪迹,微量,迹线,缰绳vt.描绘,映描,画轮廓,追踪,回溯,探索vi.上溯,沿路走"
+ },
+ {
+  "name": "tractor",
+  "trans": "n.拖拉机"
+ },
+ {
+  "name": "trade",
+  "trans": "n.贸易,商业,交易,生意,职业,行业,[气]信风,顾客vi.交易,买卖,经商,对换,购物vt.用...进行交换"
+ },
+ {
+  "name": "tradition",
+  "trans": "n.传统,惯例"
+ },
+ {
+  "name": "traffic",
+  "trans": "n.交通,通行,运输,贸易,交通量,交易,交往,通信量vi.交易,买卖vt.在...通行,用...作交换"
+ },
+ {
+  "name": "tragedy",
+  "trans": "n.悲剧,惨案,悲惨,灾难"
+ },
+ {
+  "name": "train",
+  "trans": "n.火车,列车,行列,后果,顺序,长队,长袍(裙)拖地的部分,导火线vt.训练,培养,瞄准,(园艺)整枝vi.锻炼"
+ },
+ {
+  "name": "training",
+  "trans": "n.训练,练习adj.训练的"
+ },
+ {
+  "name": "transform",
+  "trans": "vt.转换,改变,改造,使...变形vi.改变,转化,变换n.[数]变换(式),[语]转换"
+ },
+ {
+  "name": "transistor",
+  "trans": "n.[电子]晶体管"
+ },
+ {
+  "name": "transparent",
+  "trans": "adj.透明的,显然的,明晰的"
+ },
+ {
+  "name": "transport",
+  "trans": "n.传送器,运输,运输机,激动,流放犯,狂喜vt.传送,运输,流放,放逐"
+ },
+ {
+  "name": "trap",
+  "trans": "n.圈套,陷阱,诡计,活板门,存水弯,汽水闸,(双轮)轻便马车vi.设圈套,设陷阱vt.诱捕,诱骗,计捉,设陷,坑害,使受限制"
+ },
+ {
+  "name": "travel",
+  "trans": "v.旅行,传播vi.行进,传播n.旅行"
+ },
+ {
+  "name": "tray",
+  "trans": "n.盘,碟,盘子"
+ },
+ {
+  "name": "treasure",
+  "trans": "n.财宝,财富,珍品,财产vt.珍爱,珍惜,储藏,珍藏"
+ },
+ {
+  "name": "treat",
+  "trans": "n.宴请,款待,请客vt.视为,对待,论述,治疗,款待vi.交涉,谈判,协商,款待,作东"
+ },
+ {
+  "name": "treatment",
+  "trans": "n.待遇,对待,处理,治疗"
+ },
+ {
+  "name": "tremble",
+  "trans": "n.战栗,颤抖vi.战栗,发抖,震动,(树叶等)摇晃.摇动,焦虑vt.挥动,用颤抖的声音说出"
+ },
+ {
+  "name": "tremendous",
+  "trans": "adj.极大的,巨大的"
+ },
+ {
+  "name": "trend",
+  "trans": "n.倾向,趋势vi.伸向,倾向,通向"
+ },
+ {
+  "name": "trial",
+  "trans": "n.试验,考验,审讯,审判"
+ },
+ {
+  "name": "triangle",
+  "trans": "n.[数]三角形,三人一组,三角关系"
+ },
+ {
+  "name": "trick",
+  "trans": "n.诡计,骗局,恶作剧,窍门,诀窍vt.欺骗,哄骗"
+ },
+ {
+  "name": "trim",
+  "trans": "adj.整齐的,整洁的vt.整理,修整,装饰"
+ },
+ {
+  "name": "trip",
+  "trans": "n.(短途)旅行,绊倒,摔倒,失足,往返,差错,支吾,旅程vt.使跌倒,使犯错,使失败,挑剔vi.轻快地走,摔倒,绊倒,失足,结巴,远足,犯错,旅行"
+ },
+ {
+  "name": "triumph",
+  "trans": "n.胜利,成功v.获得胜利"
+ },
+ {
+  "name": "troop",
+  "trans": "n.群,组,多数,军队vi.群集,结队,成群而行vt.把(骑兵)编成骑兵连"
+ },
+ {
+  "name": "trouble",
+  "trans": "n.烦恼,麻烦,动乱,纠纷,疾病,故障,问题vt.(使)烦恼,麻烦,打扰,麻烦自己,费神,费心"
+ },
+ {
+  "name": "trousers",
+  "trans": "n.pl.裤子,长裤"
+ },
+ {
+  "name": "truck",
+  "trans": "n.卡车,敞棚货车,(车站)搬行李用的手推车,交易,交换,废话,废物,实物工资vt.交易,交往,以卡车运输vi.驾驶卡车,以物易物adj.<主美>运货汽车的"
+ },
+ {
+  "name": "trunk",
+  "trans": "n.干线,树干,躯干,箱子,主干,象鼻vt.把...放入旅行箱内adj.树干的,躯干的,干线的,箱形的"
+ },
+ {
+  "name": "trust",
+  "trans": "vt.信任,信赖,盼望,希望,赊卖,热望,切望n.(～ in) 信任,信赖"
+ },
+ {
+  "name": "truth",
+  "trans": "n.事实,确实,真理,原理"
+ },
+ {
+  "name": "tube",
+  "trans": "n.管,管子,[英] 地铁,<美> 电子管,显象管"
+ },
+ {
+  "name": "tuck",
+  "trans": "n.缝摺,活力,鼓声,船尾突出部下方,食物(尤指点心、蛋糕)vt.打摺,卷起,挤进,塞,使隐藏vi.折成摺子,缩拢"
+ },
+ {
+  "name": "tune",
+  "trans": "n.曲调,调子,和谐,合调vt.调音,调整,拨收,收听,知道或察觉他人所说的话或表现的情绪"
+ },
+ {
+  "name": "tunnel",
+  "trans": "n.隧道,地道"
+ },
+ {
+  "name": "turn",
+  "trans": "n.转动,旋转,转变方向,轮流,时机,(一)回,倾向,癖性v.(使)转动,翻转,扭转,(使)变质,超过(年龄,数量等),车(成)"
+ },
+ {
+  "name": "turnip",
+  "trans": "n.[植]芜箐,芜箐甘蓝"
+ },
+ {
+  "name": "twelfth",
+  "trans": "num.第十二"
+ },
+ {
+  "name": "twice",
+  "trans": "adv.两次,两倍"
+ },
+ {
+  "name": "twin",
+  "trans": "n.双胞胎中一人,孪生子adj.双胞胎的,一对的,相似的vi.生双胞胎,成对vt.孪生,使成对"
+ },
+ {
+  "name": "twist",
+  "trans": "n.一扭,扭曲,盘旋,曲折,歪曲,手法,螺旋状vt.拧,扭曲,绞,搓,捻,使苦恼,使转动,编织vi.扭弯,扭曲,缠绕,扭动,呈螺旋形"
+ },
+ {
+  "name": "typewriter",
+  "trans": "n.打字机"
+ },
+ {
+  "name": "typical",
+  "trans": "adj.典型的,象征性的"
+ },
+ {
+  "name": "typist",
+  "trans": "n.打字员"
+ },
+ {
+  "name": "tyre/tire",
+  "trans": "n.轮胎vt.装轮胎于"
+ },
+ {
+  "name": "ugly",
+  "trans": "adj.丑陋的,难看的"
+ },
+ {
+  "name": "ultimate",
+  "trans": "adj.最后的,最终的,根本的n.最终"
+ },
+ {
+  "name": "umbrella",
+  "trans": "n.伞,雨伞,庇护"
+ },
+ {
+  "name": "unable",
+  "trans": "adj.不能的,不会的"
+ },
+ {
+  "name": "uncertain",
+  "trans": "adj.无常的,不确定的,不可预测的,靠不住的"
+ },
+ {
+  "name": "undergo",
+  "trans": "vt.经历,遭受,忍受"
+ },
+ {
+  "name": "underground",
+  "trans": "adj.地下的,地面下的,秘密的n.[英] 地铁adv.在地下,秘密地"
+ },
+ {
+  "name": "underline",
+  "trans": "vt.在...下面划线,作...的衬里,加下划线,强调n.下划线"
+ },
+ {
+  "name": "underneath",
+  "trans": "adv.在下面 prep.在...的下面"
+ },
+ {
+  "name": "understand",
+  "trans": "v.懂,了解,听说,推定,以为,省略"
+ },
+ {
+  "name": "understanding",
+  "trans": "n.谅解,理解"
+ },
+ {
+  "name": "undertake",
+  "trans": "vt.承担,担任,许诺,保证v.采取"
+ },
+ {
+  "name": "undo",
+  "trans": "vt.解开,松开v.取消 撤消"
+ },
+ {
+  "name": "undoubtedly",
+  "trans": "adv.无庸置疑地,的确地"
+ },
+ {
+  "name": "uneasy",
+  "trans": "adj.心神不安的,不自在的,不稳定的,不舒服的adv.心神不安地,不自在地,不稳定地"
+ },
+ {
+  "name": "unexpected",
+  "trans": "adj.想不到的,意外的,未预料到"
+ },
+ {
+  "name": "unfair",
+  "trans": "adj.不公平的"
+ },
+ {
+  "name": "unfortunate",
+  "trans": "adj.不幸的,不合宜的,不吉利的,使人遗憾的n.不幸的人"
+ },
+ {
+  "name": "uniform",
+  "trans": "adj.统一的,相同的,一致的,始终如一的,均衡的n.制服vt.使成一样,使穿制服"
+ },
+ {
+  "name": "union",
+  "trans": "n.联合,合并,结合,联盟,协会"
+ },
+ {
+  "name": "unit",
+  "trans": "n.个体,(计量)单位,(军队的)部队单位,[数学]最小的整数"
+ },
+ {
+  "name": "unite",
+  "trans": "v.联合,团结"
+ },
+ {
+  "name": "universe",
+  "trans": "n.宇宙,世界,万物,领域"
+ },
+ {
+  "name": "university",
+  "trans": "n.(综合)大学"
+ },
+ {
+  "name": "unknown",
+  "trans": "adj.不知道的,未知的n.不知名的"
+ },
+ {
+  "name": "unless",
+  "trans": "conj.如果不,除非"
+ },
+ {
+  "name": "unlike",
+  "trans": "adj.不同的,不相似的 prep.不象...,和...不同"
+ },
+ {
+  "name": "unload",
+  "trans": "vi.卸货,退子弹vt.摆脱...之负担,倾销,卸"
+ },
+ {
+  "name": "unusual",
+  "trans": "adj.不平常的,与众不同的,不寻常的"
+ },
+ {
+  "name": "up-to-date",
+  "trans": "时新的，新式的"
+ },
+ {
+  "name": "upon",
+  "trans": "prep.在...之上"
+ },
+ {
+  "name": "upper",
+  "trans": "adj.上面的,上部的"
+ },
+ {
+  "name": "upright",
+  "trans": "adj.垂直的,竖式的,正直的,诚实的,合乎正道的adv.笔直,竖立着n.垂直,竖立"
+ },
+ {
+  "name": "upset",
+  "trans": "vt.颠覆,推翻,扰乱,使不适,使心烦vi.翻倒,倾覆n.翻倒,混乱"
+ },
+ {
+  "name": "upstairs",
+  "trans": "adv.向楼上,在楼上,上楼adj.楼上的"
+ },
+ {
+  "name": "upward",
+  "trans": "adj.向上的,(声调)声高的adv.以上"
+ },
+ {
+  "name": "urban",
+  "trans": "adj.城市的,市内的"
+ },
+ {
+  "name": "urge",
+  "trans": "vt.催促,力劝n.强烈欲望,迫切要求v.促进"
+ },
+ {
+  "name": "urgent",
+  "trans": "adj.急迫的,紧急的"
+ },
+ {
+  "name": "used",
+  "trans": "adj.习惯的,旧的,用旧了的"
+ },
+ {
+  "name": "useful",
+  "trans": "adj.有用的,有益的,有帮手的"
+ },
+ {
+  "name": "useless",
+  "trans": "adj.无用的,无效的,无益的,无价值的"
+ },
+ {
+  "name": "usual",
+  "trans": "adj.平常的,通常的,惯例的"
+ },
+ {
+  "name": "usually",
+  "trans": "adv.通常,大抵"
+ },
+ {
+  "name": "utilize",
+  "trans": "vt.利用"
+ },
+ {
+  "name": "utmost",
+  "trans": "n.极限,最大可能,极力adj.极度的,最远的"
+ },
+ {
+  "name": "vacant",
+  "trans": "adj.空的,空白的,空灵的,头脑空虚的,神情茫然的,空闲的,空缺的"
+ },
+ {
+  "name": "vacation",
+  "trans": "n.假期,休假,(房屋等的)腾出v.<美>度假,休假"
+ },
+ {
+  "name": "vague",
+  "trans": "adj.含糊的,不清楚的,茫然的,暧昧的"
+ },
+ {
+  "name": "vain",
+  "trans": "adj.徒然的,无益的,虚荣的,空虚的,自负的,愚蠢的"
+ },
+ {
+  "name": "valley",
+  "trans": "n.(山)谷,流域"
+ },
+ {
+  "name": "valuable",
+  "trans": "adj.贵重的,有价值的,颇有价值的"
+ },
+ {
+  "name": "value",
+  "trans": "n.价值,估价,评价,价格,[数]值,确切涵义vt.估价,评价,重视"
+ },
+ {
+  "name": "vanish",
+  "trans": "vi.消失,突然不见,[数]成为零n.[语]弱化音"
+ },
+ {
+  "name": "vanity",
+  "trans": "n.空虚"
+ },
+ {
+  "name": "vapor",
+  "trans": "n.水汽,水蒸气,无实质之物vi.蒸发,自夸vt.使蒸发n.自夸者"
+ },
+ {
+  "name": "variety",
+  "trans": "n.变化,多样性,种种,品种,种类"
+ },
+ {
+  "name": "various",
+  "trans": "adj.不同的,各种各样的,多方面的,多样的"
+ },
+ {
+  "name": "vary",
+  "trans": "vt.改变,变更,使多样化vi.变化,不同,违反"
+ },
+ {
+  "name": "vast",
+  "trans": "adj.巨大的,辽阔的,大量的,巨额的"
+ },
+ {
+  "name": "vegetable",
+  "trans": "n.蔬菜,植物,生活呆板单调的人adj.蔬菜的,植物的"
+ },
+ {
+  "name": "vehicle",
+  "trans": "n.交通工具,车辆,媒介物,传达手段"
+ },
+ {
+  "name": "venture",
+  "trans": "n.冒险,投机,风险v.冒险,冒昧,斗胆,胆敢(谦语)"
+ },
+ {
+  "name": "verb",
+  "trans": "n.[语]动词"
+ },
+ {
+  "name": "vessel",
+  "trans": "n.船,容器,器皿,脉管,导管"
+ },
+ {
+  "name": "veteran",
+  "trans": "n.老兵,老手,富有经验的人,退伍军人adj.老兵的,经验丰富的"
+ },
+ {
+  "name": "vice",
+  "trans": "n.恶习,恶行,坏脾气,罪恶,堕落,老虎钳,缺点,缺陷vt.钳住 prep.代替"
+ },
+ {
+  "name": "victim",
+  "trans": "n.受害人,牺牲者,牺牲品"
+ },
+ {
+  "name": "victorious",
+  "trans": "adj.获胜的,胜利的"
+ },
+ {
+  "name": "victory",
+  "trans": "n.胜利,战胜,克服,[罗神]胜利女神"
+ },
+ {
+  "name": "view",
+  "trans": "n.景色,风景,观点,见解,观察,观看,意见,认为vt.观察,观看"
+ },
+ {
+  "name": "viewpoint",
+  "trans": "n.观点"
+ },
+ {
+  "name": "vinegar",
+  "trans": "n.醋"
+ },
+ {
+  "name": "violence",
+  "trans": "n.猛烈,强烈,暴力,暴虐,暴行,强暴"
+ },
+ {
+  "name": "violent",
+  "trans": "adj.猛烈的,激烈的,暴力引起的,强暴的"
+ },
+ {
+  "name": "violet",
+  "trans": "n.紫罗兰adj.紫罗兰色的 Violet 维奥莱特(女子名)"
+ },
+ {
+  "name": "violin",
+  "trans": "n.小提琴,小提琴手"
+ },
+ {
+  "name": "virtually",
+  "trans": "adv.事实上,实质上"
+ },
+ {
+  "name": "vision",
+  "trans": "n.视力,视觉,先见之明,眼力,想象力,幻想,幻影,景象vt.梦见,想象,显示"
+ },
+ {
+  "name": "visitor",
+  "trans": "n.访问者,来宾,游客"
+ },
+ {
+  "name": "vital",
+  "trans": "adj.生死攸关的,重大的,生命的,生机的,至关重要的,所必需的"
+ },
+ {
+  "name": "vitamin",
+  "trans": "n.维他命,维生素"
+ },
+ {
+  "name": "vivid",
+  "trans": "adj.生动的,鲜明的,鲜艳的,大胆的,清晰的,活泼的,逼真的"
+ },
+ {
+  "name": "vocabulary",
+  "trans": "n.词汇,词汇量,词表"
+ },
+ {
+  "name": "volcano",
+  "trans": "n.火山"
+ },
+ {
+  "name": "volume",
+  "trans": "n.卷,册,体积,量,大量,音量"
+ },
+ {
+  "name": "voluntary",
+  "trans": "adj.自动的,自愿的,主动的,故意的,非官办的,志愿的,自发的"
+ },
+ {
+  "name": "vote",
+  "trans": "n.投票,选举,选票,选举权,表决,得票数vi.投票,选举vt.投票选举,投票决定,公认,<口>建议,使投票"
+ },
+ {
+  "name": "voyage",
+  "trans": "n.航程,航空,航海记,旅行记vi.航海,航行vt.渡过,飞过"
+ },
+ {
+  "name": "wage",
+  "trans": "n.[常pl.] 工资v.发动"
+ },
+ {
+  "name": "waggon",
+  "trans": "(=wagon)"
+ },
+ {
+  "name": "waist",
+  "trans": "n.腰部,腰,衣服的上身部分,背心"
+ },
+ {
+  "name": "waken",
+  "trans": "vi.醒来vt.唤醒"
+ },
+ {
+  "name": "wander",
+  "trans": "vi.漫步,徘徊,迷路,迷失方向,离题"
+ },
+ {
+  "name": "war",
+  "trans": "n.战争vi.作战,打仗"
+ },
+ {
+  "name": "warm",
+  "trans": "adj.暖和的,暖的,温暖的,色情的,激烈的,热烈的,多情的,兴奋的adv.(常用以构成复合词)暖和地vt.使温暖,弄热,使兴奋,使热烈vi.变暖和,变温暖,激动,同情,爱好n.暖,保暖物"
+ },
+ {
+  "name": "warmth",
+  "trans": "n.暖和,温暖,热心,热情"
+ },
+ {
+  "name": "warn",
+  "trans": "vt.警告,注意,通知vi.发出警告,发出预告"
+ },
+ {
+  "name": "wash",
+  "trans": "n.洗,洗涤,冲洗,洗涤剂,洼地,洗的衣服,冲积物vt.洗,洗涤,洗清,粉刷,冲出,弄湿,流过,镀金于vi.洗涤,洗澡,被冲蚀,漂浮adj.耐洗的,(证券交易)虚假的"
+ },
+ {
+  "name": "waste",
+  "trans": "n.废物,浪费,损耗,消耗,地面风化物,垃圾,荒地adj.废弃的,荒芜的,多余的vt.浪费,消耗,使荒芜vi.被浪费,挥霍钱财,变消瘦,被损耗"
+ },
+ {
+  "name": "waterproof",
+  "trans": "adj.防水的,不透水的"
+ },
+ {
+  "name": "wave",
+  "trans": "n.波,波浪,(挥手)示意,致意vi.(挥手)示意,致意,波动,飘动,摇动"
+ },
+ {
+  "name": "wax",
+  "trans": "n.蜡,蜡状物,增加,月亮由亏转盈vi.变大,增大,月亮渐满vt.上蜡于"
+ },
+ {
+  "name": "way",
+  "trans": "n.路,路线,路途,习惯,行业,规模,道路,情形adj.中途,途中的adv.远远地,大大地,非常"
+ },
+ {
+  "name": "weak",
+  "trans": "adj.不牢固的,弱的,虚弱的,软弱的,淡的,疲软的,无力的,不耐用的"
+ },
+ {
+  "name": "weakness",
+  "trans": "n.虚弱,软弱,弱点,缺点"
+ },
+ {
+  "name": "wealth",
+  "trans": "n.财富,财产,大量"
+ },
+ {
+  "name": "wealthy",
+  "trans": "adj.富有的,丰裕的,充分的n.富人,有钱人"
+ },
+ {
+  "name": "weapon",
+  "trans": "n.武器"
+ },
+ {
+  "name": "wear",
+  "trans": "vt.穿,戴v.(～ out) 磨损,用旧,(～ out) 穿着"
+ },
+ {
+  "name": "weave",
+  "trans": "n.编法,织法,编织vt.编织,组合,编排,使迂回前进vi.纺织,迂回行进,摇晃n.织法,织物"
+ },
+ {
+  "name": "wedding",
+  "trans": "n.婚礼,婚宴,结合,结婚典礼"
+ },
+ {
+  "name": "weed",
+  "trans": "n.野草,杂草v.除草,铲除"
+ },
+ {
+  "name": "weekday",
+  "trans": "n.周日,平日"
+ },
+ {
+  "name": "weekly",
+  "trans": "adj.每星期的,一周的adv.每周一次n.周刊,周报"
+ },
+ {
+  "name": "weep",
+  "trans": "n.哭,哭泣,滴下vi.哭泣,流泪,哀悼,滴落vt.哭着使...,悲叹,滴下"
+ },
+ {
+  "name": "weigh",
+  "trans": "vt.称...重量,称vi.重(若干)"
+ },
+ {
+  "name": "weight",
+  "trans": "n.重力,重量,分量,砝码,重要(性),势力,负担,重累"
+ },
+ {
+  "name": "welcome",
+  "trans": "n.欢迎vt.欢迎int.欢迎adj.受欢迎的"
+ },
+ {
+  "name": "welfare",
+  "trans": "n.福利,安宁,幸福,福利事业,社会安全adj.福利的"
+ },
+ {
+  "name": "well",
+  "trans": "n.井vi.涌出adj.健康的,良好的,适当的adv.好,满意地,充分地,彻底地,有理地,适当地,夸奖地int.唔,咳"
+ },
+ {
+  "name": "western",
+  "trans": "adj.西的,西方的,来自西方的人,有西方特征的"
+ },
+ {
+  "name": "westward",
+  "trans": "n.西方,西部,向西旅行adj.西方的,向西的adv.向西"
+ },
+ {
+  "name": "whatever",
+  "trans": "pron.凡是...,无论什么adj.无论怎样的,无论哪一种的,什么也"
+ },
+ {
+  "name": "wheat",
+  "trans": "n.小麦,小麦色,淡黄色,朴实的人"
+ },
+ {
+  "name": "wheel",
+  "trans": "n.轮,车轮,轮子"
+ },
+ {
+  "name": "whenever",
+  "trans": "conj.无论何时,随时n.只要"
+ },
+ {
+  "name": "wherever",
+  "trans": "adv.无论那里,无论什么情况下"
+ },
+ {
+  "name": "whether",
+  "trans": "conj.是否,不管,无论"
+ },
+ {
+  "name": "whichever",
+  "trans": "pron.无论那一个,任何一个"
+ },
+ {
+  "name": "whip",
+  "trans": "n.鞭子,车夫v.鞭打,抽打,突然移动"
+ },
+ {
+  "name": "whisper",
+  "trans": "n.耳语,私语,密谈,谣传,飒飒的声音vi.耳语,密谈,飒飒地响vt.低声说"
+ },
+ {
+  "name": "whistle",
+  "trans": "n.口哨,汽笛,口哨声,汽笛声v.吹口哨,鸣汽笛"
+ },
+ {
+  "name": "whoever",
+  "trans": "pron.任何人,无论谁"
+ },
+ {
+  "name": "whose",
+  "trans": "pron.谁的,那(些)人的"
+ },
+ {
+  "name": "wicked",
+  "trans": "adj.坏的,邪恶的,缺德的,不道德的,恶劣的,刻毒的,淘气的"
+ },
+ {
+  "name": "wide",
+  "trans": "adj.宽的,广阔的,张大的,远离目标的adv.广阔地,广大地,远离目标地"
+ },
+ {
+  "name": "widen",
+  "trans": "v.加宽,放宽,扩展"
+ },
+ {
+  "name": "widespread",
+  "trans": "adj.分布广泛的,普遍的"
+ },
+ {
+  "name": "widow",
+  "trans": "n.寡妇v.使成寡妇(或鳏夫)"
+ },
+ {
+  "name": "width",
+  "trans": "n.宽度,宽广,广博,有一定宽度的东西(如一快布料等) /n.宽/高比"
+ },
+ {
+  "name": "wife",
+  "trans": "n.妻子"
+ },
+ {
+  "name": "wild",
+  "trans": "adj.野性的,野生的,野蛮的,狂热的,疯狂的"
+ },
+ {
+  "name": "willing",
+  "trans": "adj.乐意的,自愿的,心甘情愿的,反应迅速的"
+ },
+ {
+  "name": "win",
+  "trans": "v.(获)胜,赢得,劝诱,取得胜利n.赢,胜利"
+ },
+ {
+  "name": "wind",
+  "trans": "n.风v.绕,缠,上发条,旋紧"
+ },
+ {
+  "name": "wine",
+  "trans": "n.葡萄酒,酒"
+ },
+ {
+  "name": "wing",
+  "trans": "n.翅,翅膀,翼,飞翔,机翼,派别vt.装以翼,飞过,使飞,空运,增加...速度vi.飞,飞行"
+ },
+ {
+  "name": "winner",
+  "trans": "n.胜利者,优胜者,获胜的事物"
+ },
+ {
+  "name": "winter",
+  "trans": "n.冬,冬季,萧条期,衰退期adj.冬天的vt.对...进行冬天保护vi.过冬"
+ },
+ {
+  "name": "wipe",
+  "trans": "v.擦,揩,擦去"
+ },
+ {
+  "name": "wire",
+  "trans": "n.金属丝,电线,电报,电信,铁丝网vt.用金属丝卷起,拍电报vi.打电报adj.金属丝制的"
+ },
+ {
+  "name": "wisdom",
+  "trans": "n.智慧,明智的行为,学识,名言,贤人,至理名言"
+ },
+ {
+  "name": "wise",
+  "trans": "adj.英明的,明智的,慎虑的,聪明的,博学的,明白的,贤明的,狡猾的vi.知道vt.告诉,劝导n.方法,方式"
+ },
+ {
+  "name": "wit",
+  "trans": "n.智力,才智,智慧"
+ },
+ {
+  "name": "withdraw",
+  "trans": "vt.收回,撤消vi.缩回,退出v.撤退"
+ },
+ {
+  "name": "within",
+  "trans": "n.内部,里头adv.在内部,在内心里 prep.在...之内,不越出adj.里面的,内部的"
+ },
+ {
+  "name": "without",
+  "trans": "prep.没有,不,(表条件)如果没有,要没有adv.在外,在屋外"
+ },
+ {
+  "name": "witness",
+  "trans": "n.[律]证人,目击者,证据,证明,证词vt.目击,为...作证,证明,表明vi.作证,成为证据"
+ },
+ {
+  "name": "wolf",
+  "trans": "n.狼,残忍贪婪之人,极度的穷困vt.狼吞虎咽,大吃vi.猎狼"
+ },
+ {
+  "name": "woman",
+  "trans": "n.女人,妇女,女仆adj.女人的,女性的,妇女的vt.为...配备妇女,使成女人腔"
+ },
+ {
+  "name": "wonder",
+  "trans": "n.奇迹,惊奇,惊愕vt.对...感到惊讶,惊奇,想知道vi.惊讶,怀疑adj.非凡的,奇妙的"
+ },
+ {
+  "name": "wood",
+  "trans": "n.木头,木材,树木"
+ },
+ {
+  "name": "wooden",
+  "trans": "adj.木制的"
+ },
+ {
+  "name": "wool",
+  "trans": "n.羊毛,毛织品,毛线,绒线,毛料衣物"
+ },
+ {
+  "name": "woollen",
+  "trans": "n.毛织品adj.羊毛制的"
+ },
+ {
+  "name": "work",
+  "trans": "n.工作,劳动,操作,职业,[物]功,手工,作品,机件v.(使)工作,(使)运转,起作用,造成,产生,经营,(使)渐渐移动,煅制"
+ },
+ {
+  "name": "workman",
+  "trans": "n.工人,工匠,男工"
+ },
+ {
+  "name": "works",
+  "trans": "工厂"
+ },
+ {
+  "name": "workshop",
+  "trans": "n.车间,工场"
+ },
+ {
+  "name": "world-wide",
+  "trans": "全世界的"
+ },
+ {
+  "name": "worm",
+  "trans": "n.虫,蠕虫,蚯蚓,蜗杆,螺纹,小人物;vi.蠕行,慢慢前进;vt.使蠕行,慢慢地走,给(烟草作物)除虫"
+ },
+ {
+  "name": "worn",
+  "trans": "adj.用旧的,疲倦的 vbl.wear的过去分词"
+ },
+ {
+  "name": "worry",
+  "trans": "n.烦恼,忧虑,苦恼,撕咬vt.使烦恼,使焦虑,使苦恼,撕咬,困扰,折磨vi.烦恼,担心,撕咬,挣扎着前进"
+ },
+ {
+  "name": "worse",
+  "trans": "n.(人或事)较坏者,更坏的事,更恶劣的事,败北adj.更坏的,更恶劣的adv.更坏地,更恶劣地"
+ },
+ {
+  "name": "worship",
+  "trans": "n.崇拜,礼拜,尊敬vi.敬神,拜神vt.崇拜,尊敬"
+ },
+ {
+  "name": "worst",
+  "trans": "adj.最坏的,最差的adv.最坏,最差"
+ },
+ {
+  "name": "worth",
+  "trans": "prep.相当...价值n.价值,财产adj.值钱的,值的看中的"
+ },
+ {
+  "name": "worthless",
+  "trans": "adj.无价值的,无益的"
+ },
+ {
+  "name": "worthwhile",
+  "trans": "adj.值得做的,值得出力的"
+ },
+ {
+  "name": "would",
+  "trans": "v.aux.will的过去式,将,愿意"
+ },
+ {
+  "name": "wound",
+  "trans": "n.创伤,伤口vt.伤,伤寒v.击伤"
+ },
+ {
+  "name": "wrap",
+  "trans": "n.外套,围巾,包裹,秘密,约束,限制vt.包装,卷,缠绕,包,覆盖,裹,遮蔽,隐藏vi.缠绕,重叠,穿外衣,包起来"
+ },
+ {
+  "name": "wreck",
+  "trans": "n.失事船(或飞机),残骸,(船,飞机的)失事vt.破坏,拆毁"
+ },
+ {
+  "name": "wrist",
+  "trans": "n.手腕,腕关节"
+ },
+ {
+  "name": "x-ray",
+  "trans": "射线，X光"
+ },
+ {
+  "name": "yard",
+  "trans": "n.院子,码"
+ },
+ {
+  "name": "yawn",
+  "trans": "v.打呵欠,张开,裂开n.呵欠"
+ },
+ {
+  "name": "yearly",
+  "trans": "adj.每年的;adv.每年"
+ },
+ {
+  "name": "yell",
+  "trans": "vi.大叫,忍不住笑,呼喊vt.叫着说n.叫声,喊声"
+ },
+ {
+  "name": "yield",
+  "trans": "v.出产,生长,生产vi.(～ to)屈服,屈从n.产量,收益"
+ },
+ {
+  "name": "your",
+  "trans": "pron.你的,你们的"
+ },
+ {
+  "name": "yours",
+  "trans": "pron.你的,你们的"
+ },
+ {
+  "name": "yourself",
+  "trans": "pron.你自己"
+ },
+ {
+  "name": "youth",
+  "trans": "n.青春,青年时期,初期,少年,青年们"
+ },
+ {
+  "name": "zero",
+  "trans": "n.零点,零度 num.零"
+ },
+ {
+  "name": "zone",
+  "trans": "n.地域,地带,地区,环带,圈vt.环绕,使分成地带vi.分成区"
+ }
+]
